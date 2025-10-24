@@ -336,7 +336,7 @@ def display_statistics(df):
 
 if __name__ == "__main__":
     # Configuration
-    YEARS_TO_SCRAPE = 3  # Last 3 years (including current year)
+    YEARS_TO_SCRAPE = 8  # Last 3 years (including current year)
     OUTPUT_DIR = "data"
     
     # Run the scraper
