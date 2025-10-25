@@ -190,7 +190,7 @@ def scrape_phivolcs_data_from_html(year, month_name):
 def scrape_year_data(year, output_dir="data"):
     """
     Scrapes earthquake data for all months in a given year.
-    Returns the combined DataFrame for that year.
+    Cleans, standardizes, saves the combined DataFrame, and reports on removed rows.
     """
     print(f"\n{'─'*70}")
     print(f"📅 Scraping Year: {year}")
@@ -204,7 +204,7 @@ def scrape_year_data(year, output_dir="data"):
     for month_name in MONTH_NAMES:
         # Skip future months if we've already found the current month
         if current_month_found:
-            print(f"  Skipping: {month_name} {year} (future month)")
+            print(f"  Skipping: {month_name} {year} (future month)")
             failed_months.append(month_name)
             continue
             
@@ -217,7 +217,7 @@ def scrape_year_data(year, output_dir="data"):
             # Check if this data came from the main page (current month indicator)
             if year == datetime.now().year and month_name == datetime.now().strftime("%B"):
                 current_month_found = True
-                print(f"  ℹ️  Current month detected: {month_name} {year}")
+                print(f"  ℹ️  Current month detected: {month_name} {year}")
         else:
             failed_months.append(month_name)
             # If we get a failure on the current year, it might be the current month
@@ -231,6 +231,74 @@ def scrape_year_data(year, output_dir="data"):
     if all_data:
         combined_df = pd.concat(all_data, ignore_index=True)
         
+        # --- START DATA CLEANING & STANDARDIZATION ---
+        print(f"  Cleaning and standardizing {len(combined_df)} total records for {year}...")
+        
+        # 1. Standardize column names (all lowercase)
+        combined_df.columns = [str(col).lower() for col in combined_df.columns]
+        
+        # 2. Define columns to clean
+        numeric_cols = ['latitude', 'longitude', 'depth', 'magnitude']
+        
+        # 3. Convert to numeric, turning errors (e.g., '---') into NaN
+        for col in numeric_cols:
+            combined_df[col] = pd.to_numeric(combined_df[col], errors='coerce')
+            
+        # 4. Find rows to be removed due to NaN (missing lat, long, depth, or mag)
+        nan_mask = combined_df[numeric_cols].isnull().any(axis=1)
+        removed_nan_rows = combined_df[nan_mask]
+        
+        # Now, drop them
+        combined_df = combined_df.dropna(subset=numeric_cols)
+        
+        # 5. Find rows to be removed for 'Null Island' (0,0)
+        null_island_mask = ((combined_df['latitude'] == 0) & (combined_df['longitude'] == 0))
+        removed_null_island_rows = combined_df[~nan_mask & null_island_mask] # Only check rows that weren't already marked for NaN removal
+        
+        # Now, filter them out
+        combined_df = combined_df[~null_island_mask]
+        
+        # --- START: Report removed rows ---
+        all_removed_rows = pd.concat([removed_nan_rows, removed_null_island_rows])
+        removed_count = len(all_removed_rows)
+
+        if removed_count > 0:
+            print(f"  • Removed {removed_count} invalid/corrupt rows for {year}:")
+            # Print the removed rows in a tidy format
+            with pd.option_context('display.max_rows', None, 
+                                   'display.max_columns', None, 
+                                   'display.width', 1000):
+                # Show the original columns before they were renamed
+                columns_to_show = ['date-time', 'latitude', 'longitude', 'depth', 'magnitude', 'location']
+                existing_cols_to_show = [col for col in columns_to_show if col in all_removed_rows.columns]
+                
+                # Use .to_string() for clean console output
+                print(all_removed_rows[existing_cols_to_show].to_string(index=False))
+        # --- END: Report removed rows ---
+
+        # 6. Rename columns to match the React app's interface
+        combined_df = combined_df.rename(columns={
+            'date-time': 'datetime',
+            'depth': 'depth_km',
+        })
+        
+        # 7. Create a unique ID
+        combined_df['id'] = combined_df.apply(
+            lambda row: f"{row['datetime']}-{row['latitude']:.4f}-{row['longitude']:.4f}-{row['magnitude']}",
+            axis=1
+        )
+        
+        # 8. Reorder columns
+        final_columns = [
+            'id', 'datetime', 'latitude', 'longitude', 
+            'depth_km', 'magnitude', 'location', 'month', 'year'
+        ]
+        existing_final_columns = [col for col in final_columns if col in combined_df.columns]
+        combined_df = combined_df[existing_final_columns]
+        
+        print(f"  • {len(combined_df)} valid records remaining for {year}.")
+        # --- END DATA CLEANING & STANDARDIZATION ---
+        
         # Create output directory if it doesn't exist
         os.makedirs(output_dir, exist_ok=True)
         
@@ -239,9 +307,9 @@ def scrape_year_data(year, output_dir="data"):
         combined_df.to_csv(output_filename, index=False, encoding='utf-8-sig')
         
         print(f"\n✓ Year {year} Complete:")
-        print(f"  • Total records: {len(combined_df)}")
-        print(f"  • Successful months: {len(successful_months)}")
-        print(f"  • File saved: {output_filename}")
+        print(f"  • Total records: {len(combined_df)}")
+        print(f"  • Successful months: {len(successful_months)}")
+        print(f"  • File saved: {output_filename}")
         
         return combined_df
     else:
@@ -252,7 +320,8 @@ def scrape_year_data(year, output_dir="data"):
 def scrape_multiple_years(years_back=3, output_dir="data"):
     """
     Scrapes earthquake data for the last N years.
-    Each year is saved as a separate CSV file.
+    Each year is saved as a separate CSV.
+    The final combined data is saved as a single JSON file.
     """
     current_year = datetime.now().year
     start_year = current_year - years_back + 1
@@ -277,11 +346,18 @@ def scrape_multiple_years(years_back=3, output_dir="data"):
         else:
             scrape_summary[year] = 0
     
-    # Create a combined file with all years
+    # Create a combined JSON file with all years
     if all_years_data:
         combined_all = pd.concat(all_years_data, ignore_index=True)
-        combined_filename = os.path.join(output_dir, f"phivolcs_earthquake_all_years.csv")
-        combined_all.to_csv(combined_filename, index=False, encoding='utf-8-sig')
+        
+        # --- SAVE AS JSON FOR THE REACT APP ---
+        # Save as the JSON file the Deck.gl app is expecting
+        json_filename = os.path.join(output_dir, f"earthquakes.json")
+        combined_all.to_json(json_filename, orient='records', indent=4)
+        
+        # Also save the combined CSV as before
+        combined_csv_filename = os.path.join(output_dir, f"phivolcs_earthquake_all_years.csv")
+        combined_all.to_csv(combined_csv_filename, index=False, encoding='utf-8-sig')
         
         # Print final summary
         print(f"\n{'='*70}")
@@ -289,13 +365,14 @@ def scrape_multiple_years(years_back=3, output_dir="data"):
         print(f"{'='*70}")
         print(f"\n📊 Summary by Year:")
         for year, count in scrape_summary.items():
-            print(f"  • {year}: {count:,} earthquakes")
+            print(f"  • {year}: {count:,} earthquakes")
         print(f"\n📈 Total Records: {len(combined_all):,}")
         print(f"\n📁 Files Created:")
         for year in range(start_year, current_year + 1):
             if scrape_summary.get(year, 0) > 0:
-                print(f"  • {output_dir}/phivolcs_earthquake_{year}.csv")
-        print(f"  • {output_dir}/phivolcs_earthquake_all_years.csv (combined)")
+                print(f"  • {output_dir}/phivolcs_earthquake_{year}.csv")
+        print(f"  • {combined_csv_filename} (combined CSV)")
+        print(f"  ✨ {json_filename} (combined JSON for app)")
         print(f"\n{'='*70}\n")
         
         return combined_all, scrape_summary
@@ -307,6 +384,7 @@ def scrape_multiple_years(years_back=3, output_dir="data"):
 def display_statistics(df):
     """
     Display basic statistics about the scraped data.
+    Uses the new standardized (lowercase) column names.
     """
     if df is None or df.empty:
         return
@@ -317,19 +395,22 @@ def display_statistics(df):
     
     # Magnitude statistics
     print("🔢 Magnitude Statistics:")
-    print(df['Magnitude'].describe())
+    # Use new 'magnitude' column
+    print(df['magnitude'].describe())
     
     # Yearly breakdown
     print(f"\n📅 Earthquakes by Year:")
-    yearly_counts = df.groupby('Year').size().sort_index()
+    # Use new 'year' column
+    yearly_counts = df.groupby('year').size().sort_index()
     for year, count in yearly_counts.items():
-        print(f"  • {year}: {count:,} earthquakes")
+        print(f"  • {year}: {count:,} earthquakes")
     
     # Top 10 strongest earthquakes
     print(f"\n💥 Top 10 Strongest Earthquakes:")
-    top_10 = df.nlargest(10, 'Magnitude')[['Date-Time', 'Magnitude', 'Location', 'Year']]
+    # Use new lowercase columns
+    top_10 = df.nlargest(10, 'magnitude')[['datetime', 'magnitude', 'location', 'year']]
     for idx, row in top_10.iterrows():
-        print(f"  • Mag {row['Magnitude']} - {row['Location'][:50]} ({row['Year']})")
+        print(f"  • Mag {row['magnitude']} - {row['location'][:50]} ({row['year']})")
     
     print(f"\n{'='*70}\n")
 
