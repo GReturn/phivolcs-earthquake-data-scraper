@@ -237,6 +237,11 @@ def scrape_year_data(year, output_dir="data"):
         # 1. Standardize column names (all lowercase)
         combined_df.columns = [str(col).lower() for col in combined_df.columns]
         
+        # 1b. Fix encoding artifacts in 'location' field
+        if 'location' in combined_df.columns:
+            # .astype(str) handles any non-string data (like NaN) gracefully
+            combined_df['location'] = combined_df['location'].astype(str).str.replace('Â', '')
+        
         # 2. Define columns to clean
         numeric_cols = ['latitude', 'longitude', 'depth', 'magnitude']
         
