@@ -113076,62 +113076,105 @@
 01 October 2025 - 12:06 AM-10.9500-123.8900-2.0,01 October 2025 - 12:06 AM,10.95,123.89,2.0,2.0,014  km S 42° W of City Of Bogo (Cebu),October,2025
 01 October 2025 - 12:04 AM-11.0500-123.9700-3.6,01 October 2025 - 12:04 AM,11.05,123.97,8.0,3.6,001  km N 49° W of City Of Bogo (Cebu),October,2025
 01 October 2025 - 12:01 AM-10.8300-123.9500-4.5,01 October 2025 - 12:01 AM,10.83,123.95,10.0,4.5,024  km S 08° W of City Of Bogo (Cebu),October,2025
+29 November 2025 - 10:39 AM-14.0500-120.4800-1.9,29 November 2025 - 10:39 AM,14.05,120.48,97.0,1.9,017  km S 82° W of Nasugbu (Batangas),November,2025
+29 November 2025 - 09:27 AM-10.9200-123.9100-2.4,29 November 2025 - 09:27 AM,10.92,123.91,1.0,2.4,016  km S 29° W of City Of Bogo (Cebu),November,2025
+29 November 2025 - 09:14 AM-18.1200-120.9000-1.8,29 November 2025 - 09:14 AM,18.12,120.9,2.0,1.8,008  km S 76° E of Carasi (Ilocos Norte),November,2025
+29 November 2025 - 08:16 AM-12.1100-120.3400-1.5,29 November 2025 - 08:16 AM,12.11,120.34,30.0,1.5,019  km N 50° E of Coron (Palawan),November,2025
+29 November 2025 - 08:11 AM-12.0400-120.4400-1.8,29 November 2025 - 08:11 AM,12.04,120.44,27.0,1.8,026  km N 79° E of Coron (Palawan),November,2025
+29 November 2025 - 07:55 AM-9.0600-126.3200-2.0,29 November 2025 - 07:55 AM,9.06,126.32,30.0,2.0,011  km N 21° E of Bayabas (Surigao Del Sur),November,2025
+29 November 2025 - 07:27 AM-11.1300-124.0700-1.9,29 November 2025 - 07:27 AM,11.13,124.07,3.0,1.9,013  km N 49° E of City Of Bogo (Cebu),November,2025
+29 November 2025 - 07:22 AM-11.2000-124.6200-1.6,29 November 2025 - 07:22 AM,11.2,124.62,33.0,1.6,007  km N 76° E of Kananga (Leyte),November,2025
+29 November 2025 - 06:59 AM-17.3700-121.8800-3.3,29 November 2025 - 06:59 AM,17.37,121.88,24.0,3.3,012  km S 47° E of San Pablo (Isabela),November,2025
+29 November 2025 - 06:50 AM-6.9100-126.4100-1.8,29 November 2025 - 06:50 AM,6.91,126.41,32.0,1.8,016  km S 15° W of Tarragona (Davao Oriental),November,2025
+29 November 2025 - 06:25 AM-10.8700-123.5500-2.0,29 November 2025 - 06:25 AM,10.87,123.55,8.0,2.0,006  km N 61° E of City Of Escalante (Negros Occidental),November,2025
+29 November 2025 - 06:12 AM-6.3000-125.9900-2.7,29 November 2025 - 06:12 AM,6.3,125.99,31.0,2.7,034  km N 72° E of Don Marcelino (Davao Occidental),November,2025
+29 November 2025 - 06:04 AM-11.1300-123.9600-2.8,29 November 2025 - 06:04 AM,11.13,123.96,10.0,2.8,010  km N 11° W of City Of Bogo (Cebu),November,2025
+29 November 2025 - 05:15 AM-5.5800-125.6600-2.4,29 November 2025 - 05:15 AM,5.58,125.66,39.0,2.4,025  km N 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+29 November 2025 - 05:06 AM-7.1600-127.0700-2.6,29 November 2025 - 05:06 AM,7.16,127.07,10.0,2.6,059  km S 85° E of Manay (Davao Oriental),November,2025
+29 November 2025 - 04:42 AM-16.3500-122.1100-2.4,29 November 2025 - 04:42 AM,16.35,122.11,7.0,2.4,008  km N 07° W of Casiguran (Aurora),November,2025
+29 November 2025 - 04:26 AM-7.3700-126.3100-2.2,29 November 2025 - 04:26 AM,7.37,126.31,32.0,2.2,022  km N 75° E of Maragusan (Davao De Oro),November,2025
+29 November 2025 - 04:10 AM-16.8800-120.6400-2.5,29 November 2025 - 04:10 AM,16.88,120.64,16.0,2.5,011  km S 84° E of Alilem (Ilocos Sur),November,2025
+29 November 2025 - 04:01 AM-7.0800-126.8500-3.8,29 November 2025 - 04:01 AM,7.08,126.85,17.0,3.8,037  km S 67° E of Manay (Davao Oriental),November,2025
+29 November 2025 - 03:22 AM-9.9100-126.1800-2.0,29 November 2025 - 03:22 AM,9.91,126.18,16.0,2.0,010  km S 76° E of San Isidro (Surigao Del Norte),November,2025
+29 November 2025 - 02:15 AM-11.1300-124.0900-2.7,29 November 2025 - 02:15 AM,11.13,124.09,4.0,2.7,015  km N 53° E of City Of Bogo (Cebu),November,2025
+29 November 2025 - 01:15 AM-11.0100-123.9700-1.6,29 November 2025 - 01:15 AM,11.01,123.97,3.0,1.6,004  km S 12° W of City Of Bogo (Cebu),November,2025
+29 November 2025 - 01:02 AM-18.9900-121.1000-2.6,29 November 2025 - 01:02 AM,18.99,121.1,23.0,2.6,017  km S 41° W of Dalupiri Island (Calayan) (Cagayan),November,2025
+28 November 2025 - 11:28 PM-5.6400-126.4400-3.2,28 November 2025 - 11:28 PM,5.64,126.44,148.0,3.2,094  km S 71° E of Jose Abad Santos (Davao Occidental),November,2025
+28 November 2025 - 10:36 PM-14.1300-121.2400-2.0,28 November 2025 - 10:36 PM,14.13,121.24,5.0,2.0,005  km S 22° E of Los BaÃ±os (Laguna),November,2025
+28 November 2025 - 10:06 PM-11.1400-125.4700-2.2,28 November 2025 - 10:06 PM,11.14,125.47,8.0,2.2,003  km N 46° E of Giporlos (Eastern Samar),November,2025
+28 November 2025 - 09:51 PM-15.5200-121.3300-1.8,28 November 2025 - 09:51 PM,15.52,121.33,31.0,1.8,007  km N 11° W of Gabaldon (Nueva Ecija),November,2025
+28 November 2025 - 09:19 PM-11.0700-123.9900-2.5,28 November 2025 - 09:19 PM,11.07,123.99,4.0,2.5,003  km N 19° E of City Of Bogo (Cebu),November,2025
+28 November 2025 - 09:19 PM-7.9300-126.8900-2.3,28 November 2025 - 09:19 PM,7.93,126.89,19.0,2.3,050  km N 72° E of Cateel (Davao Oriental),November,2025
+28 November 2025 - 08:32 PM-7.4800-126.8700-3.3,28 November 2025 - 08:32 PM,7.48,126.87,21.0,3.3,037  km N 63° E of Caraga (Davao Oriental),November,2025
+28 November 2025 - 08:29 PM-9.8500-126.3300-2.6,28 November 2025 - 08:29 PM,9.85,126.33,20.0,2.6,020  km N 69° E of General Luna (Surigao Del Norte),November,2025
+28 November 2025 - 08:09 PM-13.7500-120.6300-1.7,28 November 2025 - 08:09 PM,13.75,120.63,117.0,1.7,009  km S 03° W of Calatagan (Batangas),November,2025
+28 November 2025 - 07:17 PM-11.0000-124.0700-2.1,28 November 2025 - 07:17 PM,11.0,124.07,5.0,2.1,011  km S 64° E of City Of Bogo (Cebu),November,2025
+28 November 2025 - 06:16 PM-16.5600-122.2400-4.1,28 November 2025 - 06:16 PM,16.56,122.24,22.0,4.1,004  km N 40° W of Dinapigue (Isabela),November,2025
+28 November 2025 - 06:15 PM-11.1300-124.2000-2.2,28 November 2025 - 06:15 PM,11.13,124.2,5.0,2.2,026  km N 68° E of City Of Bogo (Cebu),November,2025
+28 November 2025 - 05:59 PM-11.0100-123.9800-2.5,28 November 2025 - 05:59 PM,11.01,123.98,4.0,2.5,004  km S 06° E of City Of Bogo (Cebu),November,2025
+28 November 2025 - 04:24 PM-6.0600-126.4800-3.3,28 November 2025 - 04:24 PM,6.06,126.48,46.0,3.3,080  km S 35° E of Governor Generoso (Davao Oriental),November,2025
+28 November 2025 - 03:53 PM-7.6700-124.6500-2.5,28 November 2025 - 03:53 PM,7.67,124.65,22.0,2.5,009  km N 70° W of Wao (Lanao Del Sur),November,2025
+28 November 2025 - 02:46 PM-13.6900-120.6000-2.1,28 November 2025 - 02:46 PM,13.69,120.6,94.0,2.1,016  km S 12° W of Calatagan (Batangas),November,2025
+28 November 2025 - 01:15 PM-4.5800-126.2300-3.4,28 November 2025 - 01:15 PM,4.58,126.23,13.0,3.4,129  km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+28 November 2025 - 11:26 AM-11.0000-123.9300-2.7,28 November 2025 - 11:26 AM,11.0,123.93,8.0,2.7,008  km S 48° W of City Of Bogo (Cebu),November,2025
+28 November 2025 - 11:15 AM-6.3300-126.5200-2.6,28 November 2025 - 11:15 AM,6.33,126.52,49.0,2.6,098  km S 01° W of Manay (Davao Oriental),November,2025
+28 November 2025 - 10:52 AM-9.1300-126.4300-2.1,28 November 2025 - 10:52 AM,9.13,126.43,11.0,2.1,028  km N 31° E of Cagwait (Surigao Del Sur),November,2025
 28 November 2025 - 09:03 AM-17.7500-120.7100-2.2,28 November 2025 - 09:03 AM,17.75,120.71,8.0,2.2,004  km N 14° E of Lagayan (Abra),November,2025
-28 November 2025 - 08:31 AM-7.7300-126.6200-2.6,28 November 2025 - 08:31 AM,7.73,126.62,24.0,2.6,018  km N 20° E of Baganga (Davao Oriental),November,2025
-28 November 2025 - 07:07 AM-11.2300-124.2900-3.4,28 November 2025 - 07:07 AM,11.23,124.29,6.0,3.4,011  km N 79° W of Villaba (Leyte),November,2025
+28 November 2025 - 08:31 AM-7.6600-126.7900-2.6,28 November 2025 - 08:31 AM,7.66,126.79,11.0,2.6,027  km N 69° E of Baganga (Davao Oriental),November,2025
+28 November 2025 - 07:07 AM-11.2400-124.3000-3.4,28 November 2025 - 07:07 AM,11.24,124.3,3.0,3.4,010  km N 71° W of Villaba (Leyte),November,2025
 28 November 2025 - 07:06 AM-7.4100-127.1800-2.9,28 November 2025 - 07:06 AM,7.41,127.18,21.0,2.9,074  km N 73° E of Manay (Davao Oriental),November,2025
-28 November 2025 - 06:54 AM-10.9300-123.9000-2.2,28 November 2025 - 06:54 AM,10.93,123.9,2.0,2.2,016  km S 36° W of City Of Bogo (Cebu),November,2025
-28 November 2025 - 06:12 AM-8.6800-127.3200-3.1,28 November 2025 - 06:12 AM,8.68,127.32,14.0,3.1,113  km S 83° E of Marihatag (Surigao Del Sur),November,2025
+28 November 2025 - 06:54 AM-10.9200-123.9000-2.2,28 November 2025 - 06:54 AM,10.92,123.9,2.0,2.2,017  km S 30° W of City Of Bogo (Cebu),November,2025
+28 November 2025 - 06:12 AM-8.6300-127.0900-3.2,28 November 2025 - 06:12 AM,8.63,127.09,1.0,3.2,088  km N 71° E of Hinatuan (Surigao Del Sur),November,2025
 28 November 2025 - 05:44 AM-11.1700-124.1000-2.1,28 November 2025 - 05:44 AM,11.17,124.1,12.0,2.1,020  km N 44° E of City Of Bogo (Cebu),November,2025
 28 November 2025 - 05:35 AM-6.3100-123.3100-2.6,28 November 2025 - 05:35 AM,6.31,123.31,34.0,2.6,086  km S 72° W of Kalamansig (Sultan Kudarat),November,2025
-28 November 2025 - 03:11 AM-8.7100-125.8100-2.9,28 November 2025 - 03:11 AM,8.71,125.81,5.0,2.9,006  km East of City Of Bayugan (Agusan Del Sur),November,2025
+28 November 2025 - 03:11 AM-8.6900-125.8100-2.9,28 November 2025 - 03:11 AM,8.69,125.81,7.0,2.9,006  km S 71° E of City Of Bayugan (Agusan Del Sur),November,2025
 28 November 2025 - 03:00 AM-11.1400-123.9800-1.4,28 November 2025 - 03:00 AM,11.14,123.98,34.0,1.4,010  km N 03° E of City Of Bogo (Cebu),November,2025
 28 November 2025 - 02:57 AM-8.5700-126.7200-1.8,28 November 2025 - 02:57 AM,8.57,126.72,28.0,1.8,048  km N 62° E of Hinatuan (Surigao Del Sur),November,2025
 28 November 2025 - 02:49 AM-9.9600-126.1000-2.2,28 November 2025 - 02:49 AM,9.96,126.1,2.0,2.2,003  km N 23° E of San Isidro (Surigao Del Norte),November,2025
-28 November 2025 - 02:43 AM-9.8300-126.2300-3.0,28 November 2025 - 02:43 AM,9.83,126.23,2.0,3.0,010  km N 58° E of General Luna (Surigao Del Norte),November,2025
-28 November 2025 - 02:26 AM-9.9800-124.2500-2.1,28 November 2025 - 02:26 AM,9.98,124.25,12.0,2.1,006  km N 42° E of Danao (Bohol),November,2025
-28 November 2025 - 02:16 AM-6.8500-127.3500-3.8,28 November 2025 - 02:16 AM,6.85,127.35,5.0,3.8,098  km S 66° E of Manay (Davao Oriental),November,2025
-28 November 2025 - 01:45 AM-3.5900-126.6200-4.1,28 November 2025 - 01:45 AM,3.59,126.62,23.0,4.1,242  km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+28 November 2025 - 02:43 AM-10.0000-126.5200-3.4,28 November 2025 - 02:43 AM,10.0,126.52,10.0,3.4,047  km N 59° E of General Luna (Surigao Del Norte),November,2025
+28 November 2025 - 02:26 AM-9.9600-124.1700-2.1,28 November 2025 - 02:26 AM,9.96,124.17,6.0,2.1,005  km N 73° W of Danao (Bohol),November,2025
+28 November 2025 - 02:16 AM-7.0600-127.0500-3.8,28 November 2025 - 02:16 AM,7.06,127.05,10.0,3.8,059  km S 73° E of Manay (Davao Oriental),November,2025
+28 November 2025 - 01:45 AM-3.8700-126.5700-4.1,28 November 2025 - 01:45 AM,3.87,126.57,10.0,4.1,213  km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
 28 November 2025 - 01:43 AM-9.6200-126.1600-1.4,28 November 2025 - 01:43 AM,9.62,126.16,34.0,1.4,018  km S 01° E of General Luna (Surigao Del Norte),November,2025
 28 November 2025 - 01:35 AM-7.9600-126.7800-1.7,28 November 2025 - 01:35 AM,7.96,126.78,20.0,1.7,040  km N 62° E of Cateel (Davao Oriental),November,2025
-28 November 2025 - 01:10 AM-10.9000-124.0300-2.4,28 November 2025 - 01:10 AM,10.9,124.03,4.0,2.4,017  km S 20° E of City Of Bogo (Cebu),November,2025
-28 November 2025 - 01:05 AM-4.3400-126.3600-3.9,28 November 2025 - 01:05 AM,4.34,126.36,172.0,3.9,157  km S 41° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
-28 November 2025 - 01:01 AM-8.4900-126.6500-2.4,28 November 2025 - 01:01 AM,8.49,126.65,4.0,2.4,038  km N 68° E of Hinatuan (Surigao Del Sur),November,2025
+28 November 2025 - 01:10 AM-10.9200-124.0200-2.5,28 November 2025 - 01:10 AM,10.92,124.02,7.0,2.5,014  km S 19° E of City Of Bogo (Cebu),November,2025
+28 November 2025 - 01:05 AM-3.8800-126.6700-3.9,28 November 2025 - 01:05 AM,3.88,126.67,44.0,3.9,218  km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+28 November 2025 - 01:01 AM-8.4500-126.7200-2.5,28 November 2025 - 01:01 AM,8.45,126.72,6.0,2.5,044  km N 77° E of Hinatuan (Surigao Del Sur),November,2025
 28 November 2025 - 12:52 AM-8.1000-124.3000-1.7,28 November 2025 - 12:52 AM,8.1,124.3,6.0,1.7,004  km S 33° E of Tagoloan (Lanao Del Norte),November,2025
 28 November 2025 - 12:28 AM-9.9700-124.2000-2.8,28 November 2025 - 12:28 AM,9.97,124.2,7.0,2.8,004  km N 33° W of Danao (Bohol),November,2025
-28 November 2025 - 12:20 AM-9.6500-126.1800-2.2,28 November 2025 - 12:20 AM,9.65,126.18,33.0,2.2,015  km S 11° E of General Luna (Surigao Del Norte),November,2025
-27 November 2025 - 11:42 PM-10.9800-122.0900-2.7,27 November 2025 - 11:42 PM,10.98,122.09,2.0,2.7,005  km S 65° W of Valderrama (Antique),November,2025
+28 November 2025 - 12:20 AM-9.6700-126.1700-2.1,28 November 2025 - 12:20 AM,9.67,126.17,27.0,2.1,013  km S 08° E of General Luna (Surigao Del Norte),November,2025
+27 November 2025 - 11:42 PM-11.1100-122.0400-2.6,27 November 2025 - 11:42 PM,11.11,122.04,7.0,2.6,004  km S 02° E of Laua-an (Antique),November,2025
 27 November 2025 - 11:40 PM-14.1200-125.0400-2.3,27 November 2025 - 11:40 PM,14.12,125.04,42.0,2.3,080  km N 62° E of Gigmoto (Catanduanes),November,2025
-27 November 2025 - 11:21 PM-11.9200-125.3200-2.1,27 November 2025 - 11:21 PM,11.92,125.32,4.0,2.1,011  km N 77° W of Taft (Eastern Samar),November,2025
+27 November 2025 - 11:21 PM-11.9600-125.3300-2.2,27 November 2025 - 11:21 PM,11.96,125.33,15.0,2.2,012  km N 58° W of Taft (Eastern Samar),November,2025
 27 November 2025 - 10:55 PM-10.9800-123.9600-1.9,27 November 2025 - 10:55 PM,10.98,123.96,4.0,1.9,007  km S 15° W of City Of Bogo (Cebu),November,2025
-27 November 2025 - 10:47 PM-7.0600-126.9400-2.6,27 November 2025 - 10:47 PM,7.06,126.94,12.0,2.6,047  km S 70° E of Manay (Davao Oriental),November,2025
+27 November 2025 - 10:47 PM-7.0400-127.0300-2.6,27 November 2025 - 10:47 PM,7.04,127.03,4.0,2.6,057  km S 71° E of Manay (Davao Oriental),November,2025
 27 November 2025 - 10:33 PM-9.6900-126.2700-1.4,27 November 2025 - 10:33 PM,9.69,126.27,33.0,1.4,016  km S 51° E of General Luna (Surigao Del Norte),November,2025
 27 November 2025 - 09:49 PM-8.9800-126.4100-2.3,27 November 2025 - 09:49 PM,8.98,126.41,31.0,2.3,014  km N 63° E of Cagwait (Surigao Del Sur),November,2025
-27 November 2025 - 09:35 PM-13.8300-120.5900-2.3,27 November 2025 - 09:35 PM,13.83,120.59,122.0,2.3,005  km S 81° W of Calatagan (Batangas),November,2025
-27 November 2025 - 09:30 PM-5.2800-126.4400-3.6,27 November 2025 - 09:30 PM,5.28,126.44,13.0,3.6,109  km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+27 November 2025 - 09:35 PM-13.8000-120.6100-2.3,27 November 2025 - 09:35 PM,13.8,120.61,114.0,2.3,005  km S 38° W of Calatagan (Batangas),November,2025
+27 November 2025 - 09:30 PM-5.4000-126.4300-3.6,27 November 2025 - 09:30 PM,5.4,126.43,22.0,3.6,103  km S 57° E of Jose Abad Santos (Davao Occidental),November,2025
 27 November 2025 - 08:44 PM-9.6600-126.3300-1.4,27 November 2025 - 08:44 PM,9.66,126.33,29.0,1.4,023  km S 55° E of General Luna (Surigao Del Norte),November,2025
-27 November 2025 - 08:31 PM-3.8500-126.5700-4.7,27 November 2025 - 08:31 PM,3.85,126.57,7.0,4.7,215  km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+27 November 2025 - 08:31 PM-4.0900-126.2100-4.7,27 November 2025 - 08:31 PM,4.09,126.21,15.0,4.7,171  km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
 27 November 2025 - 08:28 PM-11.0800-124.0300-1.8,27 November 2025 - 08:28 PM,11.08,124.03,16.0,1.8,007  km N 58° E of City Of Bogo (Cebu),November,2025
-27 November 2025 - 08:09 PM-6.0400-124.3400-2.1,27 November 2025 - 08:09 PM,6.04,124.34,24.0,2.1,018  km S 81° W of Maitum (Sarangani),November,2025
+27 November 2025 - 08:09 PM-6.0600-124.6100-2.1,27 November 2025 - 08:09 PM,6.06,124.61,4.0,2.1,012  km East of Maitum (Sarangani),November,2025
 27 November 2025 - 08:00 PM-9.5700-126.0200-1.9,27 November 2025 - 08:00 PM,9.57,126.02,24.0,1.9,008  km S 46° E of Socorro (Surigao Del Norte),November,2025
-27 November 2025 - 07:54 PM-11.0400-124.0400-2.1,27 November 2025 - 07:54 PM,11.04,124.04,29.0,2.1,007  km S 82° E of City Of Bogo (Cebu),November,2025
-27 November 2025 - 07:49 PM-5.7200-126.4100-3.4,27 November 2025 - 07:49 PM,5.72,126.41,17.0,3.4,088  km S 76° E of Jose Abad Santos (Davao Occidental),November,2025
-27 November 2025 - 07:48 PM-11.1100-123.8300-2.3,27 November 2025 - 07:48 PM,11.11,123.83,31.0,2.3,018  km N 68° W of City Of Bogo (Cebu),November,2025
+27 November 2025 - 07:54 PM-10.9800-124.0300-2.1,27 November 2025 - 07:54 PM,10.98,124.03,18.0,2.1,009  km S 38° E of City Of Bogo (Cebu),November,2025
+27 November 2025 - 07:49 PM-5.5200-126.4400-3.5,27 November 2025 - 07:49 PM,5.52,126.44,39.0,3.5,098  km S 64° E of Jose Abad Santos (Davao Occidental),November,2025
+27 November 2025 - 07:48 PM-10.9400-123.8600-2.4,27 November 2025 - 07:48 PM,10.94,123.86,6.0,2.4,017  km S 48° W of City Of Bogo (Cebu),November,2025
 27 November 2025 - 07:23 PM-10.2300-122.4900-1.6,27 November 2025 - 07:23 PM,10.23,122.49,36.0,1.6,032  km N 28° W of Cauayan (Negros Occidental),November,2025
-27 November 2025 - 07:12 PM-7.5400-124.3600-2.3,27 November 2025 - 07:12 PM,7.54,124.36,2.0,2.3,004  km N 23° W of Buldon (Maguindanao Del Norte),November,2025
+27 November 2025 - 07:12 PM-7.5300-124.3400-2.2,27 November 2025 - 07:12 PM,7.53,124.34,5.0,2.2,004  km N 68° W of Buldon (Maguindanao Del Norte),November,2025
 27 November 2025 - 07:03 PM-7.2400-126.6100-2.4,27 November 2025 - 07:03 PM,7.24,126.61,13.0,2.4,009  km N 67° E of Manay (Davao Oriental),November,2025
 27 November 2025 - 06:54 PM-7.5700-126.5400-2.3,27 November 2025 - 06:54 PM,7.57,126.54,15.0,2.3,003  km S 73° W of Baganga (Davao Oriental),November,2025
 27 November 2025 - 06:36 PM-9.0600-126.2400-1.5,27 November 2025 - 06:36 PM,9.06,126.24,23.0,1.5,008  km S 77° E of City Of Tandag (Surigao Del Sur),November,2025
 27 November 2025 - 06:23 PM-10.9800-124.0500-1.5,27 November 2025 - 06:23 PM,10.98,124.05,33.0,1.5,011  km S 44° E of City Of Bogo (Cebu),November,2025
 27 November 2025 - 06:00 PM-13.9800-120.5300-1.4,27 November 2025 - 06:00 PM,13.98,120.53,85.0,1.4,015  km S 66° W of Lian (Batangas),November,2025
 27 November 2025 - 05:07 PM-11.0200-124.1100-1.9,27 November 2025 - 05:07 PM,11.02,124.11,2.0,1.9,015  km S 79° E of City Of Bogo (Cebu),November,2025
-27 November 2025 - 04:45 PM-3.5300-126.7200-3.9,27 November 2025 - 04:45 PM,3.53,126.72,56.0,3.9,253  km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+27 November 2025 - 04:45 PM-3.5300-126.7200-4.0,27 November 2025 - 04:45 PM,3.53,126.72,64.0,4.0,253  km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
 27 November 2025 - 04:29 PM-10.9000-123.9400-2.2,27 November 2025 - 04:29 PM,10.9,123.94,9.0,2.2,017  km S 15° W of City Of Bogo (Cebu),November,2025
 27 November 2025 - 04:09 PM-13.0400-120.0300-1.9,27 November 2025 - 04:09 PM,13.04,120.03,72.0,1.9,062  km S 48° W of Paluan (Occidental Mindoro),November,2025
 27 November 2025 - 03:41 PM-8.6600-125.9400-1.5,27 November 2025 - 03:41 PM,8.66,125.94,52.0,1.5,007  km N 23° E of Prosperidad (Agusan Del Sur),November,2025
 27 November 2025 - 01:14 PM-9.7400-122.6000-1.9,27 November 2025 - 01:14 PM,9.74,122.6,29.0,1.9,011  km S 22° W of Candoni (Negros Occidental),November,2025
 27 November 2025 - 01:13 PM-9.6800-122.5800-3.0,27 November 2025 - 01:13 PM,9.68,122.58,23.0,3.0,018  km S 24° W of Candoni (Negros Occidental),November,2025
-27 November 2025 - 12:41 PM-5.0100-126.1500-4.2,27 November 2025 - 12:41 PM,5.01,126.15,102.0,4.2,091  km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),November,2025
+27 November 2025 - 12:41 PM-4.9500-126.1400-4.2,27 November 2025 - 12:41 PM,4.95,126.14,79.0,4.2,094  km S 57° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),November,2025
 27 November 2025 - 11:39 AM-9.5800-126.2300-1.6,27 November 2025 - 11:39 AM,9.58,126.23,28.0,1.6,023  km S 21° E of General Luna (Surigao Del Norte),November,2025
 27 November 2025 - 11:10 AM-18.5700-120.6900-5.0,27 November 2025 - 11:10 AM,18.57,120.69,9.0,5.0,008  km N 37° E of Burgos (Ilocos Norte),November,2025
 27 November 2025 - 10:04 AM-16.2400-119.5500-2.2,27 November 2025 - 10:04 AM,16.24,119.55,27.0,2.2,030  km N 63° W of Agno (Pangasinan),November,2025
