@@ -27,7 +27,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install requests pandas lxml html5lib
+        pip install requests pandas lxml html5lib geopandas shapely
     
     - name: Run scraper
       run: |
