@@ -4,6 +4,11 @@
 
 Automated daily scraping of earthquake data from the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://earthquake.phivolcs.dost.gov.ph/).
 
+Obtain the scraped data by using the following links:
+- https://greturn.github.io/phivolcs-earthquake-data-scraper/data/earthquakes.json
+- https://greturn.github.io/phivolcs-earthquake-data-scraper/data/earthquakes.fgb
+- https://greturn.github.io/phivolcs-earthquake-data-scraper/data/phivolcs_earthquake_all_years.csv
+
 ## 📊 About This Project
 
 This repository automatically collects and archives earthquake data from PHIVOLCS, providing:
