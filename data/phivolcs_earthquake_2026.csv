@@ -1,60 +1,108 @@
 ﻿id,datetime,latitude,longitude,depth_km,magnitude,location,month,year
-09 January 2026 - 10:19 AM-9.6400-126.2100-1.8,09 January 2026 - 10:19 AM,9.64,126.21,34,1.8,017  km S 20° E of General Luna (Surigao Del Norte),January,2026
-09 January 2026 - 09:46 AM-7.3300-126.9900-3.3,09 January 2026 - 09:46 AM,7.33,126.99,19,3.3,051  km N 75° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 09:36 AM-7.2700-127.0000-2.6,09 January 2026 - 09:36 AM,7.27,127.0,23,2.6,051  km N 82° E of Manay (Davao Oriental),January,2026
+10 January 2026 - 08:04 AM-20.2100-121.2900-3.0,10 January 2026 - 08:04 AM,20.21,121.29,33,3.0,063  km S 77° W of Sabtang (Batanes),January,2026
+10 January 2026 - 07:57 AM-10.4800-124.9400-2.1,10 January 2026 - 07:57 AM,10.48,124.94,3,2.1,012  km N 23° W of Sogod (Southern Leyte),January,2026
+10 January 2026 - 07:44 AM-6.6400-126.3900-2.4,10 January 2026 - 07:44 AM,6.64,126.39,29,2.4,035  km S 87° E of Governor Generoso (Davao Oriental),January,2026
+10 January 2026 - 07:40 AM-12.7900-123.0600-1.9,10 January 2026 - 07:40 AM,12.79,123.06,23,1.9,023  km S 59° W of Claveria (Masbate),January,2026
+10 January 2026 - 07:16 AM-13.9700-119.6800-2.6,10 January 2026 - 07:16 AM,13.97,119.68,2,2.6,050  km N 75° W of Lubang (Occidental Mindoro),January,2026
+10 January 2026 - 06:48 AM-8.8200-126.3400-2.4,10 January 2026 - 06:48 AM,8.82,126.34,2,2.4,012  km S 21° E of Cagwait (Surigao Del Sur),January,2026
+10 January 2026 - 06:38 AM-10.9900-124.0800-1.7,10 January 2026 - 06:38 AM,10.99,124.08,28,1.7,013  km S 63° E of City Of Bogo (Cebu),January,2026
+10 January 2026 - 05:57 AM-11.9000-124.1200-2.5,10 January 2026 - 05:57 AM,11.9,124.12,4,2.5,008  km N 74° E of Pio V. Corpus (Masbate),January,2026
+10 January 2026 - 05:44 AM-8.5800-126.4200-2.0,10 January 2026 - 05:44 AM,8.58,126.42,8,2.0,026  km N 21° E of Hinatuan (Surigao Del Sur),January,2026
+10 January 2026 - 05:02 AM-13.5300-121.4900-1.4,10 January 2026 - 05:02 AM,13.53,121.49,33,1.4,031  km N 42° E of Naujan (Oriental Mindoro),January,2026
+10 January 2026 - 04:18 AM-10.7200-125.1500-1.7,10 January 2026 - 04:18 AM,10.72,125.15,33,1.7,016  km S 78° E of Abuyog (Leyte),January,2026
+10 January 2026 - 04:15 AM-7.9800-123.3400-1.8,10 January 2026 - 04:15 AM,7.98,123.34,28,1.8,006  km S 31° E of Midsalip (Zamboanga Del Sur),January,2026
+10 January 2026 - 02:38 AM-7.2600-127.0700-3.2,10 January 2026 - 02:38 AM,7.26,127.07,13,3.2,059  km N 85° E of Manay (Davao Oriental),January,2026
+10 January 2026 - 02:31 AM-6.9700-127.1300-2.3,10 January 2026 - 02:31 AM,6.97,127.13,9,2.3,071  km S 68° E of Manay (Davao Oriental),January,2026
+10 January 2026 - 02:05 AM-13.4400-120.5800-1.4,10 January 2026 - 02:05 AM,13.44,120.58,18,1.4,012  km N 79° E of Paluan (Occidental Mindoro),January,2026
+10 January 2026 - 01:45 AM-16.3300-122.0700-2.1,10 January 2026 - 01:45 AM,16.33,122.07,3,2.1,008  km N 43° W of Casiguran (Aurora),January,2026
+10 January 2026 - 01:33 AM-7.2600-127.1200-2.5,10 January 2026 - 01:33 AM,7.26,127.12,6,2.5,065  km N 85° E of Manay (Davao Oriental),January,2026
+10 January 2026 - 01:25 AM-10.8800-123.8900-2.8,10 January 2026 - 01:25 AM,10.88,123.89,6,2.8,021  km S 28° W of City Of Bogo (Cebu),January,2026
+10 January 2026 - 01:19 AM-16.3900-122.0200-1.8,10 January 2026 - 01:19 AM,16.39,122.02,12,1.8,016  km N 42° W of Casiguran (Aurora),January,2026
+10 January 2026 - 01:12 AM-16.4200-122.1400-3.1,10 January 2026 - 01:12 AM,16.42,122.14,10,3.1,008  km N 71° W of Dilasag (Aurora),January,2026
+10 January 2026 - 12:00 AM-16.1600-119.6200-4.2,10 January 2026 - 12:00 AM,16.16,119.62,29,4.2,020  km N 75° W of Agno (Pangasinan),January,2026
+09 January 2026 - 11:08 PM-16.0900-120.7600-1.7,09 January 2026 - 11:08 PM,16.09,120.76,11,1.7,003  km N 07° W of San Nicolas (Pangasinan),January,2026
+09 January 2026 - 10:51 PM-18.5400-120.4400-2.9,09 January 2026 - 10:51 PM,18.54,120.44,23,2.9,022  km N 83° W of Burgos (Ilocos Norte),January,2026
+09 January 2026 - 10:37 PM-7.3600-127.0400-2.4,09 January 2026 - 10:37 PM,7.36,127.04,5,2.4,058  km N 74° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 10:06 PM-7.9800-126.9500-2.3,09 January 2026 - 10:06 PM,7.98,126.95,13,2.3,058  km N 69° E of Cateel (Davao Oriental),January,2026
+09 January 2026 - 09:49 PM-9.6300-126.3800-3.5,09 January 2026 - 09:49 PM,9.63,126.38,13,3.5,030  km S 56° E of General Luna (Surigao Del Norte),January,2026
+09 January 2026 - 09:39 PM-13.5400-120.0400-1.8,09 January 2026 - 09:39 PM,13.54,120.04,33,1.8,030  km S 49° W of Looc (Occidental Mindoro),January,2026
+09 January 2026 - 09:05 PM-18.7200-121.5300-2.1,09 January 2026 - 09:05 PM,18.72,121.53,8,2.1,022  km S 50° E of Fuga Island (Aparri) (Cagayan),January,2026
+09 January 2026 - 08:24 PM-13.7500-120.5400-2.5,09 January 2026 - 08:24 PM,13.75,120.54,208,2.5,031  km N 84° E of Looc (Occidental Mindoro),January,2026
+09 January 2026 - 08:06 PM-14.1700-124.1000-1.8,09 January 2026 - 08:06 PM,14.17,124.1,14,1.8,016  km N 28° W of Pandan (Catanduanes),January,2026
+09 January 2026 - 07:04 PM-7.2000-126.7800-1.6,09 January 2026 - 07:04 PM,7.2,126.78,26,1.6,027  km S 89° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 07:04 PM-9.6000-126.7700-3.6,09 January 2026 - 07:04 PM,9.6,126.77,14,3.6,070  km S 73° E of General Luna (Surigao Del Norte),January,2026
+09 January 2026 - 06:48 PM-10.8700-124.1000-1.6,09 January 2026 - 06:48 PM,10.87,124.1,27,1.6,024  km S 35° E of City Of Bogo (Cebu),January,2026
+09 January 2026 - 05:43 PM-7.4900-127.1400-2.9,09 January 2026 - 05:43 PM,7.49,127.14,33,2.9,065  km S 81° E of Baganga (Davao Oriental),January,2026
+09 January 2026 - 05:26 PM-7.2300-126.9700-2.8,09 January 2026 - 05:26 PM,7.23,126.97,27,2.8,047  km N 87° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 05:11 PM-20.1200-121.8500-2.5,09 January 2026 - 05:11 PM,20.12,121.85,24,2.5,024  km S 05° W of Sabtang (Batanes),January,2026
+09 January 2026 - 04:40 PM-15.0000-120.3200-1.7,09 January 2026 - 04:40 PM,15.0,120.32,102,1.7,015  km N 63° E of Castillejos (Zambales),January,2026
+09 January 2026 - 03:15 PM-10.0000-125.2800-2.4,09 January 2026 - 03:15 PM,10.0,125.28,153,2.4,007  km N 35° E of Pintuyan (Southern Leyte),January,2026
+09 January 2026 - 02:57 PM-9.4800-126.1600-1.4,09 January 2026 - 02:57 PM,9.48,126.16,32,1.4,023  km N 07° W of Cortes (Surigao Del Sur),January,2026
+09 January 2026 - 02:35 PM-10.9100-123.8800-2.7,09 January 2026 - 02:35 PM,10.91,123.88,2,2.7,018  km S 35° W of City Of Bogo (Cebu),January,2026
+09 January 2026 - 01:15 PM-6.6700-126.0800-2.9,09 January 2026 - 01:15 PM,6.67,126.08,51,2.9,002  km N 29° E of Governor Generoso (Davao Oriental),January,2026
+09 January 2026 - 12:55 PM-8.7900-126.2700-1.4,09 January 2026 - 12:55 PM,8.79,126.27,29,1.4,003  km S 63° W of Marihatag (Surigao Del Sur),January,2026
+09 January 2026 - 12:13 PM-9.6700-126.2300-1.7,09 January 2026 - 12:13 PM,9.67,126.23,37,1.7,015  km S 31° E of General Luna (Surigao Del Norte),January,2026
+09 January 2026 - 12:12 PM-6.1500-124.5900-2.0,09 January 2026 - 12:12 PM,6.15,124.59,10,2.0,015  km N 49° E of Maitum (Sarangani),January,2026
+09 January 2026 - 12:03 PM-11.4800-125.4000-2.2,09 January 2026 - 12:03 PM,11.48,125.4,24,2.2,011  km S 78° W of Maydolong (Eastern Samar),January,2026
+09 January 2026 - 11:58 AM-9.6600-126.2100-1.5,09 January 2026 - 11:58 AM,9.66,126.21,32,1.5,015  km S 25° E of General Luna (Surigao Del Norte),January,2026
+09 January 2026 - 11:42 AM-7.3000-126.9700-2.2,09 January 2026 - 11:42 AM,7.3,126.97,15,2.2,048  km N 78° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 11:05 AM-7.1300-126.9300-2.7,09 January 2026 - 11:05 AM,7.13,126.93,9,2.7,044  km S 79° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 10:19 AM-9.6600-126.2400-1.7,09 January 2026 - 10:19 AM,9.66,126.24,26,1.7,017  km S 33° E of General Luna (Surigao Del Norte),January,2026
+09 January 2026 - 09:46 AM-7.2200-127.2300-3.3,09 January 2026 - 09:46 AM,7.22,127.23,11,3.3,076  km N 90° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 09:36 AM-7.2400-126.9300-2.6,09 January 2026 - 09:36 AM,7.24,126.93,15,2.6,043  km N 86° E of Manay (Davao Oriental),January,2026
 09 January 2026 - 09:19 AM-7.2600-126.8900-2.7,09 January 2026 - 09:19 AM,7.26,126.89,20,2.7,039  km N 82° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 09:10 AM-8.7400-126.2400-1.7,09 January 2026 - 09:10 AM,8.74,126.24,33,1.7,001  km S 67° E of San Agustin (Surigao Del Sur),January,2026
-09 January 2026 - 08:03 AM-10.8300-124.1000-2.1,09 January 2026 - 08:03 AM,10.83,124.1,25,2.1,028  km S 29° E of City Of Bogo (Cebu),January,2026
-09 January 2026 - 07:32 AM-11.7700-126.2100-2.3,09 January 2026 - 07:32 AM,11.77,126.21,101,2.3,080  km N 54° E of Hernani (Eastern Samar),January,2026
-09 January 2026 - 06:24 AM-6.3600-125.2700-2.6,09 January 2026 - 06:24 AM,6.36,125.27,88,2.6,002  km S 05° W of Malungon (Sarangani),January,2026
+09 January 2026 - 09:10 AM-8.8000-126.3200-1.8,09 January 2026 - 09:10 AM,8.8,126.32,25,1.8,012  km N 61° E of San Agustin (Surigao Del Sur),January,2026
+09 January 2026 - 08:03 AM-10.9500-124.0000-2.1,09 January 2026 - 08:03 AM,10.95,124.0,16,2.1,011  km S 11° E of City Of Bogo (Cebu),January,2026
+09 January 2026 - 07:33 AM-11.4500-125.8900-2.4,09 January 2026 - 07:33 AM,11.45,125.89,7,2.4,032  km N 68° E of Hernani (Eastern Samar),January,2026
+09 January 2026 - 06:24 AM-6.3700-125.2800-3.0,09 January 2026 - 06:24 AM,6.37,125.28,81,3.0,001  km S 31° E of Malungon (Sarangani),January,2026
 09 January 2026 - 06:10 AM-8.8100-126.1500-2.0,09 January 2026 - 06:10 AM,8.81,126.15,26,2.0,011  km N 47° W of San Agustin (Surigao Del Sur),January,2026
 09 January 2026 - 06:05 AM-8.9000-125.9400-1.7,09 January 2026 - 06:05 AM,8.9,125.94,30,1.7,011  km S 66° W of San Miguel (Surigao Del Sur),January,2026
-09 January 2026 - 05:53 AM-8.7400-126.1300-2.8,09 January 2026 - 05:53 AM,8.74,126.13,10,2.8,011  km S 86° W of San Agustin (Surigao Del Sur),January,2026
-09 January 2026 - 05:08 AM-11.1800-124.0300-2.4,09 January 2026 - 05:08 AM,11.18,124.03,27,2.4,016  km N 19° E of City Of Bogo (Cebu),January,2026
-09 January 2026 - 04:53 AM-18.3500-120.7500-2.4,09 January 2026 - 04:53 AM,18.35,120.75,50,2.4,014  km N 83° E of Pasuquin (Ilocos Norte),January,2026
-09 January 2026 - 04:38 AM-11.4200-122.1400-3.1,09 January 2026 - 04:38 AM,11.42,122.14,1,3.1,009  km S 87° E of Culasi (Antique),January,2026
+09 January 2026 - 05:53 AM-8.7200-126.2000-2.4,09 January 2026 - 05:53 AM,8.72,126.2,5,2.4,004  km S 40° W of San Agustin (Surigao Del Sur),January,2026
+09 January 2026 - 05:08 AM-11.1700-124.0300-2.4,09 January 2026 - 05:08 AM,11.17,124.03,23,2.4,015  km N 21° E of City Of Bogo (Cebu),January,2026
+09 January 2026 - 04:53 AM-18.3600-120.7100-2.5,09 January 2026 - 04:53 AM,18.36,120.71,35,2.5,010  km N 73° E of Pasuquin (Ilocos Norte),January,2026
+09 January 2026 - 04:38 AM-11.4400-122.1500-3.1,09 January 2026 - 04:38 AM,11.44,122.15,2,3.1,011  km N 85° E of Culasi (Antique),January,2026
 09 January 2026 - 04:27 AM-8.7300-126.2000-1.4,09 January 2026 - 04:27 AM,8.73,126.2,36,1.4,003  km S 48° W of San Agustin (Surigao Del Sur),January,2026
 09 January 2026 - 04:24 AM-8.7600-126.3900-1.7,09 January 2026 - 04:24 AM,8.76,126.39,30,1.7,018  km N 85° E of San Agustin (Surigao Del Sur),January,2026
 09 January 2026 - 04:21 AM-7.8900-126.8800-2.5,09 January 2026 - 04:21 AM,7.89,126.88,57,2.5,048  km N 77° E of Cateel (Davao Oriental),January,2026
-09 January 2026 - 04:20 AM-8.7200-126.2200-2.0,09 January 2026 - 04:20 AM,8.72,126.22,19,2.0,003  km S 05° W of San Agustin (Surigao Del Sur),January,2026
-09 January 2026 - 04:20 AM-8.7200-126.2200-1.6,09 January 2026 - 04:20 AM,8.72,126.22,17,1.6,003  km S 11° W of San Agustin (Surigao Del Sur),January,2026
+09 January 2026 - 04:20 AM-8.7200-126.2100-2.0,09 January 2026 - 04:20 AM,8.72,126.21,21,2.0,003  km S 30° W of San Agustin (Surigao Del Sur),January,2026
+09 January 2026 - 04:20 AM-8.8000-126.2100-1.6,09 January 2026 - 04:20 AM,8.8,126.21,29,1.6,006  km N 12° W of San Agustin (Surigao Del Sur),January,2026
 09 January 2026 - 04:16 AM-8.7200-126.2300-1.8,09 January 2026 - 04:16 AM,8.72,126.23,22,1.8,003  km S 09° E of San Agustin (Surigao Del Sur),January,2026
-09 January 2026 - 04:11 AM-8.7400-126.2200-2.1,09 January 2026 - 04:11 AM,8.74,126.22,32,2.1,001  km S 29° W of San Agustin (Surigao Del Sur),January,2026
-09 January 2026 - 04:06 AM-8.7300-126.2100-4.4,09 January 2026 - 04:06 AM,8.73,126.21,10,4.4,003  km S 45° W of San Agustin (Surigao Del Sur),January,2026
+09 January 2026 - 04:11 AM-8.7200-126.2100-2.2,09 January 2026 - 04:11 AM,8.72,126.21,22,2.2,003  km S 35° W of San Agustin (Surigao Del Sur),January,2026
+09 January 2026 - 04:06 AM-8.7200-126.2100-4.4,09 January 2026 - 04:06 AM,8.72,126.21,13,4.4,003  km S 32° W of San Agustin (Surigao Del Sur),January,2026
 09 January 2026 - 03:58 AM-7.8100-126.8400-1.6,09 January 2026 - 03:58 AM,7.81,126.84,16,1.6,040  km N 50° E of Baganga (Davao Oriental),January,2026
-09 January 2026 - 03:43 AM-10.9000-124.0900-1.9,09 January 2026 - 03:43 AM,10.9,124.09,31,1.9,020  km S 38° E of City Of Bogo (Cebu),January,2026
+09 January 2026 - 03:43 AM-10.9500-124.0300-2.1,09 January 2026 - 03:43 AM,10.95,124.03,20,2.1,012  km S 25° E of City Of Bogo (Cebu),January,2026
 09 January 2026 - 03:13 AM-7.4300-126.7800-1.8,09 January 2026 - 03:13 AM,7.43,126.78,14,1.8,036  km N 47° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 03:04 AM-7.2900-127.1200-2.5,09 January 2026 - 03:04 AM,7.29,127.12,23,2.5,065  km N 82° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 02:55 AM-11.0400-124.0300-2.4,09 January 2026 - 02:55 AM,11.04,124.03,28,2.4,006  km S 80° E of City Of Bogo (Cebu),January,2026
+09 January 2026 - 03:04 AM-7.4000-127.2600-2.6,09 January 2026 - 03:04 AM,7.4,127.26,84,2.6,083  km N 75° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 02:54 AM-11.0000-123.9300-2.4,09 January 2026 - 02:54 AM,11.0,123.93,1,2.4,007  km S 51° W of City Of Bogo (Cebu),January,2026
 09 January 2026 - 02:29 AM-7.2000-126.9300-2.4,09 January 2026 - 02:29 AM,7.2,126.93,10,2.4,043  km S 89° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 02:15 AM-7.1100-126.9400-2.0,09 January 2026 - 02:15 AM,7.11,126.94,28,2.0,046  km S 76° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 02:11 AM-7.0700-127.0200-2.5,09 January 2026 - 02:11 AM,7.07,127.02,30,2.5,055  km S 74° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 02:15 AM-7.2300-127.0000-2.1,09 January 2026 - 02:15 AM,7.23,127.0,7,2.1,051  km N 88° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 02:11 AM-7.0400-127.1500-2.5,09 January 2026 - 02:11 AM,7.04,127.15,28,2.5,070  km S 74° E of Manay (Davao Oriental),January,2026
 09 January 2026 - 02:08 AM-10.0900-122.4900-1.6,09 January 2026 - 02:08 AM,10.09,122.49,33,1.6,020  km N 47° W of Cauayan (Negros Occidental),January,2026
-09 January 2026 - 01:44 AM-7.3800-126.8400-2.0,09 January 2026 - 01:44 AM,7.38,126.84,6,2.0,038  km N 61° E of Manay (Davao Oriental),January,2026
-09 January 2026 - 01:35 AM-4.3100-125.6400-3.5,09 January 2026 - 01:35 AM,4.31,125.64,40,3.5,124  km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),January,2026
-09 January 2026 - 01:16 AM-7.4400-127.0500-2.1,09 January 2026 - 01:16 AM,7.44,127.05,16,2.1,062  km N 65° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 01:44 AM-7.3500-126.7100-3.1,09 January 2026 - 01:44 AM,7.35,126.71,12,3.1,025  km N 50° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 01:35 AM-4.3200-125.7200-3.3,09 January 2026 - 01:35 AM,4.32,125.72,77,3.3,125  km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),January,2026
+09 January 2026 - 01:16 AM-7.1500-127.1400-2.1,09 January 2026 - 01:16 AM,7.15,127.14,26,2.1,067  km S 85° E of Manay (Davao Oriental),January,2026
 09 January 2026 - 01:07 AM-8.4400-126.7300-1.6,09 January 2026 - 01:07 AM,8.44,126.73,2,1.6,043  km N 79° E of Hinatuan (Surigao Del Sur),January,2026
-09 January 2026 - 01:06 AM-10.0400-122.3600-1.9,09 January 2026 - 01:06 AM,10.04,122.36,1,1.9,030  km N 76° W of Cauayan (Negros Occidental),January,2026
-09 January 2026 - 12:24 AM-11.0200-124.1500-1.4,09 January 2026 - 12:24 AM,11.02,124.15,34,1.4,016  km N 57° E of Tabogon (Cebu),January,2026
-09 January 2026 - 12:17 AM-11.1600-123.9400-3.1,09 January 2026 - 12:17 AM,11.16,123.94,9,3.1,014  km N 20° W of City Of Bogo (Cebu),January,2026
-09 January 2026 - 12:07 AM-12.7400-123.4900-2.3,09 January 2026 - 12:07 AM,12.74,123.49,8,2.3,021  km S 33° W of Donsol (Sorsogon),January,2026
-08 January 2026 - 11:17 PM-7.3300-126.7300-2.6,08 January 2026 - 11:17 PM,7.33,126.73,5,2.6,025  km N 57° E of Manay (Davao Oriental),January,2026
-08 January 2026 - 11:09 PM-7.1200-127.1500-3.1,08 January 2026 - 11:09 PM,7.12,127.15,7,3.1,069  km S 82° E of Manay (Davao Oriental),January,2026
-08 January 2026 - 10:22 PM-7.9700-126.8300-3.5,08 January 2026 - 10:22 PM,7.97,126.83,20,3.5,045  km N 64° E of Cateel (Davao Oriental),January,2026
-08 January 2026 - 10:08 PM-9.6100-126.1400-2.3,08 January 2026 - 10:08 PM,9.61,126.14,24,2.3,020  km S 04° W of General Luna (Surigao Del Norte),January,2026
-08 January 2026 - 10:05 PM-10.9100-123.8800-2.2,08 January 2026 - 10:05 PM,10.91,123.88,19,2.2,019  km S 37° W of City Of Bogo (Cebu),January,2026
-08 January 2026 - 09:43 PM-7.3000-126.8800-2.5,08 January 2026 - 09:43 PM,7.3,126.88,6,2.5,038  km N 76° E of Manay (Davao Oriental),January,2026
+09 January 2026 - 01:06 AM-10.0400-122.3400-2.0,09 January 2026 - 01:06 AM,10.04,122.34,2,2.0,032  km N 77° W of Cauayan (Negros Occidental),January,2026
+09 January 2026 - 12:24 AM-10.9200-123.9800-1.8,09 January 2026 - 12:24 AM,10.92,123.98,8,1.8,005  km S 69° W of Tabogon (Cebu),January,2026
+09 January 2026 - 12:17 AM-11.1400-123.9000-3.1,09 January 2026 - 12:17 AM,11.14,123.9,6,3.1,014  km N 40° W of City Of Bogo (Cebu),January,2026
+09 January 2026 - 12:07 AM-12.7100-123.4700-2.4,09 January 2026 - 12:07 AM,12.71,123.47,9,2.4,025  km S 32° W of Donsol (Sorsogon),January,2026
+08 January 2026 - 11:17 PM-7.1600-126.8200-2.9,08 January 2026 - 11:17 PM,7.16,126.82,9,2.9,034  km S 56° E of Caraga (Davao Oriental),January,2026
+08 January 2026 - 11:09 PM-7.0700-126.9600-3.3,08 January 2026 - 11:09 PM,7.07,126.96,2,3.3,049  km S 71° E of Manay (Davao Oriental),January,2026
+08 January 2026 - 10:22 PM-7.9700-127.0800-3.5,08 January 2026 - 10:22 PM,7.97,127.08,17,3.5,072  km N 53° E of Baganga (Davao Oriental),January,2026
+08 January 2026 - 10:08 PM-9.6400-126.1300-2.3,08 January 2026 - 10:08 PM,9.64,126.13,24,2.3,016  km S 09° W of General Luna (Surigao Del Norte),January,2026
+08 January 2026 - 10:05 PM-10.9000-123.8600-2.2,08 January 2026 - 10:05 PM,10.9,123.86,5,2.2,020  km S 39° W of City Of Bogo (Cebu),January,2026
+08 January 2026 - 09:43 PM-7.2800-127.0700-2.7,08 January 2026 - 09:43 PM,7.28,127.07,9,2.7,056  km S 85° E of Caraga (Davao Oriental),January,2026
 08 January 2026 - 09:26 PM-8.9600-126.4000-1.9,08 January 2026 - 09:26 PM,8.96,126.4,22,1.9,012  km N 65° E of Cagwait (Surigao Del Sur),January,2026
-08 January 2026 - 09:18 PM-12.8800-123.1000-2.2,08 January 2026 - 09:18 PM,12.88,123.1,1,2.2,016  km S 79° W of Claveria (Masbate),January,2026
-08 January 2026 - 09:06 PM-7.2500-126.7100-2.2,08 January 2026 - 09:06 PM,7.25,126.71,17,2.2,019  km N 77° E of Manay (Davao Oriental),January,2026
-08 January 2026 - 09:01 PM-6.1200-127.0500-2.2,08 January 2026 - 09:01 PM,6.12,127.05,19,2.2,122  km S 33° E of Tarragona (Davao Oriental),January,2026
-08 January 2026 - 09:00 PM-7.9300-126.2900-1.8,08 January 2026 - 09:00 PM,7.93,126.29,4,1.8,018  km S 48° W of Lingig (Surigao Del Sur),January,2026
-08 January 2026 - 08:00 PM-11.0500-124.0200-1.9,08 January 2026 - 08:00 PM,11.05,124.02,32,1.9,005  km N 85° E of City Of Bogo (Cebu),January,2026
-08 January 2026 - 07:48 PM-7.7100-123.0100-1.8,08 January 2026 - 07:48 PM,7.71,123.01,22,1.8,004  km N 39° E of Diplahan (Zamboanga Sibugay),January,2026
-08 January 2026 - 05:56 PM-13.8600-119.9400-1.8,08 January 2026 - 05:56 PM,13.86,119.94,11,1.8,020  km N 88° W of Lubang (Occidental Mindoro),January,2026
+08 January 2026 - 09:18 PM-12.8800-123.1100-2.2,08 January 2026 - 09:18 PM,12.88,123.11,9,2.2,015  km S 79° W of Claveria (Masbate),January,2026
+08 January 2026 - 09:06 PM-7.3800-126.6900-2.3,08 January 2026 - 09:06 PM,7.38,126.69,1,2.3,025  km N 41° E of Manay (Davao Oriental),January,2026
+08 January 2026 - 09:01 PM-6.2100-126.9500-2.1,08 January 2026 - 09:01 PM,6.21,126.95,77,2.1,108  km S 31° E of Tarragona (Davao Oriental),January,2026
+08 January 2026 - 09:00 PM-7.9000-126.3300-1.8,08 January 2026 - 09:00 PM,7.9,126.33,12,1.8,018  km S 32° W of Lingig (Surigao Del Sur),January,2026
+08 January 2026 - 08:00 PM-11.0400-124.0000-1.9,08 January 2026 - 08:00 PM,11.04,124.0,28,1.9,003  km S 76° E of City Of Bogo (Cebu),January,2026
+08 January 2026 - 07:48 PM-8.4000-123.0300-2.1,08 January 2026 - 07:48 PM,8.4,123.03,34,2.1,004  km S 15° E of Jose Dalman (Zamboanga Del Norte),January,2026
+08 January 2026 - 05:56 PM-13.7800-119.8900-1.8,08 January 2026 - 05:56 PM,13.78,119.89,7,1.8,027  km S 72° W of Lubang (Occidental Mindoro),January,2026
 08 January 2026 - 04:46 PM-7.1400-127.3200-2.9,08 January 2026 - 04:46 PM,7.14,127.32,13,2.9,087  km S 85° E of Manay (Davao Oriental),January,2026
-08 January 2026 - 02:29 PM-7.3800-126.6600-2.7,08 January 2026 - 02:29 PM,7.38,126.66,17,2.7,023  km N 36° E of Manay (Davao Oriental),January,2026
-08 January 2026 - 02:04 PM-7.2400-127.1300-2.8,08 January 2026 - 02:04 PM,7.24,127.13,18,2.8,066  km N 87° E of Manay (Davao Oriental),January,2026
+08 January 2026 - 02:29 PM-7.2800-127.0200-3.0,08 January 2026 - 02:29 PM,7.28,127.02,12,3.0,053  km N 82° E of Manay (Davao Oriental),January,2026
+08 January 2026 - 02:04 PM-7.2800-126.9400-3.1,08 January 2026 - 02:04 PM,7.28,126.94,8,3.1,045  km N 80° E of Manay (Davao Oriental),January,2026
 08 January 2026 - 01:21 PM-6.5600-126.0600-2.3,08 January 2026 - 01:21 PM,6.56,126.06,31,2.3,011  km S 10° W of Governor Generoso (Davao Oriental),January,2026
 08 January 2026 - 01:08 PM-7.2300-126.8700-2.7,08 January 2026 - 01:08 PM,7.23,126.87,25,2.7,037  km N 86° E of Manay (Davao Oriental),January,2026
 08 January 2026 - 01:07 PM-11.0800-123.9600-2.5,08 January 2026 - 01:07 PM,11.08,123.96,2,2.5,003  km N 32° W of City Of Bogo (Cebu),January,2026
