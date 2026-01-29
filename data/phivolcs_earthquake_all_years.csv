@@ -109882,155 +109882,413 @@
 01 December 2025 - 01:14 AM-6.0500-125.3900-2.6,01 December 2025 - 01:14 AM,6.05,125.39,66.0,2.6,013  km S 63° E of Alabel (Sarangani),December,2025
 01 December 2025 - 12:46 AM-16.6500-119.8400-2.3,01 December 2025 - 12:46 AM,16.65,119.84,14.0,2.3,030  km N 10° W of Bolinao (Pangasinan),December,2025
 01 December 2025 - 12:29 AM-5.8500-124.7100-2.3,01 December 2025 - 12:29 AM,5.85,124.71,28.0,2.3,018  km S 32° E of Kiamba (Sarangani),December,2025
-28 January 2026 - 11:25 AM-6.6000-123.9000-3.3,28 January 2026 - 11:25 AM,6.6,123.9,3.0,3.3,017  km N 75° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 11:24 AM-4.7500-123.1200-1.9,28 January 2026 - 11:24 AM,4.75,123.12,2.0,1.9,225  km S 27° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 11:23 AM-6.4000-123.6900-2.9,28 January 2026 - 11:23 AM,6.4,123.69,21.0,2.9,043  km S 66° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 11:18 AM-6.5000-123.9200-1.7,28 January 2026 - 11:18 AM,6.5,123.92,19.0,1.7,016  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 11:49 AM-6.5700-123.7200-2.1,29 January 2026 - 11:49 AM,6.57,123.72,33.0,2.1,036  km N 88° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 11:46 AM-6.3700-123.8800-1.6,29 January 2026 - 11:46 AM,6.37,123.88,12.0,1.6,027  km S 44° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 11:41 AM-6.5300-123.7400-3.2,29 January 2026 - 11:41 AM,6.53,123.74,10.0,3.2,035  km S 86° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 11:23 AM-6.6300-124.0300-1.6,29 January 2026 - 11:23 AM,6.63,124.03,2.0,1.6,009  km N 18° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 11:10 AM-6.5800-123.9300-1.7,29 January 2026 - 11:10 AM,6.58,123.93,9.0,1.7,014  km N 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:56 AM-6.6600-123.7100-2.0,29 January 2026 - 10:56 AM,6.66,123.71,15.0,2.0,040  km N 73° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:32 AM-6.4100-124.1100-2.0,29 January 2026 - 10:32 AM,6.41,124.11,25.0,2.0,017  km S 24° E of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:24 AM-7.8400-122.7600-1.6,29 January 2026 - 10:24 AM,7.84,122.76,35.0,1.6,004  km N 06° E of Kabasalan (Zamboanga Sibugay),January,2026
+29 January 2026 - 10:22 AM-6.6500-123.7100-1.6,29 January 2026 - 10:22 AM,6.65,123.71,6.0,1.6,039  km N 75° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:19 AM-6.5300-123.8200-1.8,29 January 2026 - 10:19 AM,6.53,123.82,28.0,1.8,025  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:16 AM-6.5200-123.6800-2.2,29 January 2026 - 10:16 AM,6.52,123.68,2.0,2.2,041  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:03 AM-6.8100-124.4300-1.6,29 January 2026 - 10:03 AM,6.81,124.43,20.0,1.6,003  km S 50° W of Ampatuan (Maguindanao Del Sur),January,2026
+29 January 2026 - 10:02 AM-6.5100-123.7800-1.9,29 January 2026 - 10:02 AM,6.51,123.78,15.0,1.9,031  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 10:01 AM-6.9100-124.6600-1.3,29 January 2026 - 10:01 AM,6.91,124.66,14.0,1.3,008  km N 62° E of Sultan Sa Barongis (Maguindanao Del Sur),January,2026
+29 January 2026 - 09:50 AM-6.7100-124.3200-1.5,29 January 2026 - 09:50 AM,6.71,124.32,9.0,1.5,019  km S 76° W of Datu Abdullah Sangki (Maguindanao Del Sur),January,2026
+29 January 2026 - 09:47 AM-6.4300-124.1100-1.6,29 January 2026 - 09:47 AM,6.43,124.11,9.0,1.6,016  km S 24° E of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 09:42 AM-6.6100-123.6700-2.6,29 January 2026 - 09:42 AM,6.61,123.67,5.0,2.6,043  km N 82° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 09:40 AM-6.3300-123.7300-1.6,29 January 2026 - 09:40 AM,6.33,123.73,32.0,1.6,043  km S 56° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 09:34 AM-6.1600-123.4600-1.9,29 January 2026 - 09:34 AM,6.16,123.46,33.0,1.9,079  km S 56° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 09:23 AM-6.5100-123.8200-2.4,29 January 2026 - 09:23 AM,6.51,123.82,19.0,2.4,026  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 09:08 AM-6.3300-123.8100-1.9,29 January 2026 - 09:08 AM,6.33,123.81,34.0,1.9,037  km S 46° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 09:04 AM-6.5200-123.7800-1.8,29 January 2026 - 09:04 AM,6.52,123.78,29.0,1.8,030  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:54 AM-6.4700-123.6400-2.7,29 January 2026 - 08:54 AM,6.47,123.64,19.0,2.7,046  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:46 AM-6.3000-123.8500-2.5,29 January 2026 - 08:46 AM,6.3,123.85,32.0,2.5,036  km S 38° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:44 AM-6.4000-123.5700-2.3,29 January 2026 - 08:44 AM,6.4,123.57,2.0,2.3,056  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:33 AM-6.4800-123.7100-4.1,29 January 2026 - 08:33 AM,6.48,123.71,12.0,4.1,039  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:16 AM-6.3600-123.6600-2.3,29 January 2026 - 08:16 AM,6.36,123.66,20.0,2.3,048  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:11 AM-6.4100-123.7100-2.8,29 January 2026 - 08:11 AM,6.41,123.71,33.0,2.8,041  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 08:08 AM-6.5100-123.7300-3.4,29 January 2026 - 08:08 AM,6.51,123.73,17.0,3.4,036  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 07:53 AM-6.4400-123.8100-2.3,29 January 2026 - 07:53 AM,6.44,123.81,11.0,2.3,029  km S 65° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 07:51 AM-6.5000-123.7500-1.9,29 January 2026 - 07:51 AM,6.5,123.75,25.0,1.9,034  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 07:50 AM-6.4900-123.7600-1.6,29 January 2026 - 07:50 AM,6.49,123.76,21.0,1.6,033  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 07:43 AM-6.4000-123.7400-5.1,29 January 2026 - 07:43 AM,6.4,123.74,10.0,5.1,038  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 07:27 AM-6.3700-123.7100-2.1,29 January 2026 - 07:27 AM,6.37,123.71,42.0,2.1,044  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 07:16 AM-6.5200-123.6400-3.0,29 January 2026 - 07:16 AM,6.52,123.64,15.0,3.0,046  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 06:34 AM-8.4000-122.6900-1.9,29 January 2026 - 06:34 AM,8.4,122.69,51.0,1.9,031  km N 03° E of Liloy (Zamboanga Del Norte),January,2026
+29 January 2026 - 06:22 AM-6.7400-123.7100-2.1,29 January 2026 - 06:22 AM,6.74,123.71,22.0,2.1,043  km N 62° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 06:12 AM-11.1100-124.1100-2.9,29 January 2026 - 06:12 AM,11.11,124.11,3.0,2.9,016  km N 66° E of City Of Bogo (Cebu),January,2026
+29 January 2026 - 06:10 AM-6.4200-123.7600-3.1,29 January 2026 - 06:10 AM,6.42,123.76,8.0,3.1,035  km S 64° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 06:00 AM-13.7000-120.5600-1.8,29 January 2026 - 06:00 AM,13.7,120.56,108.0,1.8,017  km S 28° W of Calatagan (Batangas),January,2026
+29 January 2026 - 05:40 AM-6.5400-123.6900-1.7,29 January 2026 - 05:40 AM,6.54,123.69,36.0,1.7,040  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 05:36 AM-6.5300-123.6600-2.6,29 January 2026 - 05:36 AM,6.53,123.66,15.0,2.6,043  km S 86° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 05:27 AM-6.4000-123.6900-2.2,29 January 2026 - 05:27 AM,6.4,123.69,30.0,2.2,044  km S 66° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 05:21 AM-6.6300-123.6900-2.5,29 January 2026 - 05:21 AM,6.63,123.69,8.0,2.5,041  km N 79° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 05:18 AM-6.6200-123.7500-3.3,29 January 2026 - 05:18 AM,6.62,123.75,3.0,3.3,034  km N 79° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 05:13 AM-6.6000-123.6500-3.7,29 January 2026 - 05:13 AM,6.6,123.65,2.0,3.7,044  km N 83° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:57 AM-8.7500-126.5400-2.3,29 January 2026 - 04:57 AM,8.75,126.54,28.0,2.3,027  km S 78° E of Marihatag (Surigao Del Sur),January,2026
+29 January 2026 - 04:50 AM-6.6700-123.7100-2.1,29 January 2026 - 04:50 AM,6.67,123.71,9.0,2.1,040  km N 72° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:49 AM-6.5400-123.7600-1.8,29 January 2026 - 04:49 AM,6.54,123.76,22.0,1.8,033  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:41 AM-6.5300-123.6100-3.4,29 January 2026 - 04:41 AM,6.53,123.61,3.0,3.4,049  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:29 AM-6.7800-123.7100-2.4,29 January 2026 - 04:29 AM,6.78,123.71,6.0,2.4,045  km N 57° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:25 AM-6.4700-123.8300-1.9,29 January 2026 - 04:25 AM,6.47,123.83,20.0,1.9,026  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:22 AM-6.6300-123.7100-2.4,29 January 2026 - 04:22 AM,6.63,123.71,23.0,2.4,039  km N 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:16 AM-6.4900-123.7400-2.2,29 January 2026 - 04:16 AM,6.49,123.74,26.0,2.2,035  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:15 AM-6.4000-123.7700-2.0,29 January 2026 - 04:15 AM,6.4,123.77,8.0,2.0,036  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:05 AM-6.4500-123.7900-3.3,29 January 2026 - 04:05 AM,6.45,123.79,27.0,3.3,031  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 04:03 AM-6.6300-123.6800-2.6,29 January 2026 - 04:03 AM,6.63,123.68,17.0,2.6,042  km N 79° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 03:45 AM-6.4600-123.7700-4.0,29 January 2026 - 03:45 AM,6.46,123.77,17.0,4.0,033  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 03:30 AM-6.4100-123.6300-2.8,29 January 2026 - 03:30 AM,6.41,123.63,3.0,2.8,049  km S 70° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 03:29 AM-6.6200-123.6800-2.3,29 January 2026 - 03:29 AM,6.62,123.68,33.0,2.3,041  km N 80° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 03:25 AM-6.4000-123.5800-2.3,29 January 2026 - 03:25 AM,6.4,123.58,16.0,2.3,055  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 03:04 AM-10.0500-126.1600-1.7,29 January 2026 - 03:04 AM,10.05,126.16,33.0,1.7,010  km N 68° E of Burgos (Surigao Del Norte),January,2026
+29 January 2026 - 03:03 AM-6.4900-123.7000-1.4,29 January 2026 - 03:03 AM,6.49,123.7,33.0,1.4,040  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:54 AM-6.6200-123.7700-2.0,29 January 2026 - 02:54 AM,6.62,123.77,10.0,2.0,032  km N 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:49 AM-8.0700-126.5300-1.9,29 January 2026 - 02:49 AM,8.07,126.53,33.0,1.9,014  km N 77° E of Lingig (Surigao Del Sur),January,2026
+29 January 2026 - 02:47 AM-6.5300-123.7600-1.5,29 January 2026 - 02:47 AM,6.53,123.76,33.0,1.5,032  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:42 AM-6.4300-123.7800-1.7,29 January 2026 - 02:42 AM,6.43,123.78,25.0,1.7,033  km S 65° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:40 AM-6.5400-123.6800-1.7,29 January 2026 - 02:40 AM,6.54,123.68,17.0,1.7,042  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:34 AM-6.3500-123.7100-1.5,29 January 2026 - 02:34 AM,6.35,123.71,28.0,1.5,045  km S 59° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:31 AM-6.3200-123.6300-2.6,29 January 2026 - 02:31 AM,6.32,123.63,4.0,2.6,053  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:30 AM-6.5000-123.7900-1.8,29 January 2026 - 02:30 AM,6.5,123.79,27.0,1.8,029  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:28 AM-6.7100-123.7100-2.6,29 January 2026 - 02:28 AM,6.71,123.71,12.0,2.6,041  km N 65° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:25 AM-6.5700-123.7600-1.9,29 January 2026 - 02:25 AM,6.57,123.76,12.0,1.9,032  km N 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:21 AM-6.4900-123.6900-1.8,29 January 2026 - 02:21 AM,6.49,123.69,33.0,1.8,040  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:20 AM-6.3900-123.7200-2.0,29 January 2026 - 02:20 AM,6.39,123.72,5.0,2.0,040  km S 64° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:18 AM-6.5400-123.7300-1.8,29 January 2026 - 02:18 AM,6.54,123.73,27.0,1.8,036  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:17 AM-6.4600-123.7100-1.7,29 January 2026 - 02:17 AM,6.46,123.71,16.0,1.7,039  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:13 AM-6.5400-123.8500-1.6,29 January 2026 - 02:13 AM,6.54,123.85,31.0,1.6,023  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:10 AM-6.7200-123.6800-1.8,29 January 2026 - 02:10 AM,6.72,123.68,21.0,1.8,044  km N 66° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 02:00 AM-6.4000-123.6800-3.4,29 January 2026 - 02:00 AM,6.4,123.68,11.0,3.4,044  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:53 AM-6.4400-123.6900-2.2,29 January 2026 - 01:53 AM,6.44,123.69,32.0,2.2,042  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:49 AM-6.4900-123.6100-2.1,29 January 2026 - 01:49 AM,6.49,123.61,20.0,2.1,050  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:46 AM-6.7800-123.8900-2.4,29 January 2026 - 01:46 AM,6.78,123.89,20.0,2.4,030  km N 35° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:42 AM-6.5700-123.7500-3.2,29 January 2026 - 01:42 AM,6.57,123.75,6.0,3.2,033  km N 88° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:39 AM-6.7300-123.8800-2.0,29 January 2026 - 01:39 AM,6.73,123.88,17.0,2.0,027  km N 45° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:30 AM-6.5200-123.7100-2.4,29 January 2026 - 01:30 AM,6.52,123.71,23.0,2.4,037  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:28 AM-6.5400-123.7000-2.7,29 January 2026 - 01:28 AM,6.54,123.7,14.0,2.7,039  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:22 AM-6.4400-123.7100-2.3,29 January 2026 - 01:22 AM,6.44,123.71,18.0,2.3,040  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:20 AM-6.6700-123.8900-2.6,29 January 2026 - 01:20 AM,6.67,123.89,3.0,2.6,021  km N 55° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:10 AM-6.4500-123.8500-1.8,29 January 2026 - 01:10 AM,6.45,123.85,14.0,1.8,025  km S 64° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:08 AM-6.5000-123.8000-2.3,29 January 2026 - 01:08 AM,6.5,123.8,24.0,2.3,028  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 01:03 AM-6.3800-123.7400-1.9,29 January 2026 - 01:03 AM,6.38,123.74,14.0,1.9,039  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:40 AM-6.5800-123.9000-2.1,29 January 2026 - 12:40 AM,6.58,123.9,2.0,2.1,017  km N 80° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:33 AM-6.4300-123.7100-2.2,29 January 2026 - 12:33 AM,6.43,123.71,29.0,2.2,040  km S 70° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:29 AM-6.4800-123.7000-2.0,29 January 2026 - 12:29 AM,6.48,123.7,2.0,2.0,039  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:26 AM-6.4800-123.6000-2.3,29 January 2026 - 12:26 AM,6.48,123.6,10.0,2.3,050  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:24 AM-6.5400-123.6300-2.6,29 January 2026 - 12:24 AM,6.54,123.63,19.0,2.6,047  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:18 AM-6.6400-123.6700-2.9,29 January 2026 - 12:18 AM,6.64,123.67,6.0,2.9,043  km N 78° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:16 AM-6.8000-123.7500-2.4,29 January 2026 - 12:16 AM,6.8,123.75,29.0,2.4,043  km N 51° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:12 AM-6.7800-123.7600-2.4,29 January 2026 - 12:12 AM,6.78,123.76,27.0,2.4,040  km N 52° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:10 AM-7.0700-126.6900-2.6,29 January 2026 - 12:10 AM,7.07,126.69,143.0,2.6,023  km S 48° E of Manay (Davao Oriental),January,2026
+29 January 2026 - 12:07 AM-6.5200-123.6800-2.6,29 January 2026 - 12:07 AM,6.52,123.68,6.0,2.6,041  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+29 January 2026 - 12:02 AM-6.5000-123.7800-3.2,29 January 2026 - 12:02 AM,6.5,123.78,25.0,3.2,030  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:58 PM-6.5000-123.7700-4.7,28 January 2026 - 11:58 PM,6.5,123.77,15.0,4.7,032  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:53 PM-6.5900-123.7000-3.1,28 January 2026 - 11:53 PM,6.59,123.7,7.0,3.1,039  km N 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:51 PM-6.5000-123.8700-2.7,28 January 2026 - 11:51 PM,6.5,123.87,9.0,2.7,021  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:49 PM-6.5400-123.6400-2.0,28 January 2026 - 11:49 PM,6.54,123.64,18.0,2.0,046  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:35 PM-6.6200-123.6300-3.1,28 January 2026 - 11:35 PM,6.62,123.63,7.0,3.1,047  km N 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:29 PM-6.4900-123.6800-2.2,28 January 2026 - 11:29 PM,6.49,123.68,6.0,2.2,042  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:27 PM-6.5600-123.6900-2.7,28 January 2026 - 11:27 PM,6.56,123.69,23.0,2.7,040  km N 90° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:18 PM-6.6400-123.7800-2.8,28 January 2026 - 11:18 PM,6.64,123.78,2.0,2.8,031  km N 73° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:03 PM-6.5700-123.6600-2.9,28 January 2026 - 11:03 PM,6.57,123.66,2.0,2.9,044  km N 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:01 PM-6.6800-123.7300-2.7,28 January 2026 - 11:01 PM,6.68,123.73,9.0,2.7,038  km N 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:59 PM-6.7500-123.9200-2.7,28 January 2026 - 10:59 PM,6.75,123.92,15.0,2.7,026  km N 34° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:57 PM-6.7400-123.8800-2.1,28 January 2026 - 10:57 PM,6.74,123.88,20.0,2.1,028  km N 42° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:55 PM-6.6200-123.8900-2.1,28 January 2026 - 10:55 PM,6.62,123.89,17.0,2.1,019  km N 70° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:49 PM-6.5800-123.7300-3.4,28 January 2026 - 10:49 PM,6.58,123.73,5.0,3.4,035  km N 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:48 PM-6.6200-123.7600-2.1,28 January 2026 - 10:48 PM,6.62,123.76,2.0,2.1,037  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:44 PM-6.5700-123.8000-2.5,28 January 2026 - 10:44 PM,6.57,123.8,8.0,2.5,028  km N 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:36 PM-6.5200-123.6900-4.3,28 January 2026 - 10:36 PM,6.52,123.69,2.0,4.3,040  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:33 PM-6.4500-123.6800-4.8,28 January 2026 - 10:33 PM,6.45,123.68,10.0,4.8,042  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:31 PM-6.6400-123.8000-2.2,28 January 2026 - 10:31 PM,6.64,123.8,6.0,2.2,029  km N 72° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:25 PM-6.4000-123.8300-3.0,28 January 2026 - 10:25 PM,6.4,123.83,19.0,3.0,030  km S 55° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:12 PM-6.6700-123.7500-3.1,28 January 2026 - 10:12 PM,6.67,123.75,15.0,3.1,035  km N 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:08 PM-6.5700-123.7400-4.1,28 January 2026 - 10:08 PM,6.57,123.74,22.0,4.1,034  km N 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:06 PM-6.7600-123.8400-2.4,28 January 2026 - 10:06 PM,6.76,123.84,15.0,2.4,033  km N 47° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:02 PM-6.5100-123.6800-3.0,28 January 2026 - 10:02 PM,6.51,123.68,9.0,3.0,041  km S 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:56 PM-6.5600-123.6400-3.9,28 January 2026 - 09:56 PM,6.56,123.64,9.0,3.9,046  km N 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:52 PM-6.4100-123.6900-2.4,28 January 2026 - 09:52 PM,6.41,123.69,25.0,2.4,043  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:47 PM-6.8900-123.8100-1.7,28 January 2026 - 09:47 PM,6.89,123.81,19.0,1.7,045  km N 36° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:45 PM-6.5100-123.9000-2.2,28 January 2026 - 09:45 PM,6.51,123.9,32.0,2.2,017  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:41 PM-6.4800-123.6500-4.3,28 January 2026 - 09:41 PM,6.48,123.65,8.0,4.3,046  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:36 PM-6.7600-123.8500-1.8,28 January 2026 - 09:36 PM,6.76,123.85,17.0,1.8,032  km N 44° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:31 PM-6.8200-123.9400-1.6,28 January 2026 - 09:31 PM,6.82,123.94,16.0,1.6,032  km N 22° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:30 PM-6.5900-123.6600-2.7,28 January 2026 - 09:30 PM,6.59,123.66,19.0,2.7,043  km N 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:27 PM-10.9700-123.9200-3.2,28 January 2026 - 09:27 PM,10.97,123.92,7.0,3.2,011  km S 38° W of City Of Bogo (Cebu),January,2026
+28 January 2026 - 09:24 PM-6.5500-123.7100-3.3,28 January 2026 - 09:24 PM,6.55,123.71,6.0,3.3,038  km S 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:07 PM-6.5100-123.7700-3.2,28 January 2026 - 09:07 PM,6.51,123.77,7.0,3.2,031  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:06 PM-6.6400-123.6700-2.2,28 January 2026 - 09:06 PM,6.64,123.67,15.0,2.2,043  km N 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:04 PM-6.5400-123.6900-1.8,28 January 2026 - 09:04 PM,6.54,123.69,7.0,1.8,039  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:01 PM-6.6000-123.6600-2.7,28 January 2026 - 09:01 PM,6.6,123.66,4.0,2.7,044  km N 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:55 PM-6.3700-123.7100-4.4,28 January 2026 - 08:55 PM,6.37,123.71,6.0,4.4,042  km S 62° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:48 PM-6.5100-123.8100-2.4,28 January 2026 - 08:48 PM,6.51,123.81,19.0,2.4,027  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:45 PM-6.5600-123.6200-4.0,28 January 2026 - 08:45 PM,6.56,123.62,20.0,4.0,048  km N 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:34 PM-6.4900-123.9300-2.0,28 January 2026 - 08:34 PM,6.49,123.93,31.0,2.0,015  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:31 PM-6.6400-123.8400-2.3,28 January 2026 - 08:31 PM,6.64,123.84,5.0,2.3,026  km N 68° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:29 PM-6.5600-123.7800-2.6,28 January 2026 - 08:29 PM,6.56,123.78,4.0,2.6,030  km N 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:20 PM-6.4600-123.7100-4.3,28 January 2026 - 08:20 PM,6.46,123.71,8.0,4.3,040  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:10 PM-6.4900-123.6900-3.1,28 January 2026 - 08:10 PM,6.49,123.69,24.0,3.1,041  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:05 PM-6.5200-123.7700-1.7,28 January 2026 - 08:05 PM,6.52,123.77,12.0,1.7,031  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:02 PM-6.4200-123.6300-2.9,28 January 2026 - 08:02 PM,6.42,123.63,18.0,2.9,049  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:00 PM-6.5700-123.6400-2.6,28 January 2026 - 08:00 PM,6.57,123.64,10.0,2.6,045  km N 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:53 PM-6.5600-123.6800-2.5,28 January 2026 - 07:53 PM,6.56,123.68,16.0,2.5,041  km N 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:48 PM-6.5400-123.9100-2.4,28 January 2026 - 07:48 PM,6.54,123.91,9.0,2.4,015  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:40 PM-6.6400-123.6700-2.4,28 January 2026 - 07:40 PM,6.64,123.67,4.0,2.4,043  km N 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:35 PM-6.6700-123.6500-2.2,28 January 2026 - 07:35 PM,6.67,123.65,2.0,2.2,046  km N 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:19 PM-6.8100-123.8500-2.8,28 January 2026 - 07:19 PM,6.81,123.85,22.0,2.8,035  km N 38° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:15 PM-6.3200-123.5700-3.2,28 January 2026 - 07:15 PM,6.32,123.57,28.0,3.2,059  km S 64° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:09 PM-6.1600-123.3200-2.7,28 January 2026 - 07:09 PM,6.16,123.32,33.0,2.7,091  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:06 PM-6.6200-123.7500-1.9,28 January 2026 - 07:06 PM,6.62,123.75,8.0,1.9,034  km N 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:02 PM-6.7500-123.7900-2.2,28 January 2026 - 07:02 PM,6.75,123.79,21.0,2.2,036  km N 54° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:01 PM-6.5200-123.6900-2.0,28 January 2026 - 07:01 PM,6.52,123.69,7.0,2.0,040  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:57 PM-6.8600-123.8800-1.9,28 January 2026 - 06:57 PM,6.86,123.88,16.0,1.9,039  km N 30° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:55 PM-6.5200-123.6300-2.9,28 January 2026 - 06:55 PM,6.52,123.63,12.0,2.9,047  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:53 PM-6.7300-123.8200-1.8,28 January 2026 - 06:53 PM,6.73,123.82,20.0,1.8,033  km N 53° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:48 PM-6.7800-123.8200-2.3,28 January 2026 - 06:48 PM,6.78,123.82,15.0,2.3,035  km N 46° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:39 PM-6.6500-123.9300-2.0,28 January 2026 - 06:39 PM,6.65,123.93,3.0,2.0,017  km N 51° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:37 PM-6.6700-123.7700-2.2,28 January 2026 - 06:37 PM,6.67,123.77,7.0,2.2,034  km N 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:36 PM-6.5400-123.7000-2.5,28 January 2026 - 06:36 PM,6.54,123.7,5.0,2.5,039  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:28 PM-6.4800-123.6400-3.7,28 January 2026 - 06:28 PM,6.48,123.64,3.0,3.7,046  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:23 PM-6.4700-123.7500-2.4,28 January 2026 - 06:23 PM,6.47,123.75,35.0,2.4,034  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:21 PM-6.4500-123.7100-2.2,28 January 2026 - 06:21 PM,6.45,123.71,2.0,2.2,039  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:17 PM-6.8700-123.8800-2.2,28 January 2026 - 06:17 PM,6.87,123.88,17.0,2.2,039  km N 29° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:14 PM-6.6500-123.6800-3.1,28 January 2026 - 06:14 PM,6.65,123.68,9.0,3.1,042  km N 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:05 PM-6.5000-123.6100-2.1,28 January 2026 - 06:05 PM,6.5,123.61,20.0,2.1,049  km S 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:07 PM-6.4800-123.6800-2.5,28 January 2026 - 06:07 PM,6.48,123.68,11.0,2.5,042  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:03 PM-6.5800-123.9200-2.1,28 January 2026 - 06:03 PM,6.58,123.92,24.0,2.1,015  km N 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:03 PM-6.5100-123.7100-1.6,28 January 2026 - 06:03 PM,6.51,123.71,11.0,1.6,038  km S 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:55 PM-6.7800-123.8100-2.6,28 January 2026 - 05:55 PM,6.78,123.81,9.0,2.6,036  km N 47° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:53 PM-6.6100-123.6800-3.1,28 January 2026 - 05:53 PM,6.61,123.68,4.0,3.1,042  km N 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:51 PM-6.6400-123.8400-2.7,28 January 2026 - 05:51 PM,6.64,123.84,14.0,2.7,025  km N 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:45 PM-6.5300-123.6300-2.7,28 January 2026 - 05:45 PM,6.53,123.63,11.0,2.7,047  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:43 PM-9.0400-126.0900-1.5,28 January 2026 - 05:43 PM,9.04,126.09,26.0,1.5,009  km S 64° W of City Of Tandag (Surigao Del Sur),January,2026
+28 January 2026 - 05:41 PM-6.5700-123.7100-2.8,28 January 2026 - 05:41 PM,6.57,123.71,15.0,2.8,038  km N 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:36 PM-6.3300-123.4900-2.4,28 January 2026 - 05:36 PM,6.33,123.49,39.0,2.4,067  km S 68° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:34 PM-6.6700-123.6500-2.7,28 January 2026 - 05:34 PM,6.67,123.65,20.0,2.7,046  km N 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:30 PM-6.5800-123.7400-4.0,28 January 2026 - 05:30 PM,6.58,123.74,7.0,4.0,034  km N 86° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:27 PM-6.5100-123.6000-2.7,28 January 2026 - 05:27 PM,6.51,123.6,19.0,2.7,050  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:24 PM-6.6800-123.8100-3.4,28 January 2026 - 05:24 PM,6.68,123.81,13.0,3.4,030  km N 64° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:18 PM-6.5400-123.7200-2.8,28 January 2026 - 05:18 PM,6.54,123.72,4.0,2.8,037  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:17 PM-6.4700-123.5400-1.9,28 January 2026 - 05:17 PM,6.47,123.54,33.0,1.9,058  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:16 PM-6.2600-123.1900-1.7,28 January 2026 - 05:16 PM,6.26,123.19,24.0,1.7,100  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:14 PM-6.4700-123.7700-2.0,28 January 2026 - 05:14 PM,6.47,123.77,4.0,2.0,032  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:06 PM-6.5900-123.7100-2.9,28 January 2026 - 05:06 PM,6.59,123.71,2.0,2.9,038  km N 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:04 PM-6.5100-123.5800-3.1,28 January 2026 - 05:04 PM,6.51,123.58,12.0,3.1,052  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:03 PM-6.5000-123.6500-2.4,28 January 2026 - 05:03 PM,6.5,123.65,17.0,2.4,045  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:00 PM-6.5400-123.8200-1.7,28 January 2026 - 05:00 PM,6.54,123.82,30.0,1.7,026  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:58 PM-6.4200-123.5800-2.7,28 January 2026 - 04:58 PM,6.42,123.58,9.0,2.7,055  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:51 PM-6.4200-123.6500-3.5,28 January 2026 - 04:51 PM,6.42,123.65,2.0,3.5,047  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:49 PM-6.4700-123.6900-3.0,28 January 2026 - 04:49 PM,6.47,123.69,8.0,3.0,041  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:43 PM-6.6000-123.6100-3.4,28 January 2026 - 04:43 PM,6.6,123.61,1.0,3.4,048  km S 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:47 PM-6.3900-123.4100-2.9,28 January 2026 - 04:47 PM,6.39,123.41,33.0,2.9,073  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:38 PM-6.4900-123.6700-5.2,28 January 2026 - 04:38 PM,6.49,123.67,13.0,5.2,042  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:34 PM-6.4900-123.6700-5.2,28 January 2026 - 04:34 PM,6.49,123.67,16.0,5.2,043  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:29 PM-6.3400-123.5100-3.6,28 January 2026 - 04:29 PM,6.34,123.51,23.0,3.6,064  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:28 PM-6.6100-123.6300-2.6,28 January 2026 - 04:28 PM,6.61,123.63,11.0,2.6,047  km N 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:24 PM-6.5400-123.6500-2.8,28 January 2026 - 04:24 PM,6.54,123.65,4.0,2.8,045  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:19 PM-6.4900-123.4800-2.9,28 January 2026 - 04:19 PM,6.49,123.48,24.0,2.9,063  km S 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:17 PM-6.4200-123.6900-3.4,28 January 2026 - 04:17 PM,6.42,123.69,5.0,3.4,042  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:15 PM-6.6500-123.4000-2.7,28 January 2026 - 04:15 PM,6.65,123.4,10.0,2.7,073  km N 82° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:14 PM-6.6200-123.6700-2.2,28 January 2026 - 04:14 PM,6.62,123.67,2.0,2.2,042  km N 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:10 PM-6.6400-123.7200-2.5,28 January 2026 - 04:10 PM,6.64,123.72,14.0,2.5,037  km N 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:07 PM-6.6000-124.1300-1.5,28 January 2026 - 04:07 PM,6.6,124.13,23.0,1.5,010  km N 59° E of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:04 PM-6.5400-123.6800-3.0,28 January 2026 - 04:04 PM,6.54,123.68,21.0,3.0,041  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:01 PM-6.6300-123.7400-3.7,28 January 2026 - 04:01 PM,6.63,123.74,16.0,3.7,036  km N 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:51 PM-6.5500-124.1900-1.8,28 January 2026 - 03:51 PM,6.55,124.19,2.0,1.8,015  km S 88° E of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:50 PM-6.8200-124.0000-2.0,28 January 2026 - 03:50 PM,6.82,124.0,25.0,2.0,030  km N 11° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:49 PM-6.5800-124.2800-1.6,28 January 2026 - 03:49 PM,6.58,124.28,4.0,1.6,025  km N 84° E of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:45 PM-6.6900-123.7800-2.3,28 January 2026 - 03:45 PM,6.69,123.78,3.0,2.3,033  km N 63° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:36 PM-6.6000-123.9400-3.3,28 January 2026 - 03:36 PM,6.6,123.94,2.0,3.3,015  km N 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:47 PM-6.5500-123.7300-3.1,28 January 2026 - 03:47 PM,6.55,123.73,7.0,3.1,036  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:40 PM-6.5300-123.6400-2.9,28 January 2026 - 03:40 PM,6.53,123.64,9.0,2.9,046  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:43 PM-6.4700-123.6800-3.9,28 January 2026 - 03:43 PM,6.47,123.68,25.0,3.9,042  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:32 PM-6.4600-123.6400-2.0,28 January 2026 - 03:32 PM,6.46,123.64,4.0,2.0,047  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:24 PM-6.4900-123.7500-3.5,28 January 2026 - 03:24 PM,6.49,123.75,5.0,3.5,035  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:31 PM-6.6100-123.7800-1.7,28 January 2026 - 03:31 PM,6.61,123.78,3.0,1.7,030  km N 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:17 PM-6.2900-123.7400-2.3,28 January 2026 - 03:17 PM,6.29,123.74,36.0,2.3,045  km S 50° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:21 PM-13.7900-120.4700-1.7,28 January 2026 - 03:21 PM,13.79,120.47,81.0,1.7,018  km S 75° W of Calatagan (Batangas),January,2026
+28 January 2026 - 03:13 PM-6.3800-123.5400-2.9,28 January 2026 - 03:13 PM,6.38,123.54,2.0,2.9,060  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:08 PM-6.9100-123.7900-1.4,28 January 2026 - 03:08 PM,6.91,123.79,18.0,1.4,049  km N 36° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:04 PM-6.8000-124.4600-2.8,28 January 2026 - 03:04 PM,6.8,124.46,18.0,2.8,002  km S 13° E of Ampatuan (Maguindanao Del Sur),January,2026
+28 January 2026 - 03:13 PM-6.5500-123.6200-3.2,28 January 2026 - 03:13 PM,6.55,123.62,14.0,3.2,048  km S 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:50 PM-6.5400-123.5600-2.6,28 January 2026 - 02:50 PM,6.54,123.56,3.0,2.6,054  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:11 PM-6.3800-123.6900-2.6,28 January 2026 - 03:11 PM,6.38,123.69,5.0,2.6,046  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:05 PM-6.6900-124.1200-2.0,28 January 2026 - 03:05 PM,6.69,124.12,2.0,2.0,016  km N 26° E of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:00 PM-6.6900-123.7100-2.0,28 January 2026 - 03:00 PM,6.69,123.71,20.0,2.0,040  km N 68° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:50 PM-6.5400-123.5600-2.6,28 January 2026 - 02:50 PM,6.54,123.56,3.0,2.6,054  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:46 PM-6.5200-123.6900-5.9,28 January 2026 - 02:46 PM,6.52,123.69,4.0,5.9,040  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:37 PM-6.4900-123.6300-3.3,28 January 2026 - 02:37 PM,6.49,123.63,5.0,3.3,047  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:37 PM-6.4900-123.6300-3.3,28 January 2026 - 02:37 PM,6.49,123.63,5.0,3.3,047  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:31 PM-6.4700-123.6700-4.6,28 January 2026 - 02:31 PM,6.47,123.67,3.0,4.6,044  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:56 PM-6.5800-123.6400-3.7,28 January 2026 - 01:56 PM,6.58,123.64,2.0,3.7,046  km N 86° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:01 PM-6.5300-123.8100-1.5,28 January 2026 - 02:01 PM,6.53,123.81,41.0,1.5,027  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:42 PM-6.4200-123.6800-2.4,28 January 2026 - 01:42 PM,6.42,123.68,19.0,2.4,044  km S 70° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:38 PM-6.4400-123.6600-4.1,28 January 2026 - 01:38 PM,6.44,123.66,16.0,4.1,045  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:23 PM-6.4600-123.6200-1.9,28 January 2026 - 01:23 PM,6.46,123.62,15.0,1.9,049  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:15 PM-6.2100-123.7000-2.0,28 January 2026 - 01:15 PM,6.21,123.7,8.0,2.0,054  km S 46° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:10 PM-6.5800-123.7100-2.8,28 January 2026 - 01:10 PM,6.58,123.71,4.0,2.8,038  km N 86° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:08 PM-6.4700-123.6700-4.0,28 January 2026 - 01:08 PM,6.47,123.67,10.0,4.0,043  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:58 PM-9.5000-126.0000-1.7,28 January 2026 - 12:58 PM,9.5,126.0,22.0,1.7,016  km N 22° E of Carrascal (Surigao Del Sur),January,2026
+28 January 2026 - 12:56 PM-6.5600-123.7700-2.1,28 January 2026 - 12:56 PM,6.56,123.77,16.0,2.1,031  km N 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:26 PM-6.4800-123.7200-1.8,28 January 2026 - 12:26 PM,6.48,123.72,4.0,1.8,037  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:06 PM-6.4700-123.8800-1.8,28 January 2026 - 12:06 PM,6.47,123.88,36.0,1.8,022  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:42 AM-6.5900-124.0500-1.7,28 January 2026 - 11:42 AM,6.59,124.05,19.0,1.7,004  km N 02° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:41 AM-6.5600-123.6800-2.1,28 January 2026 - 11:41 AM,6.56,123.68,17.0,2.1,041  km N 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:37 AM-6.4700-123.6700-2.9,28 January 2026 - 11:37 AM,6.47,123.67,4.0,2.9,043  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:33 AM-6.4500-123.6900-4.0,28 January 2026 - 11:33 AM,6.45,123.69,27.0,4.0,042  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:30 AM-6.6400-123.7900-2.6,28 January 2026 - 11:30 AM,6.64,123.79,7.0,2.6,031  km N 72° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:25 AM-6.5500-123.7300-3.1,28 January 2026 - 11:25 AM,6.55,123.73,4.0,3.1,036  km S 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:24 AM-6.4400-123.7800-1.5,28 January 2026 - 11:24 AM,6.44,123.78,11.0,1.5,032  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:23 AM-6.5000-123.7000-2.5,28 January 2026 - 11:23 AM,6.5,123.7,17.0,2.5,039  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:17 AM-6.3400-123.7000-1.7,28 January 2026 - 11:17 AM,6.34,123.7,10.0,1.7,045  km S 59° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 11:16 AM-6.6200-123.7200-1.9,28 January 2026 - 11:16 AM,6.62,123.72,23.0,1.9,037  km N 79° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 11:15 AM-6.3200-123.7700-1.6,28 January 2026 - 11:15 AM,6.32,123.77,23.0,1.6,041  km S 51° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 11:07 AM-6.5000-123.5900-2.5,28 January 2026 - 11:07 AM,6.5,123.59,5.0,2.5,051  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 11:07 AM-6.5600-123.6400-2.5,28 January 2026 - 11:07 AM,6.56,123.64,13.0,2.5,045  km N 90° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 11:00 AM-6.3700-123.7400-1.7,28 January 2026 - 11:00 AM,6.37,123.74,30.0,1.7,040  km S 59° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 10:58 AM-6.5100-123.7900-1.5,28 January 2026 - 10:58 AM,6.51,123.79,23.0,1.5,030  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 10:34 AM-6.3300-123.8300-1.7,28 January 2026 - 10:34 AM,6.33,123.83,8.0,1.7,034  km S 44° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 10:28 AM-6.5100-123.7700-1.8,28 January 2026 - 10:28 AM,6.51,123.77,24.0,1.8,031  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 10:25 AM-6.4400-123.6900-2.7,28 January 2026 - 10:25 AM,6.44,123.69,2.0,2.7,042  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 10:23 AM-6.4800-123.7100-4.3,28 January 2026 - 10:23 AM,6.48,123.71,10.0,4.3,038  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:27 AM-6.4400-123.6700-1.8,28 January 2026 - 10:27 AM,6.44,123.67,23.0,1.8,044  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:25 AM-6.4400-123.5500-2.7,28 January 2026 - 10:25 AM,6.44,123.55,9.0,2.7,056  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 10:23 AM-6.4700-123.6900-3.9,28 January 2026 - 10:23 AM,6.47,123.69,15.0,3.9,041  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 10:12 AM-6.3400-123.6400-2.5,28 January 2026 - 10:12 AM,6.34,123.64,33.0,2.5,051  km S 62° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 10:10 AM-6.5000-123.7200-2.0,28 January 2026 - 10:10 AM,6.5,123.72,2.0,2.0,040  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 10:05 AM-6.4700-123.7300-3.0,28 January 2026 - 10:05 AM,6.47,123.73,3.0,3.0,037  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 09:54 AM-6.4400-123.6900-2.5,28 January 2026 - 09:54 AM,6.44,123.69,4.0,2.5,042  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 09:54 AM-17.7600-120.3200-1.2,28 January 2026 - 09:54 AM,17.76,120.32,14.0,1.2,014  km N 52° W of Magsingal (Ilocos Sur),January,2026
-28 January 2026 - 09:41 AM-6.5100-123.7100-5.2,28 January 2026 - 09:41 AM,6.51,123.71,5.0,5.2,038  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 09:18 AM-6.5100-123.6700-2.3,28 January 2026 - 09:18 AM,6.51,123.67,2.0,2.3,043  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 08:49 AM-8.0300-127.0400-2.2,28 January 2026 - 08:49 AM,8.03,127.04,16.0,2.2,070  km N 68° E of Cateel (Davao Oriental),January,2026
+28 January 2026 - 09:54 AM-6.5600-123.7200-2.5,28 January 2026 - 09:54 AM,6.56,123.72,15.0,2.5,037  km N 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:54 AM-17.8200-120.3400-1.9,28 January 2026 - 09:54 AM,17.82,120.34,20.0,1.9,013  km N 77° W of Cabugao (Ilocos Sur),January,2026
+28 January 2026 - 09:41 AM-6.4700-123.7300-5.2,28 January 2026 - 09:41 AM,6.47,123.73,2.0,5.2,037  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 09:18 AM-6.3500-123.6800-2.6,28 January 2026 - 09:18 AM,6.35,123.68,18.0,2.6,047  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:49 AM-8.0200-126.8400-2.2,28 January 2026 - 08:49 AM,8.02,126.84,14.0,2.2,049  km N 59° E of Cateel (Davao Oriental),January,2026
 28 January 2026 - 08:47 AM-6.3200-123.6400-2.2,28 January 2026 - 08:47 AM,6.32,123.64,8.0,2.2,052  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 08:43 AM-6.4100-123.7500-1.8,28 January 2026 - 08:43 AM,6.41,123.75,7.0,1.8,037  km S 64° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 08:32 AM-6.5900-123.8000-2.4,28 January 2026 - 08:32 AM,6.59,123.8,8.0,2.4,028  km N 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:43 AM-6.0100-123.7200-1.8,28 January 2026 - 08:43 AM,6.01,123.72,34.0,1.8,071  km S 31° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:32 AM-6.5400-123.6800-2.4,28 January 2026 - 08:32 AM,6.54,123.68,22.0,2.4,041  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 08:27 AM-6.3700-123.7100-2.1,28 January 2026 - 08:27 AM,6.37,123.71,25.0,2.1,043  km S 61° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 08:21 AM-6.4900-123.7700-2.3,28 January 2026 - 08:21 AM,6.49,123.77,3.0,2.3,032  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 08:21 AM-6.5300-123.7500-2.3,28 January 2026 - 08:21 AM,6.53,123.75,3.0,2.3,034  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 08:15 AM-6.4500-123.7200-1.5,28 January 2026 - 08:15 AM,6.45,123.72,19.0,1.5,038  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 08:11 AM-6.7300-124.2400-2.4,28 January 2026 - 08:11 AM,6.73,124.24,3.0,2.4,022  km N 60° E of Lebak (Sultan Kudarat),January,2026
+28 January 2026 - 08:11 AM-6.2900-123.6400-2.5,28 January 2026 - 08:11 AM,6.29,123.64,14.0,2.5,054  km S 57° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 07:56 AM-6.9300-124.8400-1.5,28 January 2026 - 07:56 AM,6.93,124.84,18.0,1.5,005  km S 66° W of M'lang (Cotabato),January,2026
 28 January 2026 - 07:55 AM-6.4200-123.8700-1.7,28 January 2026 - 07:55 AM,6.42,123.87,31.0,1.7,025  km S 52° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 07:49 AM-6.6600-124.2000-1.6,28 January 2026 - 07:49 AM,6.66,124.2,12.0,1.6,021  km N 56° E of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 07:44 AM-5.9000-127.2000-3.2,28 January 2026 - 07:44 AM,5.9,127.2,4.0,3.2,150  km S 56° E of Governor Generoso (Davao Oriental),January,2026
-28 January 2026 - 07:37 AM-6.5200-123.8100-1.5,28 January 2026 - 07:37 AM,6.52,123.81,25.0,1.5,026  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 07:34 AM-6.2700-123.8000-1.7,28 January 2026 - 07:34 AM,6.27,123.8,30.0,1.7,042  km S 42° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 07:27 AM-6.5900-123.7600-2.7,28 January 2026 - 07:27 AM,6.59,123.76,2.0,2.7,032  km N 83° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 07:19 AM-6.5200-123.6700-4.6,28 January 2026 - 07:19 AM,6.52,123.67,10.0,4.6,042  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 07:14 AM-6.6900-123.7800-2.4,28 January 2026 - 07:14 AM,6.69,123.78,12.0,2.4,034  km N 63° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 06:54 AM-6.4400-125.7500-3.3,28 January 2026 - 06:54 AM,6.44,125.75,140.0,3.3,016  km N 78° E of Malita (Davao Occidental),January,2026
+28 January 2026 - 07:44 AM-5.4500-127.3800-3.0,28 January 2026 - 07:44 AM,5.45,127.38,98.0,3.0,196  km S 47° E of Governor Generoso (Davao Oriental),January,2026
+28 January 2026 - 07:37 AM-6.4900-123.6300-1.8,28 January 2026 - 07:37 AM,6.49,123.63,7.0,1.8,047  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:34 AM-6.5700-123.6500-1.6,28 January 2026 - 07:34 AM,6.57,123.65,15.0,1.6,044  km N 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:27 AM-6.6000-123.7700-3.4,28 January 2026 - 07:27 AM,6.6,123.77,4.0,3.4,032  km N 81° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:19 AM-6.5500-123.7600-4.6,28 January 2026 - 07:19 AM,6.55,123.76,5.0,4.6,031  km S 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 07:14 AM-6.4600-124.0300-2.4,28 January 2026 - 07:14 AM,6.46,124.03,14.0,2.4,011  km S 12° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:54 AM-6.4000-125.7700-2.7,28 January 2026 - 06:54 AM,6.4,125.77,140.0,2.7,018  km S 84° E of Malita (Davao Occidental),January,2026
 28 January 2026 - 06:41 AM-9.5400-126.4000-2.2,28 January 2026 - 06:41 AM,9.54,126.4,28.0,2.2,037  km N 39° E of Cortes (Surigao Del Sur),January,2026
 28 January 2026 - 06:28 AM-6.4900-123.7500-3.5,28 January 2026 - 06:28 AM,6.49,123.75,2.0,3.5,034  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 06:17 AM-6.5700-123.8700-1.5,28 January 2026 - 06:17 AM,6.57,123.87,2.0,1.5,021  km N 85° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 06:11 AM-6.4700-123.6700-3.0,28 January 2026 - 06:11 AM,6.47,123.67,4.0,3.0,043  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 06:07 AM-6.5400-123.8000-2.1,28 January 2026 - 06:07 AM,6.54,123.8,7.0,2.1,028  km S 87° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 05:51 AM-6.2100-123.8300-2.0,28 January 2026 - 05:51 AM,6.21,123.83,14.0,2.0,045  km S 33° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 05:49 AM-6.5000-123.8700-1.7,28 January 2026 - 05:49 AM,6.5,123.87,20.0,1.7,021  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 05:44 AM-6.3900-123.8800-2.0,28 January 2026 - 05:44 AM,6.39,123.88,33.0,2.0,026  km S 46° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:11 AM-6.5800-123.7400-2.8,28 January 2026 - 06:11 AM,6.58,123.74,20.0,2.8,034  km N 86° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 06:07 AM-6.4700-123.7300-2.2,28 January 2026 - 06:07 AM,6.47,123.73,31.0,2.2,037  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:51 AM-6.0300-123.7600-2.1,28 January 2026 - 05:51 AM,6.03,123.76,15.0,2.1,066  km S 29° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:49 AM-6.5000-123.7800-1.8,28 January 2026 - 05:49 AM,6.5,123.78,13.0,1.8,031  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:44 AM-6.7700-123.9700-2.0,28 January 2026 - 05:44 AM,6.77,123.97,14.0,2.0,026  km N 20° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 05:37 AM-6.4800-123.7900-2.1,28 January 2026 - 05:37 AM,6.48,123.79,7.0,2.1,030  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 05:31 AM-7.7900-126.1800-1.8,28 January 2026 - 05:31 AM,7.79,126.18,36.0,1.8,015  km S 73° E of Monkayo (Davao De Oro),January,2026
-28 January 2026 - 05:31 AM-6.5400-123.8200-2.2,28 January 2026 - 05:31 AM,6.54,123.82,3.0,2.2,026  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 05:25 AM-6.4900-123.7800-2.5,28 January 2026 - 05:25 AM,6.49,123.78,6.0,2.5,031  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 05:24 AM-6.5200-123.8900-2.1,28 January 2026 - 05:24 AM,6.52,123.89,3.0,2.1,018  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:31 AM-6.4800-123.6800-2.0,28 January 2026 - 05:31 AM,6.48,123.68,15.0,2.0,041  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:25 AM-6.4700-123.7300-2.4,28 January 2026 - 05:25 AM,6.47,123.73,29.0,2.4,037  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:23 AM-6.3200-123.6000-2.3,28 January 2026 - 05:23 AM,6.32,123.6,23.0,2.3,056  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 05:19 AM-13.9200-123.7200-2.4,28 January 2026 - 05:19 AM,13.92,123.72,1.0,2.4,005  km N 27° E of Garchitorena (Camarines Sur),January,2026
-28 January 2026 - 05:15 AM-6.4800-123.8200-1.2,28 January 2026 - 05:15 AM,6.48,123.82,7.0,1.2,027  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:57 AM-7.5000-124.3800-1.6,28 January 2026 - 04:57 AM,7.5,124.38,15.0,1.6,002  km S 36° E of Buldon (Maguindanao Del Norte),January,2026
-28 January 2026 - 04:55 AM-6.5900-123.8100-2.3,28 January 2026 - 04:55 AM,6.59,123.81,2.0,2.3,027  km N 82° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:44 AM-6.2100-123.5800-3.4,28 January 2026 - 04:44 AM,6.21,123.58,6.0,3.4,064  km S 54° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:39 AM-6.5200-123.7200-2.5,28 January 2026 - 04:39 AM,6.52,123.72,2.0,2.5,037  km S 83° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:36 AM-6.6000-123.7900-2.3,28 January 2026 - 04:36 AM,6.6,123.79,6.0,2.3,029  km N 80° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:33 AM-6.3300-123.8100-1.1,28 January 2026 - 04:33 AM,6.33,123.81,33.0,1.1,036  km S 46° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:28 AM-6.5400-123.7500-2.3,28 January 2026 - 04:28 AM,6.54,123.75,3.0,2.3,033  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:25 AM-6.5000-123.6500-2.9,28 January 2026 - 04:25 AM,6.5,123.65,2.0,2.9,044  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:17 AM-6.3400-123.7900-2.3,28 January 2026 - 04:17 AM,6.34,123.79,19.0,2.3,037  km S 50° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 04:10 AM-6.5500-123.7200-3.5,28 January 2026 - 04:10 AM,6.55,123.72,12.0,3.5,037  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 03:54 AM-6.4400-123.6700-5.1,28 January 2026 - 03:54 AM,6.44,123.67,5.0,5.1,044  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 03:46 AM-6.4900-123.6600-4.3,28 January 2026 - 03:46 AM,6.49,123.66,2.0,4.3,043  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 05:15 AM-6.4100-123.7900-1.5,28 January 2026 - 05:15 AM,6.41,123.79,8.0,1.5,033  km S 62° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:57 AM-7.5000-124.3900-2.1,28 January 2026 - 04:57 AM,7.5,124.39,19.0,2.1,003  km S 45° E of Buldon (Maguindanao Del Norte),January,2026
+28 January 2026 - 04:55 AM-6.5500-123.7100-2.4,28 January 2026 - 04:55 AM,6.55,123.71,4.0,2.4,037  km S 89° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:45 AM-6.3900-123.7200-3.5,28 January 2026 - 04:45 AM,6.39,123.72,28.0,3.5,041  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:39 AM-6.5000-123.6600-2.5,28 January 2026 - 04:39 AM,6.5,123.66,12.0,2.5,044  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:36 AM-6.5000-123.6900-2.4,28 January 2026 - 04:36 AM,6.5,123.69,21.0,2.4,041  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:33 AM-6.3300-123.9300-1.5,28 January 2026 - 04:33 AM,6.33,123.93,41.0,1.5,028  km S 29° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:28 AM-6.5400-123.6800-2.4,28 January 2026 - 04:28 AM,6.54,123.68,4.0,2.4,041  km S 88° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:25 AM-6.4000-123.6500-2.9,28 January 2026 - 04:25 AM,6.4,123.65,2.0,2.9,047  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:17 AM-6.4100-123.7900-2.0,28 January 2026 - 04:17 AM,6.41,123.79,29.0,2.0,033  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 04:10 AM-6.4500-123.6700-3.5,28 January 2026 - 04:10 AM,6.45,123.67,3.0,3.5,044  km S 74° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:54 AM-6.4300-123.6700-5.1,28 January 2026 - 03:54 AM,6.43,123.67,6.0,5.1,045  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:46 AM-6.4100-123.6300-4.3,28 January 2026 - 03:46 AM,6.41,123.63,17.0,4.3,049  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 03:40 AM-6.5800-123.8900-1.6,28 January 2026 - 03:40 AM,6.58,123.89,21.0,1.6,018  km N 83° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 03:35 AM-10.1200-123.1500-2.1,28 January 2026 - 03:35 AM,10.12,123.15,24.0,2.1,014  km N 89° W of City Of Guihulngan (Negros Oriental),January,2026
-28 January 2026 - 03:32 AM-6.3400-123.6500-3.7,28 January 2026 - 03:32 AM,6.34,123.65,25.0,3.7,050  km S 62° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 03:26 AM-14.0600-121.1900-1.6,28 January 2026 - 03:26 AM,14.06,121.19,34.0,1.6,004  km N 75° E of Malvar (Batangas),January,2026
+28 January 2026 - 03:35 AM-10.1200-123.1800-2.0,28 January 2026 - 03:35 AM,10.12,123.18,24.0,2.0,010  km S 88° W of City Of Guihulngan (Negros Oriental),January,2026
+28 January 2026 - 03:32 AM-6.4400-123.7200-3.2,28 January 2026 - 03:32 AM,6.44,123.72,17.0,3.2,039  km S 70° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:26 AM-14.0200-121.1700-1.9,28 January 2026 - 03:26 AM,14.02,121.17,39.0,1.9,004  km S 29° E of Malvar (Batangas),January,2026
 28 January 2026 - 03:25 AM-6.6200-123.8000-3.5,28 January 2026 - 03:25 AM,6.62,123.8,3.0,3.5,029  km N 76° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 03:23 AM-13.0300-120.5100-3.0,28 January 2026 - 03:23 AM,13.03,120.51,5.0,3.0,024  km S 23° W of Mamburao (Occidental Mindoro),January,2026
-28 January 2026 - 03:19 AM-6.4400-123.6500-2.5,28 January 2026 - 03:19 AM,6.44,123.65,3.0,2.5,046  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 03:15 AM-12.4800-123.7600-2.0,28 January 2026 - 03:15 AM,12.48,123.76,10.0,2.0,001  km S 49° W of San Fernando (Masbate),January,2026
+28 January 2026 - 03:23 AM-13.0800-120.3400-3.1,28 January 2026 - 03:23 AM,13.08,120.34,2.0,3.1,032  km S 58° W of Mamburao (Occidental Mindoro),January,2026
+28 January 2026 - 03:19 AM-6.4500-123.6400-2.5,28 January 2026 - 03:19 AM,6.45,123.64,22.0,2.5,047  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:14 AM-12.4600-123.6800-2.4,28 January 2026 - 03:14 AM,12.46,123.68,10.0,2.4,009  km S 73° W of San Fernando (Masbate),January,2026
 28 January 2026 - 03:10 AM-11.0800-123.9700-1.9,28 January 2026 - 03:10 AM,11.08,123.97,2.0,1.9,004  km N 13° W of City Of Bogo (Cebu),January,2026
-28 January 2026 - 03:09 AM-6.3900-123.8000-2.5,28 January 2026 - 03:09 AM,6.39,123.8,8.0,2.5,034  km S 56° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 03:09 AM-6.2800-123.6900-2.5,28 January 2026 - 03:09 AM,6.28,123.69,15.0,2.5,050  km S 52° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:59 AM-6.6500-123.8000-2.6,28 January 2026 - 02:59 AM,6.65,123.8,11.0,2.6,029  km N 70° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:51 AM-6.5000-123.6800-2.1,28 January 2026 - 02:51 AM,6.5,123.68,9.0,2.1,041  km S 82° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 02:45 AM-6.6100-123.8400-2.3,28 January 2026 - 02:45 AM,6.61,123.84,7.0,2.3,024  km N 76° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:45 AM-6.4200-123.6300-2.6,28 January 2026 - 02:45 AM,6.42,123.63,24.0,2.6,049  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:42 AM-6.3800-123.5900-3.0,28 January 2026 - 02:42 AM,6.38,123.59,18.0,3.0,055  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 02:39 AM-6.4400-123.8100-2.5,28 January 2026 - 02:39 AM,6.44,123.81,34.0,2.5,030  km S 64° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:39 AM-6.4000-123.6100-2.6,28 January 2026 - 02:39 AM,6.4,123.61,24.0,2.6,051  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:32 AM-6.3000-123.9100-1.8,28 January 2026 - 02:32 AM,6.3,123.91,17.0,1.8,032  km S 28° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:27 AM-6.5100-123.8300-2.1,28 January 2026 - 02:27 AM,6.51,123.83,5.0,2.1,025  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 02:25 AM-6.4800-123.6500-3.3,28 January 2026 - 02:25 AM,6.48,123.65,19.0,3.3,045  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:25 AM-6.4800-123.6600-3.5,28 January 2026 - 02:25 AM,6.48,123.66,5.0,3.5,045  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:22 AM-6.6000-124.0500-1.3,28 January 2026 - 02:22 AM,6.6,124.05,2.0,1.3,005  km N 01° E of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:14 AM-6.7800-124.0500-1.6,28 January 2026 - 02:14 AM,6.78,124.05,1.0,1.6,025  km North of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 02:14 AM-12.5200-123.6100-1.7,28 January 2026 - 02:14 AM,12.52,123.61,10.0,1.7,013  km N 68° E of Baleno (Masbate),January,2026
-28 January 2026 - 02:12 AM-10.9900-123.9100-2.4,28 January 2026 - 02:12 AM,10.99,123.91,9.0,2.4,010  km S 51° W of City Of Bogo (Cebu),January,2026
+28 January 2026 - 02:12 AM-10.9300-123.9500-2.4,28 January 2026 - 02:12 AM,10.93,123.95,3.0,2.4,013  km S 14° W of City Of Bogo (Cebu),January,2026
 28 January 2026 - 02:10 AM-6.2300-123.7800-2.2,28 January 2026 - 02:10 AM,6.23,123.78,22.0,2.2,047  km S 39° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 02:08 AM-6.4500-124.0800-2.1,28 January 2026 - 02:08 AM,6.45,124.08,7.0,2.1,012  km S 13° E of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 02:00 AM-6.4200-123.6300-3.3,28 January 2026 - 02:00 AM,6.42,123.63,18.0,3.3,049  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:58 AM-6.3600-123.9100-1.6,28 January 2026 - 01:58 AM,6.36,123.91,2.0,1.6,027  km S 37° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:54 AM-6.2100-123.7400-2.0,28 January 2026 - 01:54 AM,6.21,123.74,14.0,2.0,052  km S 42° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:50 AM-6.4900-123.8100-2.3,28 January 2026 - 01:50 AM,6.49,123.81,7.0,2.3,027  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:47 AM-5.9900-123.7600-2.7,28 January 2026 - 01:47 AM,5.99,123.76,35.0,2.7,070  km S 27° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:43 AM-6.3400-123.6800-4.7,28 January 2026 - 01:43 AM,6.34,123.68,6.0,4.7,047  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:08 AM-6.2400-124.0600-2.1,28 January 2026 - 02:08 AM,6.24,124.06,21.0,2.1,035  km S 03° E of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 02:00 AM-6.4000-123.6800-3.4,28 January 2026 - 02:00 AM,6.4,123.68,10.0,3.4,044  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:58 AM-6.4100-124.0200-1.6,28 January 2026 - 01:58 AM,6.41,124.02,18.0,1.6,017  km S 13° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:54 AM-6.5200-123.7400-2.1,28 January 2026 - 01:54 AM,6.52,123.74,21.0,2.1,034  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:50 AM-6.3400-123.7100-2.5,28 January 2026 - 01:50 AM,6.34,123.71,33.0,2.5,045  km S 57° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:47 AM-6.3700-123.7300-3.1,28 January 2026 - 01:47 AM,6.37,123.73,27.0,3.1,041  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:43 AM-6.4100-123.6700-4.6,28 January 2026 - 01:43 AM,6.41,123.67,11.0,4.6,045  km S 70° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 01:42 AM-6.3500-123.7800-1.7,28 January 2026 - 01:42 AM,6.35,123.78,34.0,1.7,038  km S 53° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:41 AM-6.4200-123.7000-3.9,28 January 2026 - 01:41 AM,6.42,123.7,7.0,3.9,042  km S 69° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:41 AM-6.4800-123.7400-3.9,28 January 2026 - 01:41 AM,6.48,123.74,6.0,3.9,035  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 01:33 AM-6.4900-123.7100-2.7,28 January 2026 - 01:33 AM,6.49,123.71,17.0,2.7,039  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:30 AM-6.5100-123.8200-2.9,28 January 2026 - 01:30 AM,6.51,123.82,2.0,2.9,026  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:30 AM-6.4800-123.7000-3.0,28 January 2026 - 01:30 AM,6.48,123.7,23.0,3.0,040  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 01:27 AM-6.6000-123.9400-1.4,28 January 2026 - 01:27 AM,6.6,123.94,4.0,1.4,013  km N 68° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 01:25 AM-6.5100-123.7800-2.6,28 January 2026 - 01:25 AM,6.51,123.78,4.0,2.6,030  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 01:23 AM-6.4500-123.7300-2.3,28 January 2026 - 01:23 AM,6.45,123.73,3.0,2.3,037  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 01:22 AM-6.4600-123.8800-1.4,28 January 2026 - 01:22 AM,6.46,123.88,22.0,1.4,022  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:20 AM-6.5300-123.7200-2.8,28 January 2026 - 01:20 AM,6.53,123.72,4.0,2.8,037  km S 86° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:12 AM-6.4900-123.7300-2.8,28 January 2026 - 01:12 AM,6.49,123.73,17.0,2.8,036  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:07 AM-6.2200-123.7400-2.5,28 January 2026 - 01:07 AM,6.22,123.74,20.0,2.5,051  km S 43° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:05 AM-6.3800-123.7100-5.4,28 January 2026 - 01:05 AM,6.38,123.71,9.0,5.4,042  km S 62° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 01:02 AM-6.5100-123.6600-3.6,28 January 2026 - 01:02 AM,6.51,123.66,20.0,3.6,044  km S 84° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:56 AM-18.8900-120.6100-3.7,28 January 2026 - 12:56 AM,18.89,120.61,3.0,3.7,041  km N 27° W of Pagudpud (Ilocos Norte),January,2026
+28 January 2026 - 01:20 AM-6.4600-123.6800-2.8,28 January 2026 - 01:20 AM,6.46,123.68,18.0,2.8,042  km S 75° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:12 AM-6.3400-123.6700-3.1,28 January 2026 - 01:12 AM,6.34,123.67,16.0,3.1,048  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:07 AM-6.3800-123.6800-2.5,28 January 2026 - 01:07 AM,6.38,123.68,18.0,2.5,045  km S 65° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:05 AM-6.4200-123.6800-5.4,28 January 2026 - 01:05 AM,6.42,123.68,14.0,5.4,043  km S 70° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 01:02 AM-6.4700-123.6500-3.5,28 January 2026 - 01:02 AM,6.47,123.65,17.0,3.5,046  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:56 AM-18.8900-120.6900-3.8,28 January 2026 - 12:56 AM,18.89,120.69,5.0,3.8,039  km N 16° W of Pagudpud (Ilocos Norte),January,2026
 28 January 2026 - 12:52 AM-6.4900-123.7700-1.5,28 January 2026 - 12:52 AM,6.49,123.77,10.0,1.5,032  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:54 AM-6.5100-123.8100-1.7,28 January 2026 - 12:54 AM,6.51,123.81,6.0,1.7,027  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:47 AM-6.4300-123.8100-2.1,28 January 2026 - 12:47 AM,6.43,123.81,27.0,2.1,030  km S 62° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:54 AM-6.3800-123.7700-2.0,28 January 2026 - 12:54 AM,6.38,123.77,18.0,2.0,036  km S 58° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:47 AM-6.5300-123.7400-2.2,28 January 2026 - 12:47 AM,6.53,123.74,8.0,2.2,034  km S 86° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 12:36 AM-6.4000-123.7500-1.6,28 January 2026 - 12:36 AM,6.4,123.75,14.0,1.6,037  km S 63° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:35 AM-6.4600-123.8400-1.5,28 January 2026 - 12:35 AM,6.46,123.84,4.0,1.5,026  km S 65° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:30 AM-6.3100-123.8400-2.4,28 January 2026 - 12:30 AM,6.31,123.84,10.0,2.4,036  km S 40° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:26 AM-6.4400-123.6900-2.2,28 January 2026 - 12:26 AM,6.44,123.69,5.0,2.2,042  km S 72° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:35 AM-6.5800-123.8700-1.5,28 January 2026 - 12:35 AM,6.58,123.87,2.0,1.5,020  km N 83° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:30 AM-6.7700-123.8800-2.4,28 January 2026 - 12:30 AM,6.77,123.88,14.0,2.4,030  km N 38° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:26 AM-6.4100-123.6900-2.2,28 January 2026 - 12:26 AM,6.41,123.69,26.0,2.2,043  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 12:24 AM-6.8400-124.9500-1.8,28 January 2026 - 12:24 AM,6.84,124.95,36.0,1.8,008  km N 85° E of Tulunan (Cotabato),January,2026
-28 January 2026 - 12:24 AM-6.5400-123.9200-1.5,28 January 2026 - 12:24 AM,6.54,123.92,2.0,1.5,015  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:23 AM-6.5000-123.7200-1.6,28 January 2026 - 12:23 AM,6.5,123.72,9.0,1.6,038  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
 28 January 2026 - 12:19 AM-6.3500-123.7800-2.1,28 January 2026 - 12:19 AM,6.35,123.78,16.0,2.1,038  km S 52° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:19 AM-15.6700-119.9500-2.8,28 January 2026 - 12:19 AM,15.67,119.95,20.0,2.8,005  km N 20° E of Candelaria (Zambales),January,2026
-28 January 2026 - 12:14 AM-6.4100-123.6900-2.6,28 January 2026 - 12:14 AM,6.41,123.69,5.0,2.6,042  km S 68° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:08 AM-6.2300-123.6600-2.0,28 January 2026 - 12:08 AM,6.23,123.66,28.0,2.0,057  km S 50° W of Kalamansig (Sultan Kudarat),January,2026
-28 January 2026 - 12:03 AM-6.5800-123.8200-2.3,28 January 2026 - 12:03 AM,6.58,123.82,6.0,2.3,025  km N 84° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:56 PM-6.6300-123.7500-2.7,27 January 2026 - 11:56 PM,6.63,123.75,3.0,2.7,034  km N 76° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:50 PM-6.4400-123.5500-4.8,27 January 2026 - 11:50 PM,6.44,123.55,17.0,4.8,057  km S 78° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:48 PM-6.6000-123.8300-2.9,27 January 2026 - 11:48 PM,6.6,123.83,4.0,2.9,025  km N 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:19 AM-15.6700-119.9800-2.9,28 January 2026 - 12:19 AM,15.67,119.98,10.0,2.9,007  km N 44° E of Candelaria (Zambales),January,2026
+28 January 2026 - 12:14 AM-6.4900-123.7100-2.7,28 January 2026 - 12:14 AM,6.49,123.71,22.0,2.7,038  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:08 AM-6.4600-123.6400-2.2,28 January 2026 - 12:08 AM,6.46,123.64,15.0,2.2,046  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
+28 January 2026 - 12:03 AM-6.4100-123.7300-2.4,28 January 2026 - 12:03 AM,6.41,123.73,3.0,2.4,039  km S 66° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:56 PM-6.5300-123.7400-2.9,27 January 2026 - 11:56 PM,6.53,123.74,24.0,2.9,035  km S 86° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:50 PM-6.4100-123.7000-4.8,27 January 2026 - 11:50 PM,6.41,123.7,8.0,4.8,043  km S 67° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:48 PM-6.4600-123.6900-3.1,27 January 2026 - 11:48 PM,6.46,123.69,14.0,3.1,042  km S 76° W of Kalamansig (Sultan Kudarat),January,2026
 27 January 2026 - 11:48 PM-17.6000-120.5700-1.7,27 January 2026 - 11:48 PM,17.6,120.57,7.0,1.7,003  km N 09° E of Langiden (Abra),January,2026
-27 January 2026 - 11:43 PM-6.5000-123.7400-2.3,27 January 2026 - 11:43 PM,6.5,123.74,2.0,2.3,035  km S 81° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:33 PM-6.6000-123.7800-2.2,27 January 2026 - 11:33 PM,6.6,123.78,4.0,2.2,030  km N 81° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:43 PM-6.3900-123.6800-2.4,27 January 2026 - 11:43 PM,6.39,123.68,7.0,2.4,045  km S 66° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:33 PM-5.8900-123.6200-2.4,27 January 2026 - 11:33 PM,5.89,123.62,23.0,2.4,088  km S 33° W of Kalamansig (Sultan Kudarat),January,2026
 27 January 2026 - 11:28 PM-6.3900-124.0000-1.8,27 January 2026 - 11:28 PM,6.39,124.0,5.0,1.8,019  km S 16° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:26 PM-6.6100-123.7200-3.2,27 January 2026 - 11:26 PM,6.61,123.72,16.0,3.2,037  km N 81° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:11 PM-6.1900-123.6400-2.6,27 January 2026 - 11:11 PM,6.19,123.64,18.0,2.6,062  km S 48° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 11:03 PM-6.5300-123.7600-2.8,27 January 2026 - 11:03 PM,6.53,123.76,4.0,2.8,032  km S 85° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 10:53 PM-6.4900-123.7600-2.9,27 January 2026 - 10:53 PM,6.49,123.76,2.0,2.9,033  km S 77° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 10:51 PM-6.4900-123.8500-2.2,27 January 2026 - 10:51 PM,6.49,123.85,27.0,2.2,023  km S 71° W of Kalamansig (Sultan Kudarat),January,2026
-27 January 2026 - 10:47 PM-6.4800-123.6800-4.4,27 January 2026 - 10:47 PM,6.48,123.68,11.0,4.4,042  km S 79° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:26 PM-6.5100-123.6600-3.3,27 January 2026 - 11:26 PM,6.51,123.66,16.0,3.3,044  km S 83° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:11 PM-6.4800-123.6300-2.8,27 January 2026 - 11:11 PM,6.48,123.63,14.0,2.8,048  km S 80° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 11:03 PM-6.3600-123.6900-2.8,27 January 2026 - 11:03 PM,6.36,123.69,15.0,2.8,046  km S 60° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 10:53 PM-6.2600-123.6900-3.0,27 January 2026 - 10:53 PM,6.26,123.69,19.0,3.0,052  km S 51° W of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 10:51 PM-6.5900-124.1800-2.3,27 January 2026 - 10:51 PM,6.59,124.18,4.0,2.3,015  km N 75° E of Kalamansig (Sultan Kudarat),January,2026
+27 January 2026 - 10:47 PM-6.5300-123.7000-4.8,27 January 2026 - 10:47 PM,6.53,123.7,2.0,4.8,039  km S 86° W of Kalamansig (Sultan Kudarat),January,2026
 27 January 2026 - 09:04 PM-6.2700-126.0300-2.2,27 January 2026 - 09:04 PM,6.27,126.03,137.0,2.2,038  km N 77° E of Don Marcelino (Davao Occidental),January,2026
 27 January 2026 - 08:51 PM-8.0800-125.9400-1.4,27 January 2026 - 08:51 PM,8.08,125.94,33.0,1.4,003  km N 57° W of Veruela (Agusan Del Sur),January,2026
-27 January 2026 - 07:14 PM-9.6600-126.1600-2.5,27 January 2026 - 07:14 PM,9.66,126.16,21.0,2.5,014  km S 01° E of General Luna (Surigao Del Norte),January,2026
-27 January 2026 - 06:59 PM-9.5900-126.0800-2.4,27 January 2026 - 06:59 PM,9.59,126.08,29.0,2.4,013  km S 74° E of Socorro (Surigao Del Norte),January,2026
-27 January 2026 - 06:57 PM-18.1700-120.7700-2.3,27 January 2026 - 06:57 PM,18.17,120.77,2.0,2.3,005  km N 83° E of Piddig (Ilocos Norte),January,2026
-27 January 2026 - 05:57 PM-12.6100-124.8000-1.9,27 January 2026 - 05:57 PM,12.61,124.8,10.0,1.9,011  km N 43° W of San Roque (Northern Samar),January,2026
-27 January 2026 - 05:24 PM-7.0300-124.4800-1.7,27 January 2026 - 05:24 PM,7.03,124.48,13.0,1.7,003  km N 84° W of Datu Piang (Maguindanao Del Sur),January,2026
-27 January 2026 - 04:41 PM-5.0800-126.9800-3.4,27 January 2026 - 04:41 PM,5.08,126.98,83.0,3.4,172  km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),January,2026
+27 January 2026 - 07:14 PM-9.6400-126.1900-2.5,27 January 2026 - 07:14 PM,9.64,126.19,15.0,2.5,016  km S 15° E of General Luna (Surigao Del Norte),January,2026
+27 January 2026 - 06:59 PM-9.5600-125.9800-2.8,27 January 2026 - 06:59 PM,9.56,125.98,28.0,2.8,006  km S 12° E of Socorro (Surigao Del Norte),January,2026
+27 January 2026 - 06:57 PM-18.2700-120.7200-2.4,27 January 2026 - 06:57 PM,18.27,120.72,4.0,2.4,008  km N 13° E of Piddig (Ilocos Norte),January,2026
+27 January 2026 - 05:57 PM-12.9900-124.5300-1.9,27 January 2026 - 05:57 PM,12.99,124.53,20.0,1.9,037  km S 81° E of Prieto Diaz (Sorsogon),January,2026
+27 January 2026 - 05:24 PM-7.1500-124.3800-1.7,27 January 2026 - 05:24 PM,7.15,124.38,32.0,1.7,004  km N 32° E of Kabuntalan (Maguindanao Del Norte),January,2026
+27 January 2026 - 04:41 PM-5.4800-126.8800-3.4,27 January 2026 - 04:41 PM,5.48,126.88,22.0,3.4,145  km S 71° E of Jose Abad Santos (Davao Occidental),January,2026
 27 January 2026 - 03:37 PM-8.7800-126.5800-3.0,27 January 2026 - 03:37 PM,8.78,126.58,23.0,3.0,031  km S 87° E of Marihatag (Surigao Del Sur),January,2026
 27 January 2026 - 03:09 PM-6.3900-123.5000-1.8,27 January 2026 - 03:09 PM,6.39,123.5,10.0,1.8,063  km S 73° W of Kalamansig (Sultan Kudarat),January,2026
 27 January 2026 - 03:01 PM-9.5300-126.2900-2.5,27 January 2026 - 03:01 PM,9.53,126.29,15.0,2.5,030  km N 22° E of Cortes (Surigao Del Sur),January,2026
-27 January 2026 - 02:45 PM-15.4800-120.3500-1.5,27 January 2026 - 02:45 PM,15.48,120.35,29.0,1.5,012  km S 89° W of San Jose (Tarlac),January,2026
-27 January 2026 - 02:38 PM-15.4500-121.9400-1.8,27 January 2026 - 02:38 PM,15.45,121.94,15.0,1.8,053  km S 50° E of Baler (Aurora),January,2026
+27 January 2026 - 02:45 PM-15.4700-120.3100-1.5,27 January 2026 - 02:45 PM,15.47,120.31,20.0,1.5,016  km S 88° W of San Jose (Tarlac),January,2026
+27 January 2026 - 02:38 PM-15.3200-122.1200-1.8,27 January 2026 - 02:38 PM,15.32,122.12,13.0,1.8,054  km N 37° E of Panukulan (Quezon),January,2026
 27 January 2026 - 02:14 PM-9.1100-127.2900-2.2,27 January 2026 - 02:14 PM,9.11,127.29,44.0,2.2,111  km N 79° E of Cagwait (Surigao Del Sur),January,2026
 27 January 2026 - 01:55 PM-18.0100-120.4400-1.5,27 January 2026 - 01:55 PM,18.01,120.44,29.0,1.5,005  km S 77° W of Currimao (Ilocos Norte),January,2026
 27 January 2026 - 01:41 PM-6.5800-123.9900-1.7,27 January 2026 - 01:41 PM,6.58,123.99,12.0,1.7,007  km N 63° W of Kalamansig (Sultan Kudarat),January,2026
