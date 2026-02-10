@@ -2222,46 +2222,98 @@
 01 January 2026 - 01:05 AM-5.8500-126.5900-3.3,01 January 2026 - 01:05 AM,5.85,126.59,16,3.3,106  km S 33° E of Governor Generoso (Davao Oriental),January,2026
 01 January 2026 - 01:00 AM-9.6600-126.0000-3.0,01 January 2026 - 01:00 AM,9.66,126.0,9,3.0,022  km S 53° W of General Luna (Surigao Del Norte),January,2026
 01 January 2026 - 12:56 AM-9.6500-126.1700-3.8,01 January 2026 - 12:56 AM,9.65,126.17,25,3.8,015  km S 03° E of General Luna (Surigao Del Norte),January,2026
-09 February 2026 - 08:45 AM-8.4000-125.9600-1.8,09 February 2026 - 08:45 AM,8.4,125.96,31,1.8,005  km N 63° W of Rosario (Agusan Del Sur),February,2026
-09 February 2026 - 08:30 AM-6.7900-123.6100-2.5,09 February 2026 - 08:30 AM,6.79,123.61,19,2.5,055  km N 62° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 10:58 AM-12.7900-123.0700-1.3,10 February 2026 - 10:58 AM,12.79,123.07,15,1.3,022  km S 57° W of Claveria (Masbate),February,2026
+10 February 2026 - 10:31 AM-6.3900-123.6300-2.0,10 February 2026 - 10:31 AM,6.39,123.63,15,2.0,050  km S 68° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 10:29 AM-7.3900-126.6700-2.2,10 February 2026 - 10:29 AM,7.39,126.67,19,2.2,013  km N 60° E of Caraga (Davao Oriental),February,2026
+10 February 2026 - 10:15 AM-6.5400-123.7600-1.5,10 February 2026 - 10:15 AM,6.54,123.76,27,1.5,032  km S 87° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 09:56 AM-6.6800-123.8000-1.6,10 February 2026 - 09:56 AM,6.68,123.8,19,1.6,031  km N 63° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 09:52 AM-16.3800-122.1100-1.9,10 February 2026 - 09:52 AM,16.38,122.11,13,1.9,011  km N 06° W of Casiguran (Aurora),February,2026
+10 February 2026 - 09:44 AM-7.2900-126.3300-1.7,10 February 2026 - 09:44 AM,7.29,126.33,25,1.7,024  km N 69° W of Manay (Davao Oriental),February,2026
+10 February 2026 - 09:08 AM-6.6100-124.1200-1.6,10 February 2026 - 09:08 AM,6.61,124.12,9,1.6,010  km N 51° E of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 09:04 AM-6.2100-123.7200-4.4,10 February 2026 - 09:04 AM,6.21,123.72,35,4.4,052  km S 44° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 08:41 AM-6.3400-124.0700-2.0,10 February 2026 - 08:41 AM,6.34,124.07,7,2.0,025  km S 05° E of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 07:57 AM-7.0000-124.0300-2.2,10 February 2026 - 07:57 AM,7.0,124.03,10,2.2,016  km S 06° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),February,2026
+10 February 2026 - 07:52 AM-17.0800-119.5500-2.3,10 February 2026 - 07:52 AM,17.08,119.55,3,2.3,084  km N 26° W of Bolinao (Pangasinan),February,2026
+10 February 2026 - 07:28 AM-10.1000-126.2900-3.1,10 February 2026 - 07:28 AM,10.1,126.29,3,3.1,025  km N 69° E of Burgos (Surigao Del Norte),February,2026
+10 February 2026 - 07:14 AM-5.8800-127.0400-3.1,10 February 2026 - 07:14 AM,5.88,127.04,70,3.1,137  km S 51° E of Governor Generoso (Davao Oriental),February,2026
+10 February 2026 - 06:43 AM-13.4500-123.5600-1.7,10 February 2026 - 06:43 AM,13.45,123.56,33,1.7,005  km N 67° E of Buhi (Camarines Sur),February,2026
+10 February 2026 - 06:24 AM-12.4100-123.7700-2.4,10 February 2026 - 06:24 AM,12.41,123.77,2,2.4,002  km S 47° W of Batuan (Masbate),February,2026
+10 February 2026 - 06:19 AM-6.3000-123.4800-2.6,10 February 2026 - 06:19 AM,6.3,123.48,21,2.6,069  km S 66° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 06:08 AM-6.4000-123.8200-2.1,10 February 2026 - 06:08 AM,6.4,123.82,33,2.1,031  km S 57° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 05:12 AM-7.7700-126.1900-2.0,10 February 2026 - 05:12 AM,7.77,126.19,35,2.0,016  km N 45° E of Compostela (Davao De Oro),February,2026
+10 February 2026 - 05:05 AM-9.7200-126.1400-1.9,10 February 2026 - 05:05 AM,9.72,126.14,17,1.9,008  km S 13° W of General Luna (Surigao Del Norte),February,2026
+10 February 2026 - 04:50 AM-9.6200-126.3100-1.8,10 February 2026 - 04:50 AM,9.62,126.31,33,1.8,024  km S 42° E of General Luna (Surigao Del Norte),February,2026
+10 February 2026 - 04:47 AM-6.8100-124.0900-1.8,10 February 2026 - 04:47 AM,6.81,124.09,10,1.8,008  km S 54° W of South Upi (Maguindanao Del Sur),February,2026
+10 February 2026 - 04:42 AM-7.1400-126.7500-3.1,10 February 2026 - 04:42 AM,7.14,126.75,9,3.1,025  km S 73° E of Manay (Davao Oriental),February,2026
+10 February 2026 - 04:40 AM-6.6400-123.7400-2.3,10 February 2026 - 04:40 AM,6.64,123.74,18,2.3,036  km N 74° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 04:37 AM-19.8800-121.4600-2.4,10 February 2026 - 04:37 AM,19.88,121.46,5,2.4,063  km N 50° W of Babuyan Island (Calayan) (Cagayan),February,2026
+10 February 2026 - 04:35 AM-5.5800-126.0400-2.8,10 February 2026 - 04:35 AM,5.58,126.04,4,2.8,057  km S 50° E of Jose Abad Santos (Davao Occidental),February,2026
+10 February 2026 - 04:28 AM-6.5300-123.8500-2.3,10 February 2026 - 04:28 AM,6.53,123.85,6,2.3,022  km S 81° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 04:18 AM-19.6600-121.2300-4.1,10 February 2026 - 04:18 AM,19.66,121.23,2,4.1,051  km N 30° W of Calayan (Cagayan),February,2026
+10 February 2026 - 04:18 AM-6.5400-123.7000-2.5,10 February 2026 - 04:18 AM,6.54,123.7,12,2.5,039  km S 87° W of Kalamansig (Sultan Kudarat),February,2026
+10 February 2026 - 03:31 AM-17.8300-120.6400-1.6,10 February 2026 - 03:31 AM,17.83,120.64,24,1.6,010  km S 13° W of Nueva Era (Ilocos Norte),February,2026
+10 February 2026 - 02:52 AM-17.8600-121.0000-1.4,10 February 2026 - 02:52 AM,17.86,121.0,32,1.4,022  km N 16° E of Lacub (Abra),February,2026
+10 February 2026 - 02:29 AM-12.8200-123.0600-2.0,10 February 2026 - 02:29 AM,12.82,123.06,11,2.0,022  km S 66° W of Claveria (Masbate),February,2026
+10 February 2026 - 02:15 AM-13.8000-120.6100-1.8,10 February 2026 - 02:15 AM,13.8,120.61,115,1.8,005  km S 31° W of Calatagan (Batangas),February,2026
+10 February 2026 - 01:34 AM-10.3800-125.0600-2.1,10 February 2026 - 01:34 AM,10.38,125.06,21,2.1,009  km S 85° E of Sogod (Southern Leyte),February,2026
+10 February 2026 - 12:47 AM-15.9900-121.8900-2.8,10 February 2026 - 12:47 AM,15.99,121.89,23,2.8,018  km S 25° W of Dinalungan (Aurora),February,2026
+09 February 2026 - 11:31 PM-6.4300-125.1500-2.1,09 February 2026 - 11:31 PM,6.43,125.15,28,2.1,015  km N 65° W of Malungon (Sarangani),February,2026
+09 February 2026 - 11:20 PM-17.7900-120.3400-1.6,09 February 2026 - 11:20 PM,17.79,120.34,26,1.6,012  km West of Cabugao (Ilocos Sur),February,2026
+09 February 2026 - 11:09 PM-17.9100-120.1500-3.4,09 February 2026 - 11:09 PM,17.91,120.15,21,3.4,033  km N 81° W of Sinait (Ilocos Sur),February,2026
+09 February 2026 - 10:43 PM-11.2200-124.1100-2.6,09 February 2026 - 10:43 PM,11.22,124.11,7,2.6,024  km N 35° E of City Of Bogo (Cebu),February,2026
+09 February 2026 - 09:29 PM-11.8300-120.7000-1.3,09 February 2026 - 09:29 PM,11.83,120.7,27,1.3,057  km S 72° E of Coron (Palawan),February,2026
+09 February 2026 - 08:22 PM-6.5300-123.6800-2.3,09 February 2026 - 08:22 PM,6.53,123.68,2,2.3,041  km S 87° W of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 08:11 PM-6.0000-123.8900-1.8,09 February 2026 - 08:11 PM,6.0,123.89,26,1.8,063  km S 16° W of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 08:11 PM-8.4200-125.8100-1.6,09 February 2026 - 08:11 PM,8.42,125.81,32,1.6,004  km S 41° E of Talacogon (Agusan Del Sur),February,2026
+09 February 2026 - 08:00 PM-6.2700-123.6100-1.9,09 February 2026 - 08:00 PM,6.27,123.61,10,1.9,058  km S 57° W of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 07:56 PM-6.3300-123.9500-2.5,09 February 2026 - 07:56 PM,6.33,123.95,2,2.5,027  km S 23° W of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 06:48 PM-8.3400-122.7700-1.8,09 February 2026 - 06:48 PM,8.34,122.77,4,1.8,028  km N 21° E of Liloy (Zamboanga Del Norte),February,2026
+09 February 2026 - 06:44 PM-6.3200-123.6500-3.0,09 February 2026 - 06:44 PM,6.32,123.65,23,3.0,051  km S 60° W of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 05:52 PM-6.4400-126.8100-3.1,09 February 2026 - 05:52 PM,6.44,126.81,26,3.1,078  km S 30° E of Tarragona (Davao Oriental),February,2026
+09 February 2026 - 05:43 PM-13.1400-121.3300-1.5,09 February 2026 - 05:43 PM,13.14,121.33,18,1.5,007  km S 54° E of Victoria (Oriental Mindoro),February,2026
+09 February 2026 - 05:08 PM-3.8600-128.1700-3.2,09 February 2026 - 05:08 PM,3.86,128.17,131,3.2,349  km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),February,2026
+09 February 2026 - 04:30 PM-2.3700-126.2700-4.4,09 February 2026 - 04:30 PM,2.37,126.27,19,4.4,349  km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),February,2026
+09 February 2026 - 11:44 AM-17.0800-121.5900-1.7,09 February 2026 - 11:44 AM,17.08,121.59,19,1.7,006  km S 38° W of Roxas (Isabela),February,2026
+09 February 2026 - 08:45 AM-8.3500-125.9900-2.1,09 February 2026 - 08:45 AM,8.35,125.99,27,2.1,004  km S 26° W of Rosario (Agusan Del Sur),February,2026
+09 February 2026 - 08:30 AM-6.7200-123.5600-2.6,09 February 2026 - 08:30 AM,6.72,123.56,19,2.6,057  km N 72° W of Kalamansig (Sultan Kudarat),February,2026
 09 February 2026 - 08:24 AM-6.5400-126.5300-2.4,09 February 2026 - 08:24 AM,6.54,126.53,132,2.4,053  km S 77° E of Governor Generoso (Davao Oriental),February,2026
-09 February 2026 - 08:05 AM-13.7600-120.5600-3.2,09 February 2026 - 08:05 AM,13.76,120.56,111,3.2,011  km S 48° W of Calatagan (Batangas),February,2026
-09 February 2026 - 06:25 AM-7.5800-126.0700-2.6,09 February 2026 - 06:25 AM,7.58,126.07,9,2.6,008  km N 64° W of New Bataan (Davao De Oro),February,2026
+09 February 2026 - 08:05 AM-13.8100-120.5200-3.3,09 February 2026 - 08:05 AM,13.81,120.52,111,3.3,012  km S 77° W of Calatagan (Batangas),February,2026
+09 February 2026 - 06:25 AM-7.6200-126.0900-2.6,09 February 2026 - 06:25 AM,7.62,126.09,8,2.6,010  km N 34° W of New Bataan (Davao De Oro),February,2026
 09 February 2026 - 06:08 AM-13.8000-120.6400-1.6,09 February 2026 - 06:08 AM,13.8,120.64,105,1.6,003  km S 14° E of Calatagan (Batangas),February,2026
-09 February 2026 - 05:22 AM-10.7600-125.6400-2.7,09 February 2026 - 05:22 AM,10.76,125.64,18,2.7,009  km N 78° W of Homonhon Island (Guiuan) (Eastern Samar),February,2026
-09 February 2026 - 05:21 AM-7.3200-126.9100-2.1,09 February 2026 - 05:21 AM,7.32,126.91,13,2.1,043  km N 73° E of Manay (Davao Oriental),February,2026
-09 February 2026 - 05:11 AM-6.3500-126.1000-3.4,09 February 2026 - 05:11 AM,6.35,126.1,4,3.4,034  km S 04° E of Governor Generoso (Davao Oriental),February,2026
+09 February 2026 - 05:22 AM-10.7500-125.5700-2.7,09 February 2026 - 05:22 AM,10.75,125.57,11,2.7,017  km N 88° W of Homonhon Island (Guiuan) (Eastern Samar),February,2026
+09 February 2026 - 05:21 AM-7.3300-126.9900-2.1,09 February 2026 - 05:21 AM,7.33,126.99,4,2.1,051  km N 76° E of Manay (Davao Oriental),February,2026
+09 February 2026 - 05:11 AM-5.9700-126.5000-3.2,09 February 2026 - 05:11 AM,5.97,126.5,33,3.2,090  km S 32° E of Governor Generoso (Davao Oriental),February,2026
 09 February 2026 - 04:26 AM-7.3500-127.0100-2.6,09 February 2026 - 04:26 AM,7.35,127.01,6,2.6,049  km N 87° E of Caraga (Davao Oriental),February,2026
-09 February 2026 - 03:55 AM-6.4600-123.6000-2.7,09 February 2026 - 03:55 AM,6.46,123.6,13,2.7,051  km S 78° W of Kalamansig (Sultan Kudarat),February,2026
-09 February 2026 - 03:25 AM-8.8300-126.8200-2.4,09 February 2026 - 03:25 AM,8.83,126.82,8,2.4,057  km S 80° E of Cagwait (Surigao Del Sur),February,2026
-09 February 2026 - 03:18 AM-4.5100-127.8500-4.4,09 February 2026 - 03:18 AM,4.51,127.85,26,4.4,285  km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),February,2026
-09 February 2026 - 03:07 AM-7.7700-122.2200-2.3,09 February 2026 - 03:07 AM,7.77,122.22,8,2.3,010  km S 62° E of Baliguian (Zamboanga Del Norte),February,2026
-09 February 2026 - 03:00 AM-8.4600-127.0300-2.2,09 February 2026 - 03:00 AM,8.46,127.03,5,2.2,077  km N 82° E of Hinatuan (Surigao Del Sur),February,2026
+09 February 2026 - 03:55 AM-6.4900-123.5700-2.7,09 February 2026 - 03:55 AM,6.49,123.57,15,2.7,054  km S 82° W of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 03:25 AM-8.8300-126.7400-2.6,09 February 2026 - 03:25 AM,8.83,126.74,4,2.6,050  km S 79° E of Cagwait (Surigao Del Sur),February,2026
+09 February 2026 - 03:18 AM-4.3100-127.6000-4.4,09 February 2026 - 03:18 AM,4.31,127.6,135,4.4,277  km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),February,2026
+09 February 2026 - 03:07 AM-7.5800-122.2000-2.2,09 February 2026 - 03:07 AM,7.58,122.2,7,2.2,026  km S 14° E of Baliguian (Zamboanga Del Norte),February,2026
+09 February 2026 - 03:00 AM-8.4700-126.9800-2.2,09 February 2026 - 03:00 AM,8.47,126.98,10,2.2,071  km N 81° E of Hinatuan (Surigao Del Sur),February,2026
 09 February 2026 - 01:56 AM-6.4700-124.0500-2.1,09 February 2026 - 01:56 AM,6.47,124.05,3,2.1,009  km S 02° W of Kalamansig (Sultan Kudarat),February,2026
 09 February 2026 - 01:50 AM-7.7700-126.7700-1.6,09 February 2026 - 01:50 AM,7.77,126.77,22,1.6,032  km N 47° E of Baganga (Davao Oriental),February,2026
 09 February 2026 - 01:46 AM-13.5100-120.0200-1.4,09 February 2026 - 01:46 AM,13.51,120.02,30,1.4,034  km S 47° W of Looc (Occidental Mindoro),February,2026
 09 February 2026 - 01:24 AM-10.4100-124.9800-2.0,09 February 2026 - 01:24 AM,10.41,124.98,7,2.0,003  km North of Sogod (Southern Leyte),February,2026
-09 February 2026 - 01:07 AM-10.4400-124.9000-2.5,09 February 2026 - 01:07 AM,10.44,124.9,2,2.5,011  km N 56° W of Sogod (Southern Leyte),February,2026
-09 February 2026 - 12:55 AM-6.5100-123.9700-2.1,09 February 2026 - 12:55 AM,6.51,123.97,3,2.1,010  km S 58° W of Kalamansig (Sultan Kudarat),February,2026
-09 February 2026 - 12:25 AM-5.5700-126.1400-2.5,09 February 2026 - 12:25 AM,5.57,126.14,66,2.5,066  km S 55° E of Jose Abad Santos (Davao Occidental),February,2026
-09 February 2026 - 12:09 AM-6.8900-124.2400-1.6,09 February 2026 - 12:09 AM,6.89,124.24,21,1.6,010  km S 69° W of Datu Anggal Midtimbang (Maguindanao Del Sur),February,2026
-08 February 2026 - 11:49 PM-6.5700-123.8100-2.2,08 February 2026 - 11:49 PM,6.57,123.81,5,2.2,027  km N 87° W of Kalamansig (Sultan Kudarat),February,2026
-08 February 2026 - 11:47 PM-6.5700-123.8300-2.0,08 February 2026 - 11:47 PM,6.57,123.83,3,2.0,025  km N 87° W of Kalamansig (Sultan Kudarat),February,2026
-08 February 2026 - 11:15 PM-10.4300-124.9700-2.3,08 February 2026 - 11:15 PM,10.43,124.97,9,2.3,005  km N 07° W of Sogod (Southern Leyte),February,2026
+09 February 2026 - 01:07 AM-10.4300-125.0700-2.6,09 February 2026 - 01:07 AM,10.43,125.07,3,2.6,011  km N 61° E of Sogod (Southern Leyte),February,2026
+09 February 2026 - 12:55 AM-6.2300-124.0600-2.1,09 February 2026 - 12:55 AM,6.23,124.06,6,2.1,036  km S 02° E of Kalamansig (Sultan Kudarat),February,2026
+09 February 2026 - 12:25 AM-5.5300-126.1800-2.8,09 February 2026 - 12:25 AM,5.53,126.18,68,2.8,073  km S 54° E of Jose Abad Santos (Davao Occidental),February,2026
+09 February 2026 - 12:09 AM-6.7000-123.9700-1.7,09 February 2026 - 12:09 AM,6.7,123.97,17,1.7,046  km S 58° W of Datu Anggal Midtimbang (Maguindanao Del Sur),February,2026
+08 February 2026 - 11:49 PM-6.5900-123.7800-2.2,08 February 2026 - 11:49 PM,6.59,123.78,10,2.2,030  km N 82° W of Kalamansig (Sultan Kudarat),February,2026
+08 February 2026 - 11:47 PM-6.6500-123.7900-2.0,08 February 2026 - 11:47 PM,6.65,123.79,11,2.0,031  km N 70° W of Kalamansig (Sultan Kudarat),February,2026
+08 February 2026 - 11:15 PM-10.4500-125.0000-2.4,08 February 2026 - 11:15 PM,10.45,125.0,12,2.4,008  km N 06° W of Sogod (Southern Leyte),February,2026
 08 February 2026 - 11:07 PM-17.4200-120.8500-1.4,08 February 2026 - 11:07 PM,17.42,120.85,33,1.4,002  km S 10° W of Bucloc (Abra),February,2026
-08 February 2026 - 11:02 PM-19.7500-121.6400-2.0,08 February 2026 - 11:02 PM,19.75,121.64,50,2.0,039  km N 47° W of Babuyan Island (Calayan) (Cagayan),February,2026
-08 February 2026 - 10:18 PM-10.3200-124.9600-2.2,08 February 2026 - 10:18 PM,10.32,124.96,15,2.2,003  km N 62° W of Tomas Oppus (Southern Leyte),February,2026
-08 February 2026 - 09:33 PM-8.4600-127.4300-3.0,08 February 2026 - 09:33 PM,8.46,127.43,6,3.0,121  km N 85° E of Hinatuan (Surigao Del Sur),February,2026
+08 February 2026 - 11:02 PM-19.7900-121.6100-2.0,08 February 2026 - 11:02 PM,19.79,121.61,36,2.0,044  km N 46° W of Babuyan Island (Calayan) (Cagayan),February,2026
+08 February 2026 - 10:18 PM-10.2800-125.2200-2.2,08 February 2026 - 10:18 PM,10.28,125.22,5,2.2,004  km N 86° W of Anahawan (Southern Leyte),February,2026
+08 February 2026 - 09:33 PM-8.4100-127.3700-3.7,08 February 2026 - 09:33 PM,8.41,127.37,14,3.7,114  km N 88° E of Hinatuan (Surigao Del Sur),February,2026
 08 February 2026 - 08:44 PM-6.1700-123.5700-1.7,08 February 2026 - 08:44 PM,6.17,123.57,35,1.7,068  km S 51° W of Kalamansig (Sultan Kudarat),February,2026
-08 February 2026 - 08:15 PM-8.5100-127.2600-3.0,08 February 2026 - 08:15 PM,8.51,127.26,15,3.0,103  km N 81° E of Hinatuan (Surigao Del Sur),February,2026
-08 February 2026 - 07:40 PM-14.0600-124.2800-2.2,08 February 2026 - 07:40 PM,14.06,124.28,2,2.2,013  km N 02° W of Bagamanoc (Catanduanes),February,2026
-08 February 2026 - 07:38 PM-14.1800-124.4800-3.3,08 February 2026 - 07:38 PM,14.18,124.48,4,3.3,033  km N 38° E of Bagamanoc (Catanduanes),February,2026
-08 February 2026 - 07:26 PM-6.2000-124.1200-2.2,08 February 2026 - 07:26 PM,6.2,124.12,16,2.2,040  km S 12° E of Kalamansig (Sultan Kudarat),February,2026
-08 February 2026 - 07:24 PM-6.4900-123.4800-2.2,08 February 2026 - 07:24 PM,6.49,123.48,32,2.2,064  km S 83° W of Kalamansig (Sultan Kudarat),February,2026
-08 February 2026 - 07:16 PM-6.5400-123.8300-2.4,08 February 2026 - 07:16 PM,6.54,123.83,7,2.4,024  km S 87° W of Kalamansig (Sultan Kudarat),February,2026
-08 February 2026 - 07:01 PM-11.0300-124.0900-2.1,08 February 2026 - 07:01 PM,11.03,124.09,5,2.1,012  km S 82° E of City Of Bogo (Cebu),February,2026
-08 February 2026 - 06:40 PM-15.0500-119.9000-1.7,08 February 2026 - 06:40 PM,15.05,119.9,23,1.7,018  km S 86° W of San Felipe (Zambales),February,2026
-08 February 2026 - 06:13 PM-6.5600-123.7000-2.4,08 February 2026 - 06:13 PM,6.56,123.7,19,2.4,039  km N 89° W of Kalamansig (Sultan Kudarat),February,2026
+08 February 2026 - 08:15 PM-8.5300-127.4400-3.0,08 February 2026 - 08:15 PM,8.53,127.44,23,3.0,123  km N 82° E of Hinatuan (Surigao Del Sur),February,2026
+08 February 2026 - 07:40 PM-13.9600-124.2000-2.6,08 February 2026 - 07:40 PM,13.96,124.2,2,2.6,008  km S 71° E of Caramoran (Catanduanes),February,2026
+08 February 2026 - 07:38 PM-14.2100-124.5300-3.7,08 February 2026 - 07:38 PM,14.21,124.53,16,3.7,040  km N 41° E of Bagamanoc (Catanduanes),February,2026
+08 February 2026 - 07:26 PM-6.6200-123.8900-2.2,08 February 2026 - 07:26 PM,6.62,123.89,15,2.2,019  km N 70° W of Kalamansig (Sultan Kudarat),February,2026
+08 February 2026 - 07:24 PM-6.6900-123.5700-2.2,08 February 2026 - 07:24 PM,6.69,123.57,30,2.2,055  km N 74° W of Kalamansig (Sultan Kudarat),February,2026
+08 February 2026 - 07:16 PM-6.6000-123.8400-2.4,08 February 2026 - 07:16 PM,6.6,123.84,6,2.4,023  km N 79° W of Kalamansig (Sultan Kudarat),February,2026
+08 February 2026 - 07:01 PM-11.1400-124.0500-2.1,08 February 2026 - 07:01 PM,11.14,124.05,20,2.1,013  km N 36° E of City Of Bogo (Cebu),February,2026
+08 February 2026 - 06:40 PM-14.9900-119.7400-1.7,08 February 2026 - 06:40 PM,14.99,119.74,23,1.7,037  km S 78° W of San Felipe (Zambales),February,2026
+08 February 2026 - 06:13 PM-6.4200-123.6300-2.5,08 February 2026 - 06:13 PM,6.42,123.63,19,2.5,049  km S 72° W of Kalamansig (Sultan Kudarat),February,2026
 08 February 2026 - 06:00 PM-8.8400-125.7200-2.1,08 February 2026 - 06:00 PM,8.84,125.72,4,2.1,003  km N 50° E of Sibagat (Agusan Del Sur),February,2026
 08 February 2026 - 05:40 PM-10.9700-124.1800-2.3,08 February 2026 - 05:40 PM,10.97,124.18,3,2.3,023  km S 68° E of City Of Bogo (Cebu),February,2026
 08 February 2026 - 05:36 PM-6.2800-123.6600-1.6,08 February 2026 - 05:36 PM,6.28,123.66,32,1.6,053  km S 54° W of Kalamansig (Sultan Kudarat),February,2026
