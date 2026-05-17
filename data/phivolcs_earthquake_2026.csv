@@ -6232,52 +6232,98 @@
 01 April 2026 - 12:24 AM-7.1800-125.8500-1.8,01 April 2026 - 12:24 AM,7.18,125.85,48.0,1.8,008  km N 44° W of Pantukan (Davao De Oro),April,2026
 01 April 2026 - 12:12 AM-12.6300-123.5400-3.1,01 April 2026 - 12:12 AM,12.63,123.54,7.0,3.1,014  km S 86° W of Monreal (Masbate),April,2026
 01 April 2026 - 12:07 AM-9.3300-121.2900-2.5,01 April 2026 - 12:07 AM,9.33,121.29,20.0,2.5,133  km S 77° W of Hinoba-an (Negros Occidental),April,2026
-16 May 2026 - 11:31 AM-17.0600-121.2900-2.1,16 May 2026 - 11:31 AM,17.06,121.29,48.0,2.1,005  km S 14° E of Natonin (Mountain Province),May,2026
-16 May 2026 - 11:23 AM-8.2800-125.8600-1.6,16 May 2026 - 11:23 AM,8.28,125.86,16.0,1.6,006  km S 86° E of La Paz (Agusan Del Sur),May,2026
-16 May 2026 - 11:14 AM-7.1800-126.7600-2.0,16 May 2026 - 11:14 AM,7.18,126.76,15.0,2.0,024  km S 81° E of Manay (Davao Oriental),May,2026
-16 May 2026 - 11:11 AM-16.3000-120.3500-1.5,16 May 2026 - 11:11 AM,16.3,120.35,32.0,1.5,003  km S 29° W of Agoo (La Union),May,2026
-16 May 2026 - 10:53 AM-12.1500-123.9500-2.7,16 May 2026 - 10:53 AM,12.15,123.95,4.0,2.7,002  km N 82° E of Palanas (Masbate),May,2026
+17 May 2026 - 12:01 PM-20.2400-121.7500-2.5,17 May 2026 - 12:01 PM,20.24,121.75,133.0,2.5,017  km S 52° W of Sabtang (Batanes),May,2026
+17 May 2026 - 11:17 AM-13.7000-121.6800-2.6,17 May 2026 - 11:17 AM,13.7,121.68,2.0,2.6,028  km S 31° W of Padre Burgos (Quezon),May,2026
+17 May 2026 - 11:09 AM-15.4500-121.2900-1.5,17 May 2026 - 11:09 AM,15.45,121.29,16.0,1.5,005  km S 81° W of Gabaldon (Nueva Ecija),May,2026
+17 May 2026 - 10:56 AM-17.4400-121.7800-1.7,17 May 2026 - 10:56 AM,17.44,121.78,35.0,1.7,002  km N 34° E of Cabagan (Isabela),May,2026
+17 May 2026 - 09:19 AM-8.7700-126.5300-2.0,17 May 2026 - 09:19 AM,8.77,126.53,28.0,2.0,025  km S 83° E of Marihatag (Surigao Del Sur),May,2026
+17 May 2026 - 07:06 AM-8.0300-126.3900-1.4,17 May 2026 - 07:06 AM,8.03,126.39,29.0,1.4,002  km S 76° W of Lingig (Surigao Del Sur),May,2026
+17 May 2026 - 07:03 AM-13.5400-120.1400-1.6,17 May 2026 - 07:03 AM,13.54,120.14,33.0,1.6,023  km S 30° W of Looc (Occidental Mindoro),May,2026
+17 May 2026 - 06:48 AM-11.2000-122.1900-4.1,17 May 2026 - 06:48 AM,11.2,122.19,14.0,4.1,018  km N 67° E of Laua-an (Antique),May,2026
+17 May 2026 - 05:14 AM-14.7800-122.6100-1.8,17 May 2026 - 05:14 AM,14.78,122.61,13.0,1.8,031  km N 73° E of Jomalig (Quezon),May,2026
+17 May 2026 - 05:14 AM-13.5700-119.9500-1.5,17 May 2026 - 05:14 AM,13.57,119.95,31.0,1.5,036  km S 63° W of Looc (Occidental Mindoro),May,2026
+17 May 2026 - 04:26 AM-12.6400-124.7800-2.6,17 May 2026 - 04:26 AM,12.64,124.78,7.0,2.6,014  km N 14° E of Mondragon (Northern Samar),May,2026
+17 May 2026 - 04:02 AM-6.4900-126.1700-2.9,17 May 2026 - 04:02 AM,6.49,126.17,132.0,2.9,022  km S 31° E of Governor Generoso (Davao Oriental),May,2026
+17 May 2026 - 02:58 AM-12.9600-120.8700-1.1,17 May 2026 - 02:58 AM,12.96,120.87,34.0,1.1,017  km N 36° E of Sablayan (Occidental Mindoro),May,2026
+17 May 2026 - 02:41 AM-15.0400-122.0300-1.8,17 May 2026 - 02:41 AM,15.04,122.03,11.0,1.8,022  km N 18° E of Burdeos (Quezon),May,2026
+17 May 2026 - 02:34 AM-14.7400-119.0600-2.9,17 May 2026 - 02:34 AM,14.74,119.06,33.0,2.9,113  km S 78° W of San Antonio (Zambales),May,2026
+17 May 2026 - 02:05 AM-12.0400-125.6700-2.8,17 May 2026 - 02:05 AM,12.04,125.67,22.0,2.8,020  km S 89° E of Dolores (Eastern Samar),May,2026
+17 May 2026 - 02:01 AM-8.9000-126.3800-1.7,17 May 2026 - 02:01 AM,8.9,126.38,34.0,1.7,008  km S 75° E of Cagwait (Surigao Del Sur),May,2026
+17 May 2026 - 01:06 AM-8.6700-126.5000-2.8,17 May 2026 - 01:06 AM,8.67,126.5,26.0,2.8,027  km S 56° E of Marihatag (Surigao Del Sur),May,2026
+17 May 2026 - 01:05 AM-13.6400-120.4200-1.2,17 May 2026 - 01:05 AM,13.64,120.42,32.0,1.2,020  km S 65° E of Looc (Occidental Mindoro),May,2026
+17 May 2026 - 12:54 AM-15.4600-119.7400-2.9,17 May 2026 - 12:54 AM,15.46,119.74,22.0,2.9,019  km N 82° W of Palauig (Zambales),May,2026
+17 May 2026 - 12:51 AM-8.4200-127.0500-1.9,17 May 2026 - 12:51 AM,8.42,127.05,5.0,1.9,078  km N 86° E of Hinatuan (Surigao Del Sur),May,2026
+17 May 2026 - 12:50 AM-14.7000-121.7100-1.9,17 May 2026 - 12:50 AM,14.7,121.71,32.0,1.9,008  km S 53° E of Infanta (Quezon),May,2026
+17 May 2026 - 12:45 AM-8.7000-126.7400-1.9,17 May 2026 - 12:45 AM,8.7,126.74,18.0,1.9,050  km S 77° E of Marihatag (Surigao Del Sur),May,2026
+16 May 2026 - 11:44 PM-14.9300-122.0400-1.3,16 May 2026 - 11:44 PM,14.93,122.04,30.0,1.3,013  km N 36° E of Burdeos (Quezon),May,2026
+16 May 2026 - 11:43 PM-15.0900-122.1000-2.3,16 May 2026 - 11:43 PM,15.09,122.1,16.0,2.3,031  km N 28° E of Burdeos (Quezon),May,2026
+16 May 2026 - 11:35 PM-10.2700-122.3400-2.1,16 May 2026 - 11:35 PM,10.27,122.34,35.0,2.1,035  km S 38° W of Nueva Valencia (Guimaras),May,2026
+16 May 2026 - 11:34 PM-19.5400-121.9900-1.8,16 May 2026 - 11:34 PM,19.54,121.99,8.0,1.8,009  km N 69° E of Babuyan Island (Calayan) (Cagayan),May,2026
+16 May 2026 - 11:32 PM-7.1500-126.8100-2.5,16 May 2026 - 11:32 PM,7.15,126.81,25.0,2.5,030  km S 78° E of Manay (Davao Oriental),May,2026
+16 May 2026 - 10:53 PM-5.2600-125.5900-2.9,16 May 2026 - 10:53 PM,5.26,125.59,142.0,2.9,025  km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),May,2026
+16 May 2026 - 10:10 PM-8.3600-125.8900-1.9,16 May 2026 - 10:10 PM,8.36,125.89,7.0,1.9,013  km N 46° E of La Paz (Agusan Del Sur),May,2026
+16 May 2026 - 09:53 PM-15.0500-122.0500-2.1,16 May 2026 - 09:53 PM,15.05,122.05,9.0,2.1,024  km N 20° E of Burdeos (Quezon),May,2026
+16 May 2026 - 08:21 PM-12.1600-121.4500-2.1,16 May 2026 - 08:21 PM,12.16,121.45,6.0,2.1,021  km S 32° E of Bulalacao (Oriental Mindoro),May,2026
+16 May 2026 - 08:12 PM-6.7900-124.6600-2.7,16 May 2026 - 08:12 PM,6.79,124.66,6.0,2.7,011  km S 67° W of General Salipada K. Pendatun (Maguindanao Del Sur),May,2026
+16 May 2026 - 08:11 PM-12.1700-121.2600-1.7,16 May 2026 - 08:11 PM,12.17,121.26,11.0,1.7,019  km S 27° W of Bulalacao (Oriental Mindoro),May,2026
+16 May 2026 - 07:54 PM-13.7700-120.5300-1.6,16 May 2026 - 07:54 PM,13.77,120.53,37.0,1.6,013  km S 58° W of Calatagan (Batangas),May,2026
+16 May 2026 - 07:41 PM-13.4900-120.7600-1.3,16 May 2026 - 07:41 PM,13.49,120.76,32.0,1.3,006  km N 30° E of Abra De Ilog (Occidental Mindoro),May,2026
+16 May 2026 - 07:35 PM-9.0200-126.4100-2.2,16 May 2026 - 07:35 PM,9.02,126.41,30.0,2.2,015  km N 66° E of Bayabas (Surigao Del Sur),May,2026
+16 May 2026 - 07:25 PM-6.9000-124.7300-5.0,16 May 2026 - 07:25 PM,6.9,124.73,18.0,5.0,009  km N 16° W of General Salipada K. Pendatun (Maguindanao Del Sur),May,2026
+16 May 2026 - 06:44 PM-6.2100-124.6200-1.5,16 May 2026 - 06:44 PM,6.21,124.62,11.0,1.5,010  km S 80° W of Lake Sebu (South Cotabato),May,2026
+16 May 2026 - 06:32 PM-13.6400-120.4400-1.5,16 May 2026 - 06:32 PM,13.64,120.44,40.0,1.5,023  km S 67° E of Looc (Occidental Mindoro),May,2026
+16 May 2026 - 04:54 PM-7.8600-126.1000-1.5,16 May 2026 - 04:54 PM,7.86,126.1,17.0,1.5,007  km N 58° E of Monkayo (Davao De Oro),May,2026
+16 May 2026 - 04:23 PM-11.7900-125.3500-2.4,16 May 2026 - 04:23 PM,11.79,125.35,32.0,2.4,012  km N 69° W of San Julian (Eastern Samar),May,2026
+16 May 2026 - 03:26 PM-20.2300-120.4300-2.1,16 May 2026 - 03:26 PM,20.23,120.43,9.0,2.1,148  km N 33° W of Dalupiri Island (Calayan) (Cagayan),May,2026
+16 May 2026 - 03:04 PM-12.5000-124.7700-1.8,16 May 2026 - 03:04 PM,12.5,124.77,24.0,1.8,003  km S 53° E of Mondragon (Northern Samar),May,2026
+16 May 2026 - 01:22 PM-19.0800-121.0200-1.8,16 May 2026 - 01:22 PM,19.08,121.02,3.0,1.8,019  km S 78° W of Dalupiri Island (Calayan) (Cagayan),May,2026
+16 May 2026 - 01:10 PM-20.6900-122.1800-3.7,16 May 2026 - 01:10 PM,20.69,122.18,150.0,3.7,037  km S 72° E of Itbayat (Batanes),May,2026
+16 May 2026 - 11:31 AM-17.1400-121.5400-2.8,16 May 2026 - 11:31 AM,17.14,121.54,27.0,2.8,009  km N 77° W of Roxas (Isabela),May,2026
+16 May 2026 - 11:23 AM-8.3000-125.8500-2.0,16 May 2026 - 11:23 AM,8.3,125.85,30.0,2.0,006  km N 62° E of La Paz (Agusan Del Sur),May,2026
+16 May 2026 - 11:14 AM-7.2100-126.9100-2.7,16 May 2026 - 11:14 AM,7.21,126.91,23.0,2.7,041  km East of Manay (Davao Oriental),May,2026
+16 May 2026 - 11:11 AM-16.3200-120.3500-1.5,16 May 2026 - 11:11 AM,16.32,120.35,32.0,1.5,002  km S 68° W of Agoo (La Union),May,2026
+16 May 2026 - 10:53 AM-12.1500-123.9400-2.8,16 May 2026 - 10:53 AM,12.15,123.94,8.0,2.8,002  km S 86° E of Palanas (Masbate),May,2026
 16 May 2026 - 09:11 AM-8.8500-126.4500-1.6,16 May 2026 - 09:11 AM,8.85,126.45,30.0,1.6,018  km S 66° E of Cagwait (Surigao Del Sur),May,2026
-16 May 2026 - 08:12 AM-15.0500-122.0900-2.6,16 May 2026 - 08:12 AM,15.05,122.09,10.0,2.6,027  km N 30° E of Burdeos (Quezon),May,2026
+16 May 2026 - 08:12 AM-15.0300-122.0400-2.6,16 May 2026 - 08:12 AM,15.03,122.04,9.0,2.6,022  km N 22° E of Burdeos (Quezon),May,2026
 16 May 2026 - 07:59 AM-13.5500-120.6600-1.6,16 May 2026 - 07:59 AM,13.55,120.66,125.0,1.6,014  km N 29° W of Abra De Ilog (Occidental Mindoro),May,2026
-16 May 2026 - 06:51 AM-12.2400-121.4700-2.0,16 May 2026 - 06:51 AM,12.24,121.47,6.0,2.0,017  km S 55° E of Bulalacao (Oriental Mindoro),May,2026
-16 May 2026 - 06:30 AM-15.0900-122.1000-2.2,16 May 2026 - 06:30 AM,15.09,122.1,10.0,2.2,031  km N 27° E of Burdeos (Quezon),May,2026
+16 May 2026 - 06:51 AM-12.1100-121.4000-2.0,16 May 2026 - 06:51 AM,12.11,121.4,7.0,2.0,025  km S 14° E of Bulalacao (Oriental Mindoro),May,2026
+16 May 2026 - 06:30 AM-15.1000-122.1200-2.1,16 May 2026 - 06:30 AM,15.1,122.12,4.0,2.1,033  km N 31° E of Burdeos (Quezon),May,2026
 16 May 2026 - 06:05 AM-8.5300-125.8700-2.4,16 May 2026 - 06:05 AM,8.53,125.87,3.0,2.4,010  km S 36° W of Prosperidad (Agusan Del Sur),May,2026
-16 May 2026 - 05:54 AM-12.5300-124.7000-1.8,16 May 2026 - 05:54 AM,12.53,124.7,33.0,1.8,006  km N 73° W of Mondragon (Northern Samar),May,2026
+16 May 2026 - 05:54 AM-12.4600-124.6200-1.8,16 May 2026 - 05:54 AM,12.46,124.62,21.0,1.8,005  km S 19° W of Catarman (Northern Samar),May,2026
 16 May 2026 - 05:39 AM-20.7100-121.6500-3.3,16 May 2026 - 05:39 AM,20.71,121.65,21.0,3.3,030  km S 47° W of Itbayat (Batanes),May,2026
-16 May 2026 - 05:30 AM-14.3600-120.2300-3.2,16 May 2026 - 05:30 AM,14.36,120.23,72.0,3.2,030  km S 73° W of Mariveles (Bataan),May,2026
+16 May 2026 - 05:30 AM-14.3500-120.1800-3.2,16 May 2026 - 05:30 AM,14.35,120.18,72.0,3.2,035  km S 75° W of Mariveles (Bataan),May,2026
 16 May 2026 - 04:59 AM-14.7300-119.2400-3.0,16 May 2026 - 04:59 AM,14.73,119.24,2.0,3.0,095  km S 75° W of San Antonio (Zambales),May,2026
-16 May 2026 - 04:52 AM-19.1500-121.0600-3.7,16 May 2026 - 04:52 AM,19.15,121.06,13.0,3.7,016  km N 75° W of Dalupiri Island (Calayan) (Cagayan),May,2026
+16 May 2026 - 04:52 AM-19.1100-121.1200-3.7,16 May 2026 - 04:52 AM,19.11,121.12,12.0,3.7,009  km N 89° W of Dalupiri Island (Calayan) (Cagayan),May,2026
 16 May 2026 - 04:42 AM-14.6700-118.9500-3.8,16 May 2026 - 04:42 AM,14.67,118.95,32.0,3.8,126  km S 76° W of San Antonio (Zambales),May,2026
 16 May 2026 - 04:41 AM-18.7300-121.4500-2.5,16 May 2026 - 04:41 AM,18.73,121.45,82.0,2.5,016  km S 30° E of Fuga Island (Aparri) (Cagayan),May,2026
-16 May 2026 - 04:37 AM-15.4300-120.6100-2.2,16 May 2026 - 04:37 AM,15.43,120.61,32.0,2.2,006  km S 21° E of City Of Tarlac (Tarlac),May,2026
-16 May 2026 - 04:22 AM-6.3900-124.2500-2.4,16 May 2026 - 04:22 AM,6.39,124.25,22.0,2.4,011  km S 44° W of Senator Ninoy Aquino (Sultan Kudarat),May,2026
-16 May 2026 - 03:56 AM-15.0400-122.0700-2.1,16 May 2026 - 03:56 AM,15.04,122.07,6.0,2.1,024  km N 27° E of Burdeos (Quezon),May,2026
-16 May 2026 - 03:54 AM-13.2800-120.8300-2.4,16 May 2026 - 03:54 AM,13.28,120.83,30.0,2.4,021  km S 32° E of Abra De Ilog (Occidental Mindoro),May,2026
+16 May 2026 - 04:37 AM-15.4300-120.6200-2.2,16 May 2026 - 04:37 AM,15.43,120.62,33.0,2.2,007  km S 25° E of City Of Tarlac (Tarlac),May,2026
+16 May 2026 - 04:22 AM-6.3000-124.2300-2.4,16 May 2026 - 04:22 AM,6.3,124.23,18.0,2.4,011  km N 27° E of Palimbang (Sultan Kudarat),May,2026
+16 May 2026 - 03:56 AM-15.0700-122.0600-2.1,16 May 2026 - 03:56 AM,15.07,122.06,5.0,2.1,027  km N 21° E of Burdeos (Quezon),May,2026
+16 May 2026 - 03:54 AM-13.2800-120.8000-2.4,16 May 2026 - 03:54 AM,13.28,120.8,30.0,2.4,020  km S 23° E of Abra De Ilog (Occidental Mindoro),May,2026
 16 May 2026 - 03:54 AM-9.8900-126.1800-3.4,16 May 2026 - 03:54 AM,9.89,126.18,15.0,3.4,009  km N 75° E of Pilar (Surigao Del Norte),May,2026
-16 May 2026 - 03:07 AM-9.6900-126.1700-2.6,16 May 2026 - 03:07 AM,9.69,126.17,26.0,2.6,010  km S 08° E of General Luna (Surigao Del Norte),May,2026
+16 May 2026 - 03:07 AM-9.6900-126.0300-2.6,16 May 2026 - 03:07 AM,9.69,126.03,15.0,2.6,017  km S 52° W of General Luna (Surigao Del Norte),May,2026
 16 May 2026 - 03:00 AM-19.1400-121.2500-1.9,16 May 2026 - 03:00 AM,19.14,121.25,27.0,1.9,005  km N 51° E of Dalupiri Island (Calayan) (Cagayan),May,2026
 16 May 2026 - 02:40 AM-7.7000-127.1000-1.9,16 May 2026 - 02:40 AM,7.7,127.1,12.0,1.9,061  km N 77° E of Baganga (Davao Oriental),May,2026
 16 May 2026 - 01:28 AM-9.0300-126.2600-1.7,16 May 2026 - 01:28 AM,9.03,126.26,24.0,1.7,003  km N 61° E of Tago (Surigao Del Sur),May,2026
 16 May 2026 - 01:20 AM-6.4500-126.0900-1.7,16 May 2026 - 01:20 AM,6.45,126.09,24.0,1.7,022  km S 04° E of Governor Generoso (Davao Oriental),May,2026
-16 May 2026 - 01:08 AM-14.6300-119.0300-3.2,16 May 2026 - 01:08 AM,14.63,119.03,14.0,3.2,119  km S 73° W of San Antonio (Zambales),May,2026
-16 May 2026 - 01:07 AM-18.4700-121.0200-2.0,16 May 2026 - 01:07 AM,18.47,121.02,33.0,2.0,011  km S 14° E of Santa Praxedes (Cagayan),May,2026
+16 May 2026 - 01:08 AM-14.5800-119.0300-3.2,16 May 2026 - 01:08 AM,14.58,119.03,21.0,3.2,121  km S 70° W of San Antonio (Zambales),May,2026
+16 May 2026 - 01:07 AM-18.6100-120.8800-2.0,16 May 2026 - 01:07 AM,18.61,120.88,19.0,2.0,011  km N 62° E of Pagudpud (Ilocos Norte),May,2026
 16 May 2026 - 12:21 AM-8.9200-126.2300-2.2,16 May 2026 - 12:21 AM,8.92,126.23,26.0,2.2,008  km West of Cagwait (Surigao Del Sur),May,2026
 16 May 2026 - 12:07 AM-9.6700-126.2100-1.9,16 May 2026 - 12:07 AM,9.67,126.21,33.0,1.9,014  km S 23° E of General Luna (Surigao Del Norte),May,2026
-16 May 2026 - 12:00 AM-13.0800-125.2900-2.0,16 May 2026 - 12:00 AM,13.08,125.29,35.0,2.0,062  km N 18° E of Palapag (Northern Samar),May,2026
-15 May 2026 - 11:59 PM-15.4800-121.2700-2.3,15 May 2026 - 11:59 PM,15.48,121.27,5.0,2.3,008  km N 69° W of Gabaldon (Nueva Ecija),May,2026
+16 May 2026 - 12:00 AM-12.8500-125.2400-2.0,16 May 2026 - 12:00 AM,12.85,125.24,14.0,2.0,036  km N 21° E of Palapag (Northern Samar),May,2026
+15 May 2026 - 11:59 PM-15.4100-121.2800-2.3,15 May 2026 - 11:59 PM,15.41,121.28,7.0,2.3,008  km S 50° W of Gabaldon (Nueva Ecija),May,2026
 15 May 2026 - 10:22 PM-8.9000-126.6200-2.3,15 May 2026 - 10:22 PM,8.9,126.62,34.0,2.3,035  km S 86° E of Cagwait (Surigao Del Sur),May,2026
-15 May 2026 - 09:40 PM-12.4300-124.5600-2.0,15 May 2026 - 09:40 PM,12.43,124.56,91.0,2.0,011  km S 01° E of Bobon (Northern Samar),May,2026
-15 May 2026 - 08:59 PM-11.2000-123.9800-1.9,15 May 2026 - 08:59 PM,11.2,123.98,34.0,1.9,006  km S 15° W of Daanbantayan (Cebu),May,2026
+15 May 2026 - 09:40 PM-12.4600-124.4700-2.1,15 May 2026 - 09:40 PM,12.46,124.47,65.0,2.1,013  km S 54° W of Bobon (Northern Samar),May,2026
+15 May 2026 - 08:59 PM-11.1300-124.1100-1.9,15 May 2026 - 08:59 PM,11.13,124.11,5.0,1.9,017  km N 57° E of City Of Bogo (Cebu),May,2026
 15 May 2026 - 08:21 PM-8.6500-126.6300-2.0,15 May 2026 - 08:21 PM,8.65,126.63,28.0,2.0,040  km S 66° E of Marihatag (Surigao Del Sur),May,2026
-15 May 2026 - 08:21 PM-18.9600-121.1200-1.4,15 May 2026 - 08:21 PM,18.96,121.12,33.0,1.4,019  km S 27° W of Dalupiri Island (Calayan) (Cagayan),May,2026
-15 May 2026 - 07:36 PM-12.6800-125.8000-2.5,15 May 2026 - 07:36 PM,12.68,125.8,16.0,2.5,064  km N 29° E of San Policarpo (Eastern Samar),May,2026
-15 May 2026 - 07:29 PM-7.4500-126.7300-2.8,15 May 2026 - 07:29 PM,7.45,126.73,31.0,2.8,022  km N 53° E of Caraga (Davao Oriental),May,2026
-15 May 2026 - 07:09 PM-15.0500-122.0600-2.0,15 May 2026 - 07:09 PM,15.05,122.06,13.0,2.0,025  km N 23° E of Burdeos (Quezon),May,2026
-15 May 2026 - 07:07 PM-15.0400-122.1200-2.0,15 May 2026 - 07:07 PM,15.04,122.12,11.0,2.0,028  km N 37° E of Burdeos (Quezon),May,2026
+15 May 2026 - 08:21 PM-18.9600-121.1400-1.4,15 May 2026 - 08:21 PM,18.96,121.14,35.0,1.4,018  km S 24° W of Dalupiri Island (Calayan) (Cagayan),May,2026
+15 May 2026 - 07:36 PM-12.6500-125.7300-2.9,15 May 2026 - 07:36 PM,12.65,125.73,21.0,2.9,058  km N 25° E of San Policarpo (Eastern Samar),May,2026
+15 May 2026 - 07:29 PM-7.5200-126.9200-2.7,15 May 2026 - 07:29 PM,7.52,126.92,9.0,2.7,040  km S 81° E of Baganga (Davao Oriental),May,2026
+15 May 2026 - 07:09 PM-15.0600-122.0600-2.0,15 May 2026 - 07:09 PM,15.06,122.06,17.0,2.0,026  km N 22° E of Burdeos (Quezon),May,2026
+15 May 2026 - 07:07 PM-15.0400-122.0600-2.0,15 May 2026 - 07:07 PM,15.04,122.06,11.0,2.0,024  km N 24° E of Burdeos (Quezon),May,2026
 15 May 2026 - 06:09 PM-8.5100-126.5800-1.8,15 May 2026 - 06:09 PM,8.51,126.58,29.0,1.8,031  km N 59° E of Hinatuan (Surigao Del Sur),May,2026
 15 May 2026 - 05:46 PM-15.0200-122.1200-2.0,15 May 2026 - 05:46 PM,15.02,122.12,16.0,2.0,025  km N 41° E of Burdeos (Quezon),May,2026
-15 May 2026 - 05:44 PM-6.2000-125.4200-2.9,15 May 2026 - 05:44 PM,6.2,125.42,105.0,2.9,017  km N 54° E of Alabel (Sarangani),May,2026
+15 May 2026 - 05:44 PM-6.1900-125.3100-3.1,15 May 2026 - 05:44 PM,6.19,125.31,107.0,3.1,010  km N 11° E of Alabel (Sarangani),May,2026
 15 May 2026 - 05:31 PM-15.2700-120.1500-1.6,15 May 2026 - 05:31 PM,15.27,120.15,73.0,1.6,013  km S 80° E of Botolan (Zambales),May,2026
 15 May 2026 - 04:50 PM-19.1800-121.1800-2.1,15 May 2026 - 04:50 PM,19.18,121.18,25.0,2.1,009  km N 21° W of Dalupiri Island (Calayan) (Cagayan),May,2026
 15 May 2026 - 01:54 PM-7.1400-127.3600-2.8,15 May 2026 - 01:54 PM,7.14,127.36,26.0,2.8,090  km S 77° E of Caraga (Davao Oriental),May,2026
