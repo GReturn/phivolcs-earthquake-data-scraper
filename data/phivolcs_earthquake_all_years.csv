@@ -122655,59 +122655,138 @@
 01 June 2026 - 01:11 AM-6.2000-126.9900-2.6,01 June 2026 - 01:11 AM,6.2,126.99,52.0,2.6,111  km S 32° E of Tarragona (Davao Oriental),June,2026
 01 June 2026 - 12:54 AM-4.8200-127.7700-3.5,01 June 2026 - 12:54 AM,4.82,127.77,114.0,3.5,265  km S 63° E of Jose Abad Santos (Davao Occidental),June,2026
 01 June 2026 - 12:41 AM-17.6800-120.7200-3.4,01 June 2026 - 12:41 AM,17.68,120.72,4.0,3.4,005  km N 52° W of San Juan (Abra),June,2026
-29 July 2026 - 01:05 PM-19.8400-121.2500-2.4,29 July 2026 - 01:05 PM,19.84,121.25,9.0,2.4,068  km N 20° W of Calayan (Cagayan),July,2026
-29 July 2026 - 12:43 PM-5.6600-125.0500-2.5,29 July 2026 - 12:43 PM,5.66,125.05,13.0,2.5,024  km S 13° E of Maasim (Sarangani),July,2026
-29 July 2026 - 12:14 PM-17.7600-120.1800-2.3,29 July 2026 - 12:14 PM,17.76,120.18,45.0,2.3,027  km N 72° W of Magsingal (Ilocos Sur),July,2026
+30 July 2026 - 10:59 AM-13.2900-124.4300-2.2,30 July 2026 - 10:59 AM,13.29,124.43,10.0,2.2,035  km N 70° E of Rapu-rapu (Albay),July,2026
+30 July 2026 - 10:50 AM-4.8600-127.8300-3.3,30 July 2026 - 10:50 AM,4.86,127.83,118.0,3.3,269  km S 64° E of Jose Abad Santos (Davao Occidental),July,2026
+30 July 2026 - 09:34 AM-20.7300-120.9400-3.0,30 July 2026 - 09:34 AM,20.73,120.94,14.0,3.0,094  km S 86° W of Itbayat (Batanes),July,2026
+30 July 2026 - 09:26 AM-5.5400-126.6000-2.9,30 July 2026 - 09:26 AM,5.54,126.6,38.0,2.9,113  km S 69° E of Jose Abad Santos (Davao Occidental),July,2026
+30 July 2026 - 09:15 AM-5.1000-125.2500-2.8,30 July 2026 - 09:15 AM,5.1,125.25,74.0,2.8,040  km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+30 July 2026 - 09:17 AM-19.3400-120.9800-2.7,30 July 2026 - 09:17 AM,19.34,120.98,33.0,2.7,035  km N 43° W of Dalupiri Island (Calayan) (Cagayan),July,2026
+30 July 2026 - 08:15 AM-18.1200-121.7100-1.8,30 July 2026 - 08:15 AM,18.12,121.71,14.0,1.8,010  km N 48° E of Gattaran (Cagayan),July,2026
+30 July 2026 - 08:12 AM-20.1000-121.1000-3.5,30 July 2026 - 08:12 AM,20.1,121.1,2.0,3.5,085  km S 72° W of Sabtang (Batanes),July,2026
+30 July 2026 - 07:58 AM-13.2200-124.8000-2.6,30 July 2026 - 07:58 AM,13.22,124.8,6.0,2.6,067  km S 43° E of Baras (Catanduanes),July,2026
+30 July 2026 - 07:51 AM-9.8100-125.9200-2.6,30 July 2026 - 07:51 AM,9.81,125.92,8.0,2.6,009  km S 42° W of Del Carmen (Surigao Del Norte),July,2026
+30 July 2026 - 07:38 AM-6.4400-125.8500-1.7,30 July 2026 - 07:38 AM,6.44,125.85,25.0,1.7,026  km N 85° E of Malita (Davao Occidental),July,2026
+30 July 2026 - 07:37 AM-5.6700-125.1300-1.6,30 July 2026 - 07:37 AM,5.67,125.13,23.0,1.6,019  km S 27° W of Glan (Sarangani),July,2026
+30 July 2026 - 07:30 AM-6.0300-125.4200-1.7,30 July 2026 - 07:30 AM,6.03,125.42,18.0,1.7,016  km N 68° E of Malapatan (Sarangani),July,2026
+30 July 2026 - 07:25 AM-7.4300-124.1100-2.2,30 July 2026 - 07:25 AM,7.43,124.11,17.0,2.2,009  km S 13° W of Balabagan (Lanao Del Sur),July,2026
+30 July 2026 - 07:22 AM-7.4500-124.0600-2.9,30 July 2026 - 07:22 AM,7.45,124.06,12.0,2.9,010  km S 48° W of Balabagan (Lanao Del Sur),July,2026
+30 July 2026 - 07:21 AM-15.5400-121.7000-1.7,30 July 2026 - 07:21 AM,15.54,121.7,24.0,1.7,028  km S 43° E of San Luis (Aurora),July,2026
+30 July 2026 - 06:50 AM-13.1800-124.5600-2.3,30 July 2026 - 06:50 AM,13.18,124.56,8.0,2.3,043  km N 69° E of Prieto Diaz (Sorsogon),July,2026
+30 July 2026 - 05:39 AM-5.8300-125.3100-1.8,30 July 2026 - 05:39 AM,5.83,125.31,21.0,1.8,012  km N 85° E of Glan (Sarangani),July,2026
+30 July 2026 - 04:41 AM-9.6300-125.9300-3.2,30 July 2026 - 04:41 AM,9.63,125.93,7.0,3.2,004  km N 73° W of Socorro (Surigao Del Norte),July,2026
+30 July 2026 - 04:33 AM-8.5200-126.5500-1.7,30 July 2026 - 04:33 AM,8.52,126.55,32.0,1.7,029  km N 55° E of Hinatuan (Surigao Del Sur),July,2026
+30 July 2026 - 04:07 AM-9.2700-126.2900-1.7,30 July 2026 - 04:07 AM,9.27,126.29,15.0,1.7,011  km S 89° E of Cortes (Surigao Del Sur),July,2026
+30 July 2026 - 03:48 AM-5.6300-125.0900-2.0,30 July 2026 - 03:48 AM,5.63,125.09,30.0,2.0,024  km S 30° W of Glan (Sarangani),July,2026
+30 July 2026 - 03:47 AM-5.8300-125.3400-1.9,30 July 2026 - 03:47 AM,5.83,125.34,23.0,1.9,015  km N 87° E of Glan (Sarangani),July,2026
+30 July 2026 - 03:41 AM-5.0800-127.2200-3.6,30 July 2026 - 03:41 AM,5.08,127.22,138.0,3.6,197  km S 62° E of Jose Abad Santos (Davao Occidental),July,2026
+30 July 2026 - 03:10 AM-5.2900-125.0300-2.3,30 July 2026 - 03:10 AM,5.29,125.03,27.0,2.3,045  km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+30 July 2026 - 03:06 AM-11.4600-126.5800-3.0,30 July 2026 - 03:06 AM,11.46,126.58,36.0,3.0,103  km N 67° E of Mercedes (Eastern Samar),July,2026
+30 July 2026 - 02:38 AM-5.5900-125.3100-3.0,30 July 2026 - 02:38 AM,5.59,125.31,10.0,3.0,024  km N 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+30 July 2026 - 02:26 AM-10.0400-126.0500-2.3,30 July 2026 - 02:26 AM,10.04,126.05,30.0,2.3,002  km N 39° E of Santa Monica (Surigao Del Norte),July,2026
+30 July 2026 - 02:08 AM-17.6800-122.2800-2.6,30 July 2026 - 02:08 AM,17.68,122.28,32.0,2.6,033  km N 08° E of Maconacon (Isabela),July,2026
+30 July 2026 - 02:06 AM-5.1500-124.9700-3.8,30 July 2026 - 02:06 AM,5.15,124.97,27.0,3.8,058  km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+30 July 2026 - 02:04 AM-4.3100-126.0300-2.9,30 July 2026 - 02:04 AM,4.31,126.03,130.0,2.9,139  km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+30 July 2026 - 01:51 AM-10.0100-122.2300-2.4,30 July 2026 - 01:51 AM,10.01,122.23,25.0,2.4,035  km N 41° W of City Of Sipalay (Negros Occidental),July,2026
+30 July 2026 - 01:46 AM-13.5100-124.6500-3.7,30 July 2026 - 01:46 AM,13.51,124.65,19.0,3.7,034  km S 62° E of Baras (Catanduanes),July,2026
+30 July 2026 - 01:38 AM-12.7100-123.1100-2.0,30 July 2026 - 01:38 AM,12.71,123.11,18.0,2.0,026  km S 35° W of Claveria (Masbate),July,2026
+30 July 2026 - 01:39 AM-5.0300-125.0600-2.6,30 July 2026 - 01:39 AM,5.03,125.06,38.0,2.6,058  km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+30 July 2026 - 01:32 AM-6.6700-125.7500-2.0,30 July 2026 - 01:32 AM,6.67,125.75,41.0,2.0,032  km N 29° E of Malita (Davao Occidental),July,2026
+30 July 2026 - 01:30 AM-17.4100-120.0100-3.2,30 July 2026 - 01:30 AM,17.41,120.01,8.0,3.2,042  km S 69° W of Caoayan (Ilocos Sur),July,2026
+30 July 2026 - 01:26 AM-5.9000-125.3700-2.1,30 July 2026 - 01:26 AM,5.9,125.37,18.0,2.1,020  km N 66° E of Glan (Sarangani),July,2026
+30 July 2026 - 01:25 AM-13.2600-124.5000-1.8,30 July 2026 - 01:25 AM,13.26,124.5,15.0,1.8,041  km N 79° E of Rapu-rapu (Albay),July,2026
+30 July 2026 - 01:20 AM-5.9300-125.3300-2.4,30 July 2026 - 01:20 AM,5.93,125.33,20.0,2.4,007  km S 42° E of Malapatan (Sarangani),July,2026
+30 July 2026 - 01:16 AM-5.9400-125.3300-1.7,30 July 2026 - 01:16 AM,5.94,125.33,17.0,1.7,006  km S 59° E of Malapatan (Sarangani),July,2026
+30 July 2026 - 12:10 AM-7.5400-126.6300-2.4,30 July 2026 - 12:10 AM,7.54,126.63,25.0,2.4,009  km S 66° E of Baganga (Davao Oriental),July,2026
+30 July 2026 - 12:01 AM-6.4800-125.8600-2.1,30 July 2026 - 12:01 AM,6.48,125.86,33.0,2.1,029  km N 76° E of Malita (Davao Occidental),July,2026
+30 July 2026 - 12:00 AM-10.3100-122.6800-2.2,30 July 2026 - 12:00 AM,10.31,122.68,30.0,2.2,019  km N 75° W of Hinigaran (Negros Occidental),July,2026
+29 July 2026 - 11:23 PM-12.3600-124.6800-2.4,29 July 2026 - 11:23 PM,12.36,124.68,19.0,2.4,009  km N 42° E of Lope De Vega (Northern Samar),July,2026
+29 July 2026 - 11:10 PM-13.3300-124.8300-5.3,29 July 2026 - 11:10 PM,13.33,124.83,22.0,5.3,061  km S 53° E of Baras (Catanduanes),July,2026
+29 July 2026 - 10:55 PM-5.9000-125.4300-2.2,29 July 2026 - 10:55 PM,5.9,125.43,21.0,2.2,018  km S 65° E of Malapatan (Sarangani),July,2026
+29 July 2026 - 10:23 PM-6.3600-125.8100-2.3,29 July 2026 - 10:23 PM,6.36,125.81,74.0,2.3,022  km N 35° E of Don Marcelino (Davao Occidental),July,2026
+29 July 2026 - 10:11 PM-15.4000-122.7600-5.0,29 July 2026 - 10:11 PM,15.4,122.76,17.0,5.0,090  km N 31° E of Jomalig (Quezon),July,2026
+29 July 2026 - 10:02 PM-6.7200-125.7600-1.8,29 July 2026 - 10:02 PM,6.72,125.76,42.0,1.8,033  km S 55° W of Lupon (Davao Oriental),July,2026
+29 July 2026 - 10:01 PM-8.9800-125.5200-2.0,29 July 2026 - 10:01 PM,8.98,125.52,18.0,2.0,004  km South of Magallanes (Agusan Del Norte),July,2026
+29 July 2026 - 09:56 PM-5.3400-125.3200-2.0,29 July 2026 - 09:56 PM,5.34,125.32,23.0,2.0,014  km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 09:29 PM-5.2100-124.9500-3.6,29 July 2026 - 09:29 PM,5.21,124.95,27.0,3.6,056  km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 09:23 PM-5.0800-125.0300-4.9,29 July 2026 - 09:23 PM,5.08,125.03,33.0,4.9,057  km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 09:16 PM-5.5500-125.3000-4.8,29 July 2026 - 09:16 PM,5.55,125.3,27.0,4.8,020  km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 08:07 PM-6.8800-126.5800-3.0,29 July 2026 - 08:07 PM,6.88,126.58,76.0,3.0,024  km S 39° E of Tarragona (Davao Oriental),July,2026
+29 July 2026 - 07:49 PM-18.5500-122.0400-1.6,29 July 2026 - 07:49 PM,18.55,122.04,33.0,1.6,015  km N 48° W of Santa Ana (Cagayan),July,2026
+29 July 2026 - 07:44 PM-15.5600-120.0700-1.7,29 July 2026 - 07:44 PM,15.56,120.07,55.0,1.7,013  km N 76° E of Masinloc (Zambales),July,2026
+29 July 2026 - 07:35 PM-16.4200-119.1200-3.6,29 July 2026 - 07:35 PM,16.42,119.12,15.0,3.6,082  km N 88° W of Bolinao (Pangasinan),July,2026
+29 July 2026 - 07:34 PM-5.9200-126.4600-2.7,29 July 2026 - 07:34 PM,5.92,126.46,2.0,2.7,090  km S 70° E of Don Marcelino (Davao Occidental),July,2026
+29 July 2026 - 07:14 PM-11.1000-124.2000-2.1,29 July 2026 - 07:14 PM,11.1,124.2,22.0,2.1,024  km N 76° E of City Of Bogo (Cebu),July,2026
+29 July 2026 - 07:13 PM-13.3500-123.9400-1.7,29 July 2026 - 07:13 PM,13.35,123.94,65.0,1.7,017  km N 68° E of Bacacay (Albay),July,2026
+29 July 2026 - 06:58 PM-5.1700-124.6200-3.3,29 July 2026 - 06:58 PM,5.17,124.62,15.0,3.3,088  km S 29° W of Maasim (Sarangani),July,2026
+29 July 2026 - 06:25 PM-5.1800-126.7800-3.2,29 July 2026 - 06:25 PM,5.18,126.78,11.0,3.2,149  km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 06:24 PM-13.2600-121.8600-1.9,29 July 2026 - 06:24 PM,13.26,121.86,20.0,1.9,007  km S 08° E of Gasan (Marinduque),July,2026
+29 July 2026 - 06:04 PM-5.7000-126.4300-3.0,29 July 2026 - 06:04 PM,5.7,126.43,27.0,3.0,090  km S 75° E of Jose Abad Santos (Davao Occidental),July,2026
+29 July 2026 - 05:31 PM-18.6000-121.7400-3.6,29 July 2026 - 05:31 PM,18.6,121.74,3.0,3.6,028  km N 24° E of Aparri (Cagayan),July,2026
+29 July 2026 - 05:25 PM-5.7300-125.4200-2.3,29 July 2026 - 05:25 PM,5.73,125.42,28.0,2.3,026  km S 66° E of Glan (Sarangani),July,2026
+29 July 2026 - 05:21 PM-5.5700-125.3200-3.4,29 July 2026 - 05:21 PM,5.57,125.32,4.0,3.4,021  km N 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 04:50 PM-18.4600-120.4000-1.9,29 July 2026 - 04:50 PM,18.46,120.4,31.0,1.9,027  km S 78° W of Burgos (Ilocos Norte),July,2026
+29 July 2026 - 03:21 PM-12.5300-123.5100-1.6,29 July 2026 - 03:21 PM,12.53,123.51,25.0,1.6,007  km N 16° E of Baleno (Masbate),July,2026
+29 July 2026 - 03:11 PM-10.2300-126.3100-3.3,29 July 2026 - 03:11 PM,10.23,126.31,10.0,3.3,034  km N 47° E of Burgos (Surigao Del Norte),July,2026
+29 July 2026 - 03:06 PM-10.8700-122.8400-2.4,29 July 2026 - 03:06 PM,10.87,122.84,28.0,2.4,015  km S 39° E of Anilao (Iloilo),July,2026
+29 July 2026 - 02:43 PM-5.0400-125.9300-3.4,29 July 2026 - 02:43 PM,5.04,125.93,16.0,3.4,070  km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 02:01 PM-18.3500-120.9200-2.0,29 July 2026 - 02:01 PM,18.35,120.92,54.0,2.0,016  km N 52° W of Calanasan (Apayao),July,2026
+29 July 2026 - 01:56 PM-5.5700-125.3800-2.5,29 July 2026 - 01:56 PM,5.57,125.38,26.0,2.5,015  km N 41° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 01:50 PM-6.9600-127.5100-2.7,29 July 2026 - 01:50 PM,6.96,127.51,28.0,2.7,111  km S 75° E of Manay (Davao Oriental),July,2026
+29 July 2026 - 01:46 PM-13.0100-123.0700-1.9,29 July 2026 - 01:46 PM,13.01,123.07,25.0,1.9,012  km S 82° E of San Pascual (Masbate),July,2026
+29 July 2026 - 01:13 PM-14.1000-122.1700-1.4,29 July 2026 - 01:13 PM,14.1,122.17,10.0,1.4,010  km N 05° W of Quezon (Quezon),July,2026
+29 July 2026 - 01:05 PM-19.6600-121.3900-2.6,29 July 2026 - 01:05 PM,19.66,121.39,14.0,2.6,044  km N 11° W of Calayan (Cagayan),July,2026
+29 July 2026 - 12:43 PM-5.3800-124.9300-2.7,29 July 2026 - 12:43 PM,5.38,124.93,29.0,2.7,054  km S 08° W of Maasim (Sarangani),July,2026
+29 July 2026 - 12:14 PM-17.7300-120.1400-2.3,29 July 2026 - 12:14 PM,17.73,120.14,37.0,2.3,031  km N 81° W of Magsingal (Ilocos Sur),July,2026
 29 July 2026 - 11:10 AM-8.7100-126.5100-2.1,29 July 2026 - 11:10 AM,8.71,126.51,12.0,2.1,025  km S 68° E of Marihatag (Surigao Del Sur),July,2026
 29 July 2026 - 10:30 AM-5.6000-125.2600-2.0,29 July 2026 - 10:30 AM,5.6,125.26,21.0,2.0,026  km S 14° E of Glan (Sarangani),July,2026
-29 July 2026 - 10:27 AM-8.7100-126.2200-2.1,29 July 2026 - 10:27 AM,8.71,126.22,31.0,2.1,004  km South of San Agustin (Surigao Del Sur),July,2026
+29 July 2026 - 10:27 AM-8.7000-126.4100-2.0,29 July 2026 - 10:27 AM,8.7,126.41,31.0,2.0,016  km S 49° E of Marihatag (Surigao Del Sur),July,2026
 29 July 2026 - 10:06 AM-13.0800-123.9500-2.0,29 July 2026 - 10:06 AM,13.08,123.95,35.0,2.0,010  km S 64° E of Manito (Albay),July,2026
-29 July 2026 - 09:33 AM-5.5500-125.1000-3.1,29 July 2026 - 09:33 AM,5.55,125.1,21.0,3.1,033  km S 21° W of Glan (Sarangani),July,2026
-29 July 2026 - 09:10 AM-5.2800-125.2700-3.7,29 July 2026 - 09:10 AM,5.28,125.27,10.0,3.7,022  km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
-29 July 2026 - 09:06 AM-10.1100-125.9900-2.4,29 July 2026 - 09:06 AM,10.11,125.99,25.0,2.4,011  km N 25° W of Santa Monica (Surigao Del Norte),July,2026
-29 July 2026 - 08:50 AM-5.5900-125.3300-2.6,29 July 2026 - 08:50 AM,5.59,125.33,9.0,2.6,020  km N 52° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),July,2026
-29 July 2026 - 08:43 AM-10.1000-125.9800-2.8,29 July 2026 - 08:43 AM,10.1,125.98,21.0,2.8,011  km N 36° W of Santa Monica (Surigao Del Norte),July,2026
+29 July 2026 - 09:33 AM-5.4500-125.0900-3.0,29 July 2026 - 09:33 AM,5.45,125.09,15.0,3.0,037  km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 09:10 AM-5.3000-125.2800-3.5,29 July 2026 - 09:10 AM,5.3,125.28,24.0,3.5,020  km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 09:06 AM-10.1500-126.0300-2.9,29 July 2026 - 09:06 AM,10.15,126.03,4.0,2.9,014  km N 03° W of Santa Monica (Surigao Del Norte),July,2026
+29 July 2026 - 08:50 AM-5.5600-125.2700-2.5,29 July 2026 - 08:50 AM,5.56,125.27,4.0,2.5,023  km N 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 08:43 AM-10.1400-126.0800-3.1,29 July 2026 - 08:43 AM,10.14,126.08,8.0,3.1,014  km N 04° E of Burgos (Surigao Del Norte),July,2026
 29 July 2026 - 08:39 AM-10.2300-126.2300-4.6,29 July 2026 - 08:39 AM,10.23,126.23,13.0,4.6,029  km N 36° E of Burgos (Surigao Del Norte),July,2026
-29 July 2026 - 08:23 AM-13.8200-120.4600-3.1,29 July 2026 - 08:23 AM,13.82,120.46,176.0,3.1,019  km S 87° W of Calatagan (Batangas),July,2026
+29 July 2026 - 08:23 AM-13.8900-120.5500-3.4,29 July 2026 - 08:23 AM,13.89,120.55,181.0,3.4,011  km N 52° W of Calatagan (Batangas),July,2026
 29 July 2026 - 07:44 AM-12.8500-123.6300-2.0,29 July 2026 - 07:44 AM,12.85,123.63,10.0,2.0,002  km N 80° E of Donsol (Sorsogon),July,2026
-29 July 2026 - 07:26 AM-13.7700-120.6500-2.1,29 July 2026 - 07:26 AM,13.77,120.65,117.0,2.1,007  km S 12° E of Calatagan (Batangas),July,2026
+29 July 2026 - 07:26 AM-13.8000-120.6200-2.2,29 July 2026 - 07:26 AM,13.8,120.62,114.0,2.2,004  km S 19° W of Calatagan (Batangas),July,2026
 29 July 2026 - 06:55 AM-5.9800-125.3900-1.7,29 July 2026 - 06:55 AM,5.98,125.39,3.0,1.7,011  km N 87° E of Malapatan (Sarangani),July,2026
-29 July 2026 - 06:51 AM-11.2400-121.2100-2.5,29 July 2026 - 06:51 AM,11.24,121.21,33.0,2.5,031  km N 73° E of Agutaya (Palawan),July,2026
+29 July 2026 - 06:51 AM-11.2100-121.1500-2.5,29 July 2026 - 06:51 AM,11.21,121.15,25.0,2.5,024  km N 75° E of Agutaya (Palawan),July,2026
 29 July 2026 - 06:25 AM-5.9000-126.6300-2.8,29 July 2026 - 06:25 AM,5.9,126.63,34.0,2.8,103  km S 36° E of Governor Generoso (Davao Oriental),July,2026
 29 July 2026 - 06:18 AM-15.5600-119.9800-1.6,29 July 2026 - 06:18 AM,15.56,119.98,33.0,1.6,004  km N 45° E of Masinloc (Zambales),July,2026
-29 July 2026 - 04:40 AM-9.7500-126.1500-2.7,29 July 2026 - 04:40 AM,9.75,126.15,26.0,2.7,004  km S 03° W of General Luna (Surigao Del Norte),July,2026
+29 July 2026 - 04:40 AM-9.6700-126.0700-2.7,29 July 2026 - 04:40 AM,9.67,126.07,17.0,2.7,016  km S 36° W of General Luna (Surigao Del Norte),July,2026
 29 July 2026 - 03:57 AM-12.9900-123.4100-1.6,29 July 2026 - 03:57 AM,12.99,123.41,26.0,1.6,008  km S 42° W of Pio Duran (Albay),July,2026
-29 July 2026 - 03:54 AM-5.6700-125.2500-2.5,29 July 2026 - 03:54 AM,5.67,125.25,21.0,2.5,018  km S 16° E of Glan (Sarangani),July,2026
-29 July 2026 - 03:41 AM-10.8400-126.4500-2.5,29 July 2026 - 03:41 AM,10.84,126.45,19.0,2.5,080  km N 82° E of Homonhon Island (Guiuan) (Eastern Samar),July,2026
+29 July 2026 - 03:54 AM-5.4000-125.1400-2.5,29 July 2026 - 03:54 AM,5.4,125.14,15.0,2.5,048  km S 09° W of Glan (Sarangani),July,2026
+29 July 2026 - 03:41 AM-10.8600-126.3900-2.6,29 July 2026 - 03:41 AM,10.86,126.39,6.0,2.6,074  km N 80° E of Homonhon Island (Guiuan) (Eastern Samar),July,2026
 29 July 2026 - 03:22 AM-18.4900-120.8800-2.1,29 July 2026 - 03:22 AM,18.49,120.88,24.0,2.1,004  km N 34° W of Adams (Ilocos Norte),July,2026
-29 July 2026 - 03:22 AM-12.3500-125.4300-2.0,29 July 2026 - 03:22 AM,12.35,125.43,19.0,2.0,012  km N 36° E of Arteche (Eastern Samar),July,2026
-29 July 2026 - 03:18 AM-5.3500-125.3300-2.1,29 July 2026 - 03:18 AM,5.35,125.33,26.0,2.1,012  km S 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 03:22 AM-12.3100-125.3900-2.0,29 July 2026 - 03:22 AM,12.31,125.39,13.0,2.0,005  km N 29° E of Arteche (Eastern Samar),July,2026
+29 July 2026 - 03:18 AM-5.3500-125.2900-2.2,29 July 2026 - 03:18 AM,5.35,125.29,34.0,2.2,016  km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
 29 July 2026 - 02:47 AM-4.6200-125.3000-2.9,29 July 2026 - 02:47 AM,4.62,125.3,67.0,2.9,089  km S 09° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
 29 July 2026 - 02:21 AM-5.6600-125.0900-1.6,29 July 2026 - 02:21 AM,5.66,125.09,31.0,1.6,022  km S 36° W of Glan (Sarangani),July,2026
-29 July 2026 - 02:08 AM-4.9500-125.1300-2.4,29 July 2026 - 02:08 AM,4.95,125.13,26.0,2.4,060  km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
-29 July 2026 - 02:00 AM-9.6600-126.1700-2.5,29 July 2026 - 02:00 AM,9.66,126.17,25.0,2.5,014  km S 06° E of General Luna (Surigao Del Norte),July,2026
+29 July 2026 - 02:08 AM-4.8500-125.2100-2.7,29 July 2026 - 02:08 AM,4.85,125.21,72.0,2.7,066  km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+29 July 2026 - 02:00 AM-9.7200-126.0900-2.5,29 July 2026 - 02:00 AM,9.72,126.09,21.0,2.5,010  km S 44° W of General Luna (Surigao Del Norte),July,2026
 29 July 2026 - 01:59 AM-5.1900-124.3500-2.0,29 July 2026 - 01:59 AM,5.19,124.35,29.0,2.0,092  km S 20° W of Kiamba (Sarangani),July,2026
 29 July 2026 - 01:48 AM-13.6100-124.1500-1.5,29 July 2026 - 01:48 AM,13.61,124.15,33.0,1.5,006  km N 76° E of San Andres (Catanduanes),July,2026
 29 July 2026 - 01:18 AM-13.5900-124.1600-1.8,29 July 2026 - 01:18 AM,13.59,124.16,33.0,1.8,006  km S 88° E of San Andres (Catanduanes),July,2026
-29 July 2026 - 01:04 AM-6.4900-123.7300-2.1,29 July 2026 - 01:04 AM,6.49,123.73,5.0,2.1,036  km S 78° W of Kalamansig (Sultan Kudarat),July,2026
-29 July 2026 - 12:47 AM-8.7300-126.9600-2.5,29 July 2026 - 12:47 AM,8.73,126.96,25.0,2.5,074  km S 84° E of Marihatag (Surigao Del Sur),July,2026
+29 July 2026 - 01:04 AM-6.5100-123.7000-2.2,29 July 2026 - 01:04 AM,6.51,123.7,25.0,2.2,039  km S 82° W of Kalamansig (Sultan Kudarat),July,2026
+29 July 2026 - 12:47 AM-8.7600-126.9000-2.5,29 July 2026 - 12:47 AM,8.76,126.9,17.0,2.5,066  km S 86° E of Marihatag (Surigao Del Sur),July,2026
 29 July 2026 - 12:28 AM-5.8200-125.3700-1.8,29 July 2026 - 12:28 AM,5.82,125.37,10.0,1.8,018  km S 89° E of Glan (Sarangani),July,2026
-29 July 2026 - 12:22 AM-8.7400-126.8400-2.2,29 July 2026 - 12:22 AM,8.74,126.84,27.0,2.2,060  km S 84° E of Marihatag (Surigao Del Sur),July,2026
-28 July 2026 - 11:38 PM-8.0500-126.7400-1.5,28 July 2026 - 11:38 PM,8.05,126.74,23.0,1.5,036  km N 89° E of Lingig (Surigao Del Sur),July,2026
+29 July 2026 - 12:22 AM-8.7300-126.7900-2.2,29 July 2026 - 12:22 AM,8.73,126.79,20.0,2.2,055  km S 82° E of Marihatag (Surigao Del Sur),July,2026
+28 July 2026 - 11:38 PM-8.0100-126.9000-1.5,28 July 2026 - 11:38 PM,8.01,126.9,14.0,1.5,054  km S 87° E of Lingig (Surigao Del Sur),July,2026
 28 July 2026 - 11:25 PM-14.3300-122.6400-1.4,28 July 2026 - 11:25 PM,14.33,122.64,86.0,1.4,007  km N 48° W of Jose Panganiban (Camarines Norte),July,2026
-28 July 2026 - 11:23 PM-5.8500-125.3100-2.7,28 July 2026 - 11:23 PM,5.85,125.31,24.0,2.7,012  km N 73° E of Glan (Sarangani),July,2026
+28 July 2026 - 11:23 PM-5.7400-125.3000-2.7,28 July 2026 - 11:23 PM,5.74,125.3,24.0,2.7,014  km S 52° E of Glan (Sarangani),July,2026
 28 July 2026 - 11:03 PM-5.8300-126.0100-2.2,28 July 2026 - 11:03 PM,5.83,126.01,42.0,2.2,041  km S 77° E of Jose Abad Santos (Davao Occidental),July,2026
-28 July 2026 - 10:48 PM-16.2900-121.9900-1.8,28 July 2026 - 10:48 PM,16.29,121.99,30.0,1.8,014  km N 82° W of Casiguran (Aurora),July,2026
-28 July 2026 - 10:25 PM-19.3500-121.1500-2.5,28 July 2026 - 10:25 PM,19.35,121.15,32.0,2.5,027  km N 11° W of Dalupiri Island (Calayan) (Cagayan),July,2026
-28 July 2026 - 09:56 PM-15.8800-120.4700-1.4,28 July 2026 - 09:56 PM,15.88,120.47,32.0,1.4,007  km N 53° W of Alcala (Pangasinan),July,2026
-28 July 2026 - 09:43 PM-5.2900-125.2800-2.7,28 July 2026 - 09:43 PM,5.29,125.28,33.0,2.7,021  km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
-28 July 2026 - 09:33 PM-5.6700-125.6600-2.2,28 July 2026 - 09:33 PM,5.67,125.66,117.0,2.2,026  km N 46° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),July,2026
-28 July 2026 - 08:55 PM-19.0200-122.3600-2.0,28 July 2026 - 08:55 PM,19.02,122.36,31.0,2.0,054  km N 77° E of Camiguin Island (Calayan) (Cagayan),July,2026
+28 July 2026 - 10:48 PM-16.5100-122.1000-2.0,28 July 2026 - 10:48 PM,16.51,122.1,2.0,2.0,017  km S 86° W of Dinapigue (Isabela),July,2026
+28 July 2026 - 10:25 PM-19.3500-121.3200-2.4,28 July 2026 - 10:25 PM,19.35,121.32,42.0,2.4,019  km N 57° W of Calayan (Cagayan),July,2026
+28 July 2026 - 09:56 PM-15.9200-120.5300-1.7,28 July 2026 - 09:56 PM,15.92,120.53,24.0,1.7,007  km N 56° W of Santo Tomas (Pangasinan),July,2026
+28 July 2026 - 09:43 PM-5.1800-125.3700-2.6,28 July 2026 - 09:43 PM,5.18,125.37,38.0,2.6,027  km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+28 July 2026 - 09:33 PM-5.6200-125.6400-2.4,28 July 2026 - 09:33 PM,5.62,125.64,119.0,2.4,025  km N 50° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),July,2026
+28 July 2026 - 08:55 PM-19.0600-122.6400-2.1,28 July 2026 - 08:55 PM,19.06,122.64,19.0,2.1,084  km N 79° E of Camiguin Island (Calayan) (Cagayan),July,2026
 28 July 2026 - 08:29 PM-5.4200-125.4100-1.5,28 July 2026 - 08:29 PM,5.42,125.41,28.0,1.5,002  km N 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),July,2026
-28 July 2026 - 07:15 PM-5.9200-125.2900-2.4,28 July 2026 - 07:15 PM,5.92,125.29,6.0,2.4,005  km S 02° W of Malapatan (Sarangani),July,2026
-28 July 2026 - 06:41 PM-8.2700-126.7300-2.3,28 July 2026 - 06:41 PM,8.27,126.73,33.0,2.3,043  km N 54° E of Lingig (Surigao Del Sur),July,2026
-28 July 2026 - 06:37 PM-15.0900-119.9200-1.7,28 July 2026 - 06:37 PM,15.09,119.92,34.0,1.7,017  km S 62° W of Cabangan (Zambales),July,2026
-28 July 2026 - 06:26 PM-10.0200-126.0800-1.4,28 July 2026 - 06:26 PM,10.02,126.08,35.0,1.4,001  km N 71° E of Burgos (Surigao Del Norte),July,2026
+28 July 2026 - 07:15 PM-5.5600-125.0100-2.4,28 July 2026 - 07:15 PM,5.56,125.01,11.0,2.4,033  km S 02° E of Maasim (Sarangani),July,2026
+28 July 2026 - 06:41 PM-8.2600-126.6500-2.3,28 July 2026 - 06:41 PM,8.26,126.65,40.0,2.3,036  km N 47° E of Lingig (Surigao Del Sur),July,2026
+28 July 2026 - 06:37 PM-15.0200-119.8000-1.6,28 July 2026 - 06:37 PM,15.02,119.8,32.0,1.6,030  km S 81° W of San Felipe (Zambales),July,2026
+28 July 2026 - 06:26 PM-9.9900-126.0500-1.7,28 July 2026 - 06:26 PM,9.99,126.05,34.0,1.7,004  km S 19° E of Santa Monica (Surigao Del Norte),July,2026
 28 July 2026 - 05:07 PM-12.7800-123.0200-2.2,28 July 2026 - 05:07 PM,12.78,123.02,18.0,2.2,028  km S 61° W of Claveria (Masbate),July,2026
 28 July 2026 - 04:53 PM-15.0100-119.7900-1.3,28 July 2026 - 04:53 PM,15.01,119.79,34.0,1.3,030  km S 79° W of San Felipe (Zambales),July,2026
 28 July 2026 - 04:53 PM-17.8000-120.2400-1.4,28 July 2026 - 04:53 PM,17.8,120.24,42.0,1.4,022  km N 90° W of Cabugao (Ilocos Sur),July,2026
