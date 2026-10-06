@@ -127882,60 +127882,110 @@
 01 August 2026 - 12:11 AM-5.7300-125.4300-1.7,01 August 2026 - 12:11 AM,5.73,125.43,19.0,1.7,027  km S 68° E of Glan (Sarangani),August,2026
 01 August 2026 - 12:07 AM-17.9900-120.6400-2.2,01 August 2026 - 12:07 AM,17.99,120.64,6.0,2.2,002  km N 74° W of Banna (Ilocos Norte),August,2026
 01 August 2026 - 12:01 AM-5.3100-126.3000-3.3,01 August 2026 - 12:01 AM,5.31,126.3,18.0,3.3,094  km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-05 October 2026 - 03:01 PM-12.8300-123.1800-2.6,05 October 2026 - 03:01 PM,12.83,123.18,9.0,2.6,011  km S 44° W of Claveria (Masbate),October,2026
-05 October 2026 - 02:14 PM-4.4800-127.1000-4.1,05 October 2026 - 02:14 PM,4.48,127.1,175.0,4.1,212  km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 01:55 PM-6.6100-126.3400-2.4,05 October 2026 - 01:55 PM,6.61,126.34,30.0,2.4,030  km S 82° E of Governor Generoso (Davao Oriental),October,2026
-05 October 2026 - 12:21 PM-12.2100-123.8600-3.5,05 October 2026 - 12:21 PM,12.21,123.86,7.0,3.5,002  km N 08° E of Dimasalang (Masbate),October,2026
-05 October 2026 - 12:12 PM-5.8200-125.3800-1.7,05 October 2026 - 12:12 PM,5.82,125.38,26.0,1.7,019  km S 89° E of Glan (Sarangani),October,2026
-05 October 2026 - 12:03 PM-16.2900-119.7800-2.9,05 October 2026 - 12:03 PM,16.29,119.78,10.0,2.9,015  km N 39° W of Bani (Pangasinan),October,2026
+06 October 2026 - 01:12 PM-18.7300-120.7700-3.3,06 October 2026 - 01:12 PM,18.73,120.77,28.0,3.3,019  km N 05° W of Pagudpud (Ilocos Norte),October,2026
+06 October 2026 - 12:42 PM-9.5200-123.0700-2.1,06 October 2026 - 12:42 PM,9.52,123.07,4.0,2.1,008  km N 47° W of Pamplona (Negros Oriental),October,2026
+06 October 2026 - 11:55 AM-5.3400-125.1900-1.8,06 October 2026 - 11:55 AM,5.34,125.19,29.0,1.8,027  km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 11:23 AM-12.1300-125.0800-1.7,06 October 2026 - 11:23 AM,12.13,125.08,41.0,1.7,010  km N 36° E of San Jose De Buan (Samar),October,2026
+06 October 2026 - 10:42 AM-5.6100-125.2800-1.8,06 October 2026 - 10:42 AM,5.61,125.28,29.0,1.8,025  km S 20° E of Glan (Sarangani),October,2026
+06 October 2026 - 10:28 AM-5.6400-125.3300-2.0,06 October 2026 - 10:28 AM,5.64,125.33,28.0,2.0,027  km N 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 09:54 AM-12.1400-125.0600-2.4,06 October 2026 - 09:54 AM,12.14,125.06,24.0,2.4,010  km N 24° E of San Jose De Buan (Samar),October,2026
+06 October 2026 - 08:13 AM-2.8300-125.6200-3.1,06 October 2026 - 08:13 AM,2.83,125.62,8.0,3.1,287  km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 07:36 AM-9.0900-126.1400-1.6,06 October 2026 - 07:36 AM,9.09,126.14,27.0,1.6,004  km N 51° W of City Of Tandag (Surigao Del Sur),October,2026
+06 October 2026 - 07:36 AM-7.1300-126.2400-2.2,06 October 2026 - 07:36 AM,7.13,126.24,65.0,2.2,020  km N 08° E of City Of Mati (Davao Oriental),October,2026
+06 October 2026 - 05:04 AM-5.3700-125.5000-1.6,06 October 2026 - 05:04 AM,5.37,125.5,28.0,1.6,009  km S 60° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 04:55 AM-5.3300-125.2600-1.5,06 October 2026 - 04:55 AM,5.33,125.26,33.0,1.5,020  km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 04:54 AM-4.5200-125.9500-2.6,06 October 2026 - 04:54 AM,4.52,125.95,148.0,2.6,114  km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 04:44 AM-6.6200-126.4100-2.5,06 October 2026 - 04:44 AM,6.62,126.41,25.0,2.5,037  km S 85° E of Governor Generoso (Davao Oriental),October,2026
+06 October 2026 - 04:28 AM-10.9200-123.9100-2.5,06 October 2026 - 04:28 AM,10.92,123.91,8.0,2.5,016  km S 28° W of City Of Bogo (Cebu),October,2026
+06 October 2026 - 04:25 AM-9.0700-126.2800-1.6,06 October 2026 - 04:25 AM,9.07,126.28,33.0,1.6,007  km N 45° E of Tago (Surigao Del Sur),October,2026
+06 October 2026 - 03:56 AM-5.6800-125.1800-1.6,06 October 2026 - 03:56 AM,5.68,125.18,28.0,1.6,016  km S 10° W of Glan (Sarangani),October,2026
+06 October 2026 - 03:24 AM-8.1100-126.6200-1.5,06 October 2026 - 03:24 AM,8.11,126.62,32.0,1.5,024  km N 72° E of Lingig (Surigao Del Sur),October,2026
+06 October 2026 - 03:23 AM-5.3100-125.4600-1.6,06 October 2026 - 03:23 AM,5.31,125.46,12.0,1.6,012  km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 02:41 AM-17.9800-121.2600-1.6,06 October 2026 - 02:41 AM,17.98,121.26,19.0,1.6,009  km S 61° E of Kabugao (Apayao),October,2026
+06 October 2026 - 02:39 AM-17.3200-122.4800-2.3,06 October 2026 - 02:39 AM,17.32,122.48,30.0,2.3,020  km S 86° E of Divilacan (Isabela),October,2026
+06 October 2026 - 02:22 AM-6.7300-126.7300-2.6,06 October 2026 - 02:22 AM,6.73,126.73,28.0,2.6,047  km S 41° E of Tarragona (Davao Oriental),October,2026
+06 October 2026 - 01:09 AM-5.3200-125.2400-1.4,06 October 2026 - 01:09 AM,5.32,125.24,2.0,1.4,022  km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 12:56 AM-5.6600-125.4400-1.8,06 October 2026 - 12:56 AM,5.66,125.44,29.0,1.8,021  km N 11° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 12:54 AM-5.9300-125.3800-1.6,06 October 2026 - 12:54 AM,5.93,125.38,17.0,1.6,010  km S 68° E of Malapatan (Sarangani),October,2026
+06 October 2026 - 12:43 AM-20.8500-121.8700-2.9,06 October 2026 - 12:43 AM,20.85,121.87,18.0,2.9,008  km N 20° E of Itbayat (Batanes),October,2026
+06 October 2026 - 12:20 AM-5.6600-124.9000-2.7,06 October 2026 - 12:20 AM,5.66,124.9,4.0,2.7,025  km S 25° W of Maasim (Sarangani),October,2026
+06 October 2026 - 12:10 AM-9.0000-126.3400-1.3,06 October 2026 - 12:10 AM,9.0,126.34,32.0,1.3,007  km N 58° E of Bayabas (Surigao Del Sur),October,2026
+06 October 2026 - 12:01 AM-7.1100-125.7600-3.3,06 October 2026 - 12:01 AM,7.11,125.76,24.0,3.3,007  km N 59° E of Island Garden City Of Samal (Davao Del Norte),October,2026
+05 October 2026 - 11:44 PM-5.2900-125.1200-1.8,05 October 2026 - 11:44 PM,5.29,125.12,28.0,1.8,036  km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 10:36 PM-5.3200-125.4800-2.7,05 October 2026 - 10:36 PM,5.32,125.48,32.0,2.7,012  km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 10:15 PM-5.2700-125.2700-2.1,05 October 2026 - 10:15 PM,5.27,125.27,2.0,2.1,023  km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 09:41 PM-10.8200-124.4600-1.6,05 October 2026 - 09:41 PM,10.82,124.46,11.0,1.6,011  km N 81° W of Pilar (Cebu),October,2026
+05 October 2026 - 09:06 PM-9.0600-126.5600-2.5,05 October 2026 - 09:06 PM,9.06,126.56,7.0,2.5,032  km N 71° E of Bayabas (Surigao Del Sur),October,2026
+05 October 2026 - 08:58 PM-11.4200-125.3800-2.0,05 October 2026 - 08:58 PM,11.42,125.38,23.0,2.0,016  km S 70° W of Balangkayan (Eastern Samar),October,2026
+05 October 2026 - 08:38 PM-12.2500-123.8000-2.5,05 October 2026 - 08:38 PM,12.25,123.8,18.0,2.5,003  km N 24° E of Uson (Masbate),October,2026
+05 October 2026 - 08:15 PM-12.2000-123.8900-3.2,05 October 2026 - 08:15 PM,12.2,123.89,6.0,3.2,003  km N 73° E of Dimasalang (Masbate),October,2026
+05 October 2026 - 08:15 PM-5.5900-125.3800-1.5,05 October 2026 - 08:15 PM,5.59,125.38,32.0,1.5,016  km N 36° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 08:08 PM-5.6400-125.3700-1.8,05 October 2026 - 08:08 PM,5.64,125.37,23.0,1.8,022  km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 07:50 PM-8.2000-126.8700-3.2,05 October 2026 - 07:50 PM,8.2,126.87,3.0,3.2,053  km N 70° E of Lingig (Surigao Del Sur),October,2026
+05 October 2026 - 07:45 PM-9.6800-126.0600-2.6,05 October 2026 - 07:45 PM,9.68,126.06,16.0,2.6,009  km S 06° E of Dapa (Surigao Del Norte),October,2026
+05 October 2026 - 07:36 PM-8.2800-123.3500-2.4,05 October 2026 - 07:36 PM,8.28,123.35,13.0,2.4,014  km N 02° E of Dumingag (Zamboanga Del Sur),October,2026
+05 October 2026 - 07:27 PM-5.9700-126.3200-2.3,05 October 2026 - 07:27 PM,5.97,126.32,101.0,2.3,074  km S 70° E of Don Marcelino (Davao Occidental),October,2026
+05 October 2026 - 06:21 PM-9.6500-126.1500-1.5,05 October 2026 - 06:21 PM,9.65,126.15,32.0,1.5,014  km S 04° W of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 06:03 PM-5.7600-125.3200-2.4,05 October 2026 - 06:03 PM,5.76,125.32,11.0,2.4,015  km S 65° E of Glan (Sarangani),October,2026
+05 October 2026 - 06:00 PM-5.4600-125.3500-2.3,05 October 2026 - 06:00 PM,5.46,125.35,44.0,2.3,009  km N 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 05:57 PM-9.6600-126.1400-1.8,05 October 2026 - 05:57 PM,9.66,126.14,33.0,1.8,014  km S 05° W of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 05:15 PM-5.7200-125.9100-2.6,05 October 2026 - 05:15 PM,5.72,125.91,8.0,2.6,036  km S 54° E of Jose Abad Santos (Davao Occidental),October,2026
+05 October 2026 - 04:28 PM-9.6900-126.0800-3.3,05 October 2026 - 04:28 PM,9.69,126.08,23.0,3.3,013  km S 41° W of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 03:12 PM-15.2500-119.8200-1.5,05 October 2026 - 03:12 PM,15.25,119.82,33.0,1.5,019  km S 63° W of Iba (Zambales),October,2026
+05 October 2026 - 03:01 PM-12.7000-123.0600-2.7,05 October 2026 - 03:01 PM,12.7,123.06,1.0,2.7,030  km S 42° W of Claveria (Masbate),October,2026
+05 October 2026 - 02:14 PM-4.2900-126.8800-4.5,05 October 2026 - 02:14 PM,4.29,126.88,128.0,4.5,203  km S 50° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 01:55 PM-6.6300-126.3400-2.5,05 October 2026 - 01:55 PM,6.63,126.34,36.0,2.5,030  km S 85° E of Governor Generoso (Davao Oriental),October,2026
+05 October 2026 - 12:21 PM-12.2000-123.8400-3.5,05 October 2026 - 12:21 PM,12.2,123.84,9.0,3.5,002  km N 61° W of Dimasalang (Masbate),October,2026
+05 October 2026 - 12:12 PM-5.6700-125.2700-2.1,05 October 2026 - 12:12 PM,5.67,125.27,21.0,2.1,018  km S 25° E of Glan (Sarangani),October,2026
+05 October 2026 - 12:03 PM-16.3800-119.5000-3.0,05 October 2026 - 12:03 PM,16.38,119.5,6.0,3.0,042  km S 89° W of Bolinao (Pangasinan),October,2026
 05 October 2026 - 11:28 AM-12.7900-121.6800-1.3,05 October 2026 - 11:28 AM,12.79,121.68,34.0,1.3,014  km S 20° W of Concepcion (Romblon),October,2026
 05 October 2026 - 11:26 AM-13.7200-121.6800-1.7,05 October 2026 - 11:26 AM,13.72,121.68,33.0,1.7,026  km S 33° W of Padre Burgos (Quezon),October,2026
 05 October 2026 - 11:00 AM-11.1100-124.0700-1.4,05 October 2026 - 11:00 AM,11.11,124.07,4.0,1.4,012  km N 53° E of City Of Bogo (Cebu),October,2026
 05 October 2026 - 10:59 AM-5.3700-125.2700-2.0,05 October 2026 - 10:59 AM,5.37,125.27,29.0,2.0,017  km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
 05 October 2026 - 10:43 AM-5.6000-125.1400-1.4,05 October 2026 - 10:43 AM,5.6,125.14,33.0,1.4,026  km S 15° W of Glan (Sarangani),October,2026
 05 October 2026 - 10:15 AM-3.7100-125.7600-3.0,05 October 2026 - 10:15 AM,3.71,125.76,142.0,3.0,192  km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 10:04 AM-10.8900-123.9800-2.3,05 October 2026 - 10:04 AM,10.89,123.98,10.0,2.3,017  km S 01° E of City Of Bogo (Cebu),October,2026
+05 October 2026 - 10:04 AM-10.9000-123.9900-2.5,05 October 2026 - 10:04 AM,10.9,123.99,11.0,2.5,016  km S 03° E of City Of Bogo (Cebu),October,2026
 05 October 2026 - 08:04 AM-14.3700-121.3300-1.6,05 October 2026 - 08:04 AM,14.37,121.33,31.0,1.6,001  km N 13° E of Jala-jala (Rizal),October,2026
 05 October 2026 - 07:27 AM-5.3700-125.4000-1.8,05 October 2026 - 07:27 AM,5.37,125.4,33.0,1.8,005  km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 05:54 AM-9.9400-126.0600-1.8,05 October 2026 - 05:54 AM,9.94,126.06,36.0,1.8,003  km N 88° W of San Isidro (Surigao Del Norte),October,2026
-05 October 2026 - 05:35 AM-5.0100-125.4200-2.8,05 October 2026 - 05:35 AM,5.01,125.42,6.0,2.8,044  km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 05:05 AM-6.5800-126.4600-2.7,05 October 2026 - 05:05 AM,6.58,126.46,25.0,2.7,043  km S 79° E of Governor Generoso (Davao Oriental),October,2026
+05 October 2026 - 05:54 AM-9.9400-126.0500-1.8,05 October 2026 - 05:54 AM,9.94,126.05,35.0,1.8,004  km N 88° W of San Isidro (Surigao Del Norte),October,2026
+05 October 2026 - 05:35 AM-5.3300-125.4400-2.8,05 October 2026 - 05:35 AM,5.33,125.44,5.0,2.8,009  km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 05:05 AM-6.5500-126.5600-2.7,05 October 2026 - 05:05 AM,6.55,126.56,31.0,2.7,055  km S 78° E of Governor Generoso (Davao Oriental),October,2026
 05 October 2026 - 04:57 AM-5.4900-125.4100-1.8,05 October 2026 - 04:57 AM,5.49,125.41,33.0,1.8,007  km N 75° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 04:54 AM-8.0100-127.0800-2.6,05 October 2026 - 04:54 AM,8.01,127.08,33.0,2.6,075  km N 50° E of Baganga (Davao Oriental),October,2026
-05 October 2026 - 04:54 AM-11.1500-124.1600-3.2,05 October 2026 - 04:54 AM,11.15,124.16,6.0,3.2,023  km N 60° E of City Of Bogo (Cebu),October,2026
-05 October 2026 - 04:50 AM-5.9000-126.0400-2.3,05 October 2026 - 04:50 AM,5.9,126.04,40.0,2.3,044  km S 88° E of Jose Abad Santos (Davao Occidental),October,2026
-05 October 2026 - 04:18 AM-9.7800-126.7400-2.7,05 October 2026 - 04:18 AM,9.78,126.74,30.0,2.7,064  km N 90° E of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 04:54 AM-8.1200-126.9900-2.6,05 October 2026 - 04:54 AM,8.12,126.99,33.0,2.6,069  km N 58° E of Cateel (Davao Oriental),October,2026
+05 October 2026 - 04:54 AM-11.1600-124.1500-3.2,05 October 2026 - 04:54 AM,11.16,124.15,3.0,3.2,023  km N 58° E of City Of Bogo (Cebu),October,2026
+05 October 2026 - 04:50 AM-5.9500-126.0000-2.3,05 October 2026 - 04:50 AM,5.95,126.0,60.0,2.3,040  km N 84° E of Jose Abad Santos (Davao Occidental),October,2026
+05 October 2026 - 04:18 AM-9.7500-126.7900-2.9,05 October 2026 - 04:18 AM,9.75,126.79,10.0,2.9,070  km S 87° E of General Luna (Surigao Del Norte),October,2026
 05 October 2026 - 04:08 AM-17.2100-121.6100-2.3,05 October 2026 - 04:08 AM,17.21,121.61,25.0,2.3,001  km N 63° W of Mallig (Isabela),October,2026
-05 October 2026 - 03:19 AM-17.5100-119.8300-2.8,05 October 2026 - 03:19 AM,17.51,119.83,6.0,2.8,057  km S 81° W of Santa Catalina (Ilocos Sur),October,2026
-05 October 2026 - 03:06 AM-11.1200-124.1000-2.2,05 October 2026 - 03:06 AM,11.12,124.1,5.0,2.2,015  km S 87° E of Medellin (Cebu),October,2026
+05 October 2026 - 03:19 AM-17.5200-119.8200-3.0,05 October 2026 - 03:19 AM,17.52,119.82,9.0,3.0,059  km S 82° W of Santa Catalina (Ilocos Sur),October,2026
+05 October 2026 - 03:06 AM-11.1200-124.0800-2.5,05 October 2026 - 03:06 AM,11.12,124.08,5.0,2.5,013  km S 88° E of Medellin (Cebu),October,2026
 05 October 2026 - 03:01 AM-15.3800-119.8500-1.5,05 October 2026 - 03:01 AM,15.38,119.85,34.0,1.5,009  km S 44° W of Palauig (Zambales),October,2026
-05 October 2026 - 03:01 AM-9.0800-126.2600-1.5,05 October 2026 - 03:01 AM,9.08,126.26,40.0,1.5,007  km N 19° E of Tago (Surigao Del Sur),October,2026
-05 October 2026 - 02:31 AM-7.7600-121.4300-2.6,05 October 2026 - 02:31 AM,7.76,121.43,28.0,2.6,079  km N 86° W of Siocon (Zamboanga Del Norte),October,2026
-05 October 2026 - 02:00 AM-9.7500-126.6000-2.0,05 October 2026 - 02:00 AM,9.75,126.6,7.0,2.0,049  km S 85° E of General Luna (Surigao Del Norte),October,2026
-05 October 2026 - 01:07 AM-19.5800-121.7700-2.6,05 October 2026 - 01:07 AM,19.58,121.77,4.0,2.6,017  km N 62° W of Babuyan Island (Calayan) (Cagayan),October,2026
+05 October 2026 - 03:01 AM-9.0300-126.3800-1.5,05 October 2026 - 03:01 AM,9.03,126.38,32.0,1.5,012  km N 58° E of Bayabas (Surigao Del Sur),October,2026
+05 October 2026 - 02:31 AM-7.8100-121.5000-2.7,05 October 2026 - 02:31 AM,7.81,121.5,19.0,2.7,071  km N 90° W of Baliguian (Zamboanga Del Norte),October,2026
+05 October 2026 - 02:00 AM-9.6900-126.5200-2.4,05 October 2026 - 02:00 AM,9.69,126.52,28.0,2.4,042  km S 76° E of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 01:07 AM-19.9300-121.7200-2.6,05 October 2026 - 01:07 AM,19.93,121.72,28.0,2.6,047  km S 20° W of Sabtang (Batanes),October,2026
 05 October 2026 - 01:02 AM-5.1800-125.3600-2.6,05 October 2026 - 01:02 AM,5.18,125.36,7.0,2.6,027  km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
 05 October 2026 - 12:56 AM-9.6100-126.1800-2.5,05 October 2026 - 12:56 AM,9.61,126.18,25.0,2.5,019  km S 08° E of General Luna (Surigao Del Norte),October,2026
-05 October 2026 - 12:43 AM-8.0000-126.7000-2.1,05 October 2026 - 12:43 AM,8.0,126.7,42.0,2.1,032  km S 82° E of Lingig (Surigao Del Sur),October,2026
-04 October 2026 - 11:52 PM-6.5200-126.4300-3.9,04 October 2026 - 11:52 PM,6.52,126.43,23.0,3.9,042  km S 69° E of Governor Generoso (Davao Oriental),October,2026
+05 October 2026 - 12:43 AM-8.0800-126.4800-1.8,05 October 2026 - 12:43 AM,8.08,126.48,33.0,1.8,009  km N 60° E of Lingig (Surigao Del Sur),October,2026
+04 October 2026 - 11:52 PM-6.5200-126.5500-3.9,04 October 2026 - 11:52 PM,6.52,126.55,29.0,3.9,054  km S 74° E of Governor Generoso (Davao Oriental),October,2026
 04 October 2026 - 11:44 PM-6.8100-125.7200-2.0,04 October 2026 - 11:44 PM,6.81,125.72,31.0,2.0,030  km S 03° E of Island Garden City Of Samal (Davao Del Norte),October,2026
-04 October 2026 - 11:38 PM-6.5100-126.4900-3.1,04 October 2026 - 11:38 PM,6.51,126.49,26.0,3.1,049  km S 71° E of Governor Generoso (Davao Oriental),October,2026
-04 October 2026 - 11:22 PM-12.8600-122.9900-2.2,04 October 2026 - 11:22 PM,12.86,122.99,13.0,2.2,028  km S 81° W of Claveria (Masbate),October,2026
+04 October 2026 - 11:38 PM-6.5700-126.4600-3.1,04 October 2026 - 11:38 PM,6.57,126.46,24.0,3.1,043  km S 78° E of Governor Generoso (Davao Oriental),October,2026
+04 October 2026 - 11:22 PM-12.8200-122.9900-2.3,04 October 2026 - 11:22 PM,12.82,122.99,6.0,2.3,029  km S 72° W of Claveria (Masbate),October,2026
 04 October 2026 - 11:19 PM-5.4700-125.1800-1.6,04 October 2026 - 11:19 PM,5.47,125.18,33.0,1.6,028  km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-04 October 2026 - 11:10 PM-5.7600-125.3700-1.9,04 October 2026 - 11:10 PM,5.76,125.37,21.0,1.9,019  km S 69° E of Glan (Sarangani),October,2026
-04 October 2026 - 10:58 PM-4.0700-125.7700-3.1,04 October 2026 - 10:58 PM,4.07,125.77,129.0,3.1,140  km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+04 October 2026 - 11:10 PM-5.9200-125.2300-1.9,04 October 2026 - 11:10 PM,5.92,125.23,20.0,1.9,007  km S 78° W of Malapatan (Sarangani),October,2026
+04 October 2026 - 10:58 PM-4.2700-125.8500-3.1,04 October 2026 - 10:58 PM,4.27,125.85,158.0,3.1,135  km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
 04 October 2026 - 10:51 PM-12.9500-123.1100-1.8,04 October 2026 - 10:51 PM,12.95,123.11,9.0,1.8,016  km N 72° W of Claveria (Masbate),October,2026
 04 October 2026 - 10:44 PM-4.3400-125.0200-3.2,04 October 2026 - 10:44 PM,4.34,125.02,7.0,3.2,040  km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-04 October 2026 - 10:22 PM-12.2800-120.7100-1.8,04 October 2026 - 10:22 PM,12.28,120.71,33.0,1.8,034  km S 54° W of Rizal (Occidental Mindoro),October,2026
+04 October 2026 - 10:22 PM-12.2900-120.6800-1.8,04 October 2026 - 10:22 PM,12.29,120.68,11.0,1.8,037  km S 59° W of Rizal (Occidental Mindoro),October,2026
 04 October 2026 - 09:34 PM-16.3000-119.5100-3.2,04 October 2026 - 09:34 PM,16.3,119.51,16.0,3.2,038  km N 56° W of Agno (Pangasinan),October,2026
 04 October 2026 - 09:33 PM-12.2500-120.7000-1.6,04 October 2026 - 09:33 PM,12.25,120.7,9.0,1.6,037  km S 51° W of Rizal (Occidental Mindoro),October,2026
 04 October 2026 - 09:13 PM-19.4200-121.7100-1.7,04 October 2026 - 09:13 PM,19.42,121.71,11.0,1.7,023  km S 65° W of Babuyan Island (Calayan) (Cagayan),October,2026
-04 October 2026 - 07:33 PM-16.3600-122.1000-1.8,04 October 2026 - 07:33 PM,16.36,122.1,8.0,1.8,010  km N 16° W of Casiguran (Aurora),October,2026
-04 October 2026 - 07:27 PM-13.9800-120.3100-2.0,04 October 2026 - 07:27 PM,13.98,120.31,62.0,2.0,024  km N 58° E of Lubang (Occidental Mindoro),October,2026
-04 October 2026 - 07:21 PM-5.3300-125.4400-2.7,04 October 2026 - 07:21 PM,5.33,125.44,38.0,2.7,009  km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-04 October 2026 - 07:11 PM-7.1200-127.1000-3.5,04 October 2026 - 07:11 PM,7.12,127.1,39.0,3.5,062  km S 81° E of Manay (Davao Oriental),October,2026
-04 October 2026 - 06:38 PM-7.2000-124.6400-2.0,04 October 2026 - 06:38 PM,7.2,124.64,35.0,2.0,007  km N 54° E of Aleosan (Cotabato),October,2026
-04 October 2026 - 06:07 PM-13.2200-120.4400-2.5,04 October 2026 - 06:07 PM,13.22,120.44,23.0,2.5,017  km S 89° W of Mamburao (Occidental Mindoro),October,2026
-04 October 2026 - 06:06 PM-7.4200-126.5600-2.9,04 October 2026 - 06:06 PM,7.42,126.56,14.0,2.9,010  km N 06° W of Caraga (Davao Oriental),October,2026
+04 October 2026 - 07:33 PM-16.3100-122.0300-1.8,04 October 2026 - 07:33 PM,16.31,122.03,14.0,1.8,010  km N 72° W of Casiguran (Aurora),October,2026
+04 October 2026 - 07:27 PM-13.9700-120.2700-2.0,04 October 2026 - 07:27 PM,13.97,120.27,62.0,2.0,020  km N 54° E of Lubang (Occidental Mindoro),October,2026
+04 October 2026 - 07:21 PM-5.5000-125.3500-2.7,04 October 2026 - 07:21 PM,5.5,125.35,18.0,2.7,012  km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+04 October 2026 - 07:11 PM-7.2600-126.8300-3.5,04 October 2026 - 07:11 PM,7.26,126.83,31.0,3.5,033  km N 81° E of Manay (Davao Oriental),October,2026
+04 October 2026 - 06:38 PM-7.1200-124.7900-2.0,04 October 2026 - 06:38 PM,7.12,124.79,32.0,2.0,004  km N 71° W of Kabacan (Cotabato),October,2026
+04 October 2026 - 06:07 PM-13.1900-120.4500-2.5,04 October 2026 - 06:07 PM,13.19,120.45,17.0,2.5,017  km S 77° W of Mamburao (Occidental Mindoro),October,2026
+04 October 2026 - 06:06 PM-7.4300-126.8800-2.9,04 October 2026 - 06:06 PM,7.43,126.88,23.0,2.9,036  km N 71° E of Caraga (Davao Oriental),October,2026
 04 October 2026 - 04:47 PM-14.1200-124.6900-3.1,04 October 2026 - 04:47 PM,14.12,124.69,24.0,3.1,048  km N 65° E of Bagamanoc (Catanduanes),October,2026
 04 October 2026 - 04:35 PM-9.6200-126.0900-1.7,04 October 2026 - 04:35 PM,9.62,126.09,28.0,1.7,014  km N 88° E of Socorro (Surigao Del Norte),October,2026
 04 October 2026 - 04:28 PM-14.3000-124.3500-2.1,04 October 2026 - 04:28 PM,14.3,124.35,30.0,2.1,034  km N 34° E of Pandan (Catanduanes),October,2026
@@ -130156,60 +130206,111 @@
 01 September 2026 - 12:59 AM-13.0100-120.7400-2.0,01 September 2026 - 12:59 AM,13.01,120.74,31.0,2.0,008  km S 14° E of Santa Cruz (Occidental Mindoro),October,2026
 01 September 2026 - 12:23 AM-9.0400-125.7200-1.4,01 September 2026 - 12:23 AM,9.04,125.72,24.0,1.4,015  km S 86° E of Remedios T. Romualdez (Agusan Del Norte),October,2026
 01 September 2026 - 12:09 AM-16.3100-120.9100-1.5,01 September 2026 - 12:09 AM,16.31,120.91,8.0,1.5,006  km S 30° E of Kayapa (Nueva Vizcaya),October,2026
-05 October 2026 - 03:01 PM-12.8300-123.1800-2.6,05 October 2026 - 03:01 PM,12.83,123.18,9.0,2.6,011  km S 44° W of Claveria (Masbate),October,2026
-05 October 2026 - 02:14 PM-4.4800-127.1000-4.1,05 October 2026 - 02:14 PM,4.48,127.1,175.0,4.1,212  km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 01:55 PM-6.6100-126.3400-2.4,05 October 2026 - 01:55 PM,6.61,126.34,30.0,2.4,030  km S 82° E of Governor Generoso (Davao Oriental),October,2026
-05 October 2026 - 12:21 PM-12.2100-123.8600-3.5,05 October 2026 - 12:21 PM,12.21,123.86,7.0,3.5,002  km N 08° E of Dimasalang (Masbate),October,2026
-05 October 2026 - 12:12 PM-5.8200-125.3800-1.7,05 October 2026 - 12:12 PM,5.82,125.38,26.0,1.7,019  km S 89° E of Glan (Sarangani),October,2026
-05 October 2026 - 12:03 PM-16.2900-119.7800-2.9,05 October 2026 - 12:03 PM,16.29,119.78,10.0,2.9,015  km N 39° W of Bani (Pangasinan),October,2026
+06 October 2026 - 04:14 PM-6.9100-123.9300-2.5,06 October 2026 - 04:14 PM,6.91,123.93,20.0,2.5,020  km S 28° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),October,2026
+06 October 2026 - 01:12 PM-18.7300-120.7700-3.3,06 October 2026 - 01:12 PM,18.73,120.77,28.0,3.3,019  km N 05° W of Pagudpud (Ilocos Norte),October,2026
+06 October 2026 - 12:42 PM-9.5200-123.0700-2.1,06 October 2026 - 12:42 PM,9.52,123.07,4.0,2.1,008  km N 47° W of Pamplona (Negros Oriental),October,2026
+06 October 2026 - 11:55 AM-5.3400-125.1900-1.8,06 October 2026 - 11:55 AM,5.34,125.19,29.0,1.8,027  km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 11:23 AM-12.1300-125.0800-1.7,06 October 2026 - 11:23 AM,12.13,125.08,41.0,1.7,010  km N 36° E of San Jose De Buan (Samar),October,2026
+06 October 2026 - 10:42 AM-5.6100-125.2800-1.8,06 October 2026 - 10:42 AM,5.61,125.28,29.0,1.8,025  km S 20° E of Glan (Sarangani),October,2026
+06 October 2026 - 10:28 AM-5.6400-125.3300-2.0,06 October 2026 - 10:28 AM,5.64,125.33,28.0,2.0,027  km N 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 09:54 AM-12.1400-125.0600-2.4,06 October 2026 - 09:54 AM,12.14,125.06,24.0,2.4,010  km N 24° E of San Jose De Buan (Samar),October,2026
+06 October 2026 - 08:13 AM-2.8300-125.6200-3.1,06 October 2026 - 08:13 AM,2.83,125.62,8.0,3.1,287  km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 07:36 AM-9.0900-126.1400-1.6,06 October 2026 - 07:36 AM,9.09,126.14,27.0,1.6,004  km N 51° W of City Of Tandag (Surigao Del Sur),October,2026
+06 October 2026 - 07:36 AM-7.1300-126.2400-2.2,06 October 2026 - 07:36 AM,7.13,126.24,65.0,2.2,020  km N 08° E of City Of Mati (Davao Oriental),October,2026
+06 October 2026 - 05:04 AM-5.3700-125.5000-1.6,06 October 2026 - 05:04 AM,5.37,125.5,28.0,1.6,009  km S 60° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 04:55 AM-5.3300-125.2600-1.5,06 October 2026 - 04:55 AM,5.33,125.26,33.0,1.5,020  km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 04:54 AM-4.5200-125.9500-2.6,06 October 2026 - 04:54 AM,4.52,125.95,148.0,2.6,114  km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 04:44 AM-6.6200-126.4100-2.5,06 October 2026 - 04:44 AM,6.62,126.41,25.0,2.5,037  km S 85° E of Governor Generoso (Davao Oriental),October,2026
+06 October 2026 - 04:28 AM-10.9200-123.9100-2.5,06 October 2026 - 04:28 AM,10.92,123.91,8.0,2.5,016  km S 28° W of City Of Bogo (Cebu),October,2026
+06 October 2026 - 04:25 AM-9.0700-126.2800-1.6,06 October 2026 - 04:25 AM,9.07,126.28,33.0,1.6,007  km N 45° E of Tago (Surigao Del Sur),October,2026
+06 October 2026 - 03:56 AM-5.6800-125.1800-1.6,06 October 2026 - 03:56 AM,5.68,125.18,28.0,1.6,016  km S 10° W of Glan (Sarangani),October,2026
+06 October 2026 - 03:24 AM-8.1100-126.6200-1.5,06 October 2026 - 03:24 AM,8.11,126.62,32.0,1.5,024  km N 72° E of Lingig (Surigao Del Sur),October,2026
+06 October 2026 - 03:23 AM-5.3100-125.4600-1.6,06 October 2026 - 03:23 AM,5.31,125.46,12.0,1.6,012  km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 02:41 AM-17.9800-121.2600-1.6,06 October 2026 - 02:41 AM,17.98,121.26,19.0,1.6,009  km S 61° E of Kabugao (Apayao),October,2026
+06 October 2026 - 02:39 AM-17.3200-122.4800-2.3,06 October 2026 - 02:39 AM,17.32,122.48,30.0,2.3,020  km S 86° E of Divilacan (Isabela),October,2026
+06 October 2026 - 02:22 AM-6.7300-126.7300-2.6,06 October 2026 - 02:22 AM,6.73,126.73,28.0,2.6,047  km S 41° E of Tarragona (Davao Oriental),October,2026
+06 October 2026 - 01:09 AM-5.3200-125.2400-1.4,06 October 2026 - 01:09 AM,5.32,125.24,2.0,1.4,022  km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 12:56 AM-5.6600-125.4400-1.8,06 October 2026 - 12:56 AM,5.66,125.44,29.0,1.8,021  km N 11° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+06 October 2026 - 12:54 AM-5.9300-125.3800-1.6,06 October 2026 - 12:54 AM,5.93,125.38,17.0,1.6,010  km S 68° E of Malapatan (Sarangani),October,2026
+06 October 2026 - 12:43 AM-20.8500-121.8700-2.9,06 October 2026 - 12:43 AM,20.85,121.87,18.0,2.9,008  km N 20° E of Itbayat (Batanes),October,2026
+06 October 2026 - 12:20 AM-5.6600-124.9000-2.7,06 October 2026 - 12:20 AM,5.66,124.9,4.0,2.7,025  km S 25° W of Maasim (Sarangani),October,2026
+06 October 2026 - 12:10 AM-9.0000-126.3400-1.3,06 October 2026 - 12:10 AM,9.0,126.34,32.0,1.3,007  km N 58° E of Bayabas (Surigao Del Sur),October,2026
+06 October 2026 - 12:01 AM-7.1100-125.7600-3.3,06 October 2026 - 12:01 AM,7.11,125.76,24.0,3.3,007  km N 59° E of Island Garden City Of Samal (Davao Del Norte),October,2026
+05 October 2026 - 11:44 PM-5.2900-125.1200-1.8,05 October 2026 - 11:44 PM,5.29,125.12,28.0,1.8,036  km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 10:36 PM-5.3200-125.4800-2.7,05 October 2026 - 10:36 PM,5.32,125.48,32.0,2.7,012  km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 10:15 PM-5.2700-125.2700-2.1,05 October 2026 - 10:15 PM,5.27,125.27,2.0,2.1,023  km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 09:41 PM-10.8200-124.4600-1.6,05 October 2026 - 09:41 PM,10.82,124.46,11.0,1.6,011  km N 81° W of Pilar (Cebu),October,2026
+05 October 2026 - 09:06 PM-9.0600-126.5600-2.5,05 October 2026 - 09:06 PM,9.06,126.56,7.0,2.5,032  km N 71° E of Bayabas (Surigao Del Sur),October,2026
+05 October 2026 - 08:58 PM-11.4200-125.3800-2.0,05 October 2026 - 08:58 PM,11.42,125.38,23.0,2.0,016  km S 70° W of Balangkayan (Eastern Samar),October,2026
+05 October 2026 - 08:38 PM-12.2500-123.8000-2.5,05 October 2026 - 08:38 PM,12.25,123.8,18.0,2.5,003  km N 24° E of Uson (Masbate),October,2026
+05 October 2026 - 08:15 PM-12.2000-123.8900-3.2,05 October 2026 - 08:15 PM,12.2,123.89,6.0,3.2,003  km N 73° E of Dimasalang (Masbate),October,2026
+05 October 2026 - 08:15 PM-5.5900-125.3800-1.5,05 October 2026 - 08:15 PM,5.59,125.38,32.0,1.5,016  km N 36° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 08:08 PM-5.6400-125.3700-1.8,05 October 2026 - 08:08 PM,5.64,125.37,23.0,1.8,022  km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 07:50 PM-8.2000-126.8700-3.2,05 October 2026 - 07:50 PM,8.2,126.87,3.0,3.2,053  km N 70° E of Lingig (Surigao Del Sur),October,2026
+05 October 2026 - 07:45 PM-9.6800-126.0600-2.6,05 October 2026 - 07:45 PM,9.68,126.06,16.0,2.6,009  km S 06° E of Dapa (Surigao Del Norte),October,2026
+05 October 2026 - 07:36 PM-8.2800-123.3500-2.4,05 October 2026 - 07:36 PM,8.28,123.35,13.0,2.4,014  km N 02° E of Dumingag (Zamboanga Del Sur),October,2026
+05 October 2026 - 07:27 PM-5.9700-126.3200-2.3,05 October 2026 - 07:27 PM,5.97,126.32,101.0,2.3,074  km S 70° E of Don Marcelino (Davao Occidental),October,2026
+05 October 2026 - 06:21 PM-9.6500-126.1500-1.5,05 October 2026 - 06:21 PM,9.65,126.15,32.0,1.5,014  km S 04° W of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 06:03 PM-5.7600-125.3200-2.4,05 October 2026 - 06:03 PM,5.76,125.32,11.0,2.4,015  km S 65° E of Glan (Sarangani),October,2026
+05 October 2026 - 06:00 PM-5.4600-125.3500-2.3,05 October 2026 - 06:00 PM,5.46,125.35,44.0,2.3,009  km N 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 05:57 PM-9.6600-126.1400-1.8,05 October 2026 - 05:57 PM,9.66,126.14,33.0,1.8,014  km S 05° W of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 05:15 PM-5.7200-125.9100-2.6,05 October 2026 - 05:15 PM,5.72,125.91,8.0,2.6,036  km S 54° E of Jose Abad Santos (Davao Occidental),October,2026
+05 October 2026 - 04:28 PM-9.6900-126.0800-3.3,05 October 2026 - 04:28 PM,9.69,126.08,23.0,3.3,013  km S 41° W of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 03:12 PM-15.2500-119.8200-1.5,05 October 2026 - 03:12 PM,15.25,119.82,33.0,1.5,019  km S 63° W of Iba (Zambales),October,2026
+05 October 2026 - 03:01 PM-12.7000-123.0600-2.7,05 October 2026 - 03:01 PM,12.7,123.06,1.0,2.7,030  km S 42° W of Claveria (Masbate),October,2026
+05 October 2026 - 02:14 PM-4.2900-126.8800-4.5,05 October 2026 - 02:14 PM,4.29,126.88,128.0,4.5,203  km S 50° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 01:55 PM-6.6300-126.3400-2.5,05 October 2026 - 01:55 PM,6.63,126.34,36.0,2.5,030  km S 85° E of Governor Generoso (Davao Oriental),October,2026
+05 October 2026 - 12:21 PM-12.2000-123.8400-3.5,05 October 2026 - 12:21 PM,12.2,123.84,9.0,3.5,002  km N 61° W of Dimasalang (Masbate),October,2026
+05 October 2026 - 12:12 PM-5.6700-125.2700-2.1,05 October 2026 - 12:12 PM,5.67,125.27,21.0,2.1,018  km S 25° E of Glan (Sarangani),October,2026
+05 October 2026 - 12:03 PM-16.3800-119.5000-3.0,05 October 2026 - 12:03 PM,16.38,119.5,6.0,3.0,042  km S 89° W of Bolinao (Pangasinan),October,2026
 05 October 2026 - 11:28 AM-12.7900-121.6800-1.3,05 October 2026 - 11:28 AM,12.79,121.68,34.0,1.3,014  km S 20° W of Concepcion (Romblon),October,2026
 05 October 2026 - 11:26 AM-13.7200-121.6800-1.7,05 October 2026 - 11:26 AM,13.72,121.68,33.0,1.7,026  km S 33° W of Padre Burgos (Quezon),October,2026
 05 October 2026 - 11:00 AM-11.1100-124.0700-1.4,05 October 2026 - 11:00 AM,11.11,124.07,4.0,1.4,012  km N 53° E of City Of Bogo (Cebu),October,2026
 05 October 2026 - 10:59 AM-5.3700-125.2700-2.0,05 October 2026 - 10:59 AM,5.37,125.27,29.0,2.0,017  km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
 05 October 2026 - 10:43 AM-5.6000-125.1400-1.4,05 October 2026 - 10:43 AM,5.6,125.14,33.0,1.4,026  km S 15° W of Glan (Sarangani),October,2026
 05 October 2026 - 10:15 AM-3.7100-125.7600-3.0,05 October 2026 - 10:15 AM,3.71,125.76,142.0,3.0,192  km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 10:04 AM-10.8900-123.9800-2.3,05 October 2026 - 10:04 AM,10.89,123.98,10.0,2.3,017  km S 01° E of City Of Bogo (Cebu),October,2026
+05 October 2026 - 10:04 AM-10.9000-123.9900-2.5,05 October 2026 - 10:04 AM,10.9,123.99,11.0,2.5,016  km S 03° E of City Of Bogo (Cebu),October,2026
 05 October 2026 - 08:04 AM-14.3700-121.3300-1.6,05 October 2026 - 08:04 AM,14.37,121.33,31.0,1.6,001  km N 13° E of Jala-jala (Rizal),October,2026
 05 October 2026 - 07:27 AM-5.3700-125.4000-1.8,05 October 2026 - 07:27 AM,5.37,125.4,33.0,1.8,005  km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 05:54 AM-9.9400-126.0600-1.8,05 October 2026 - 05:54 AM,9.94,126.06,36.0,1.8,003  km N 88° W of San Isidro (Surigao Del Norte),October,2026
-05 October 2026 - 05:35 AM-5.0100-125.4200-2.8,05 October 2026 - 05:35 AM,5.01,125.42,6.0,2.8,044  km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 05:05 AM-6.5800-126.4600-2.7,05 October 2026 - 05:05 AM,6.58,126.46,25.0,2.7,043  km S 79° E of Governor Generoso (Davao Oriental),October,2026
+05 October 2026 - 05:54 AM-9.9400-126.0500-1.8,05 October 2026 - 05:54 AM,9.94,126.05,35.0,1.8,004  km N 88° W of San Isidro (Surigao Del Norte),October,2026
+05 October 2026 - 05:35 AM-5.3300-125.4400-2.8,05 October 2026 - 05:35 AM,5.33,125.44,5.0,2.8,009  km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+05 October 2026 - 05:05 AM-6.5500-126.5600-2.7,05 October 2026 - 05:05 AM,6.55,126.56,31.0,2.7,055  km S 78° E of Governor Generoso (Davao Oriental),October,2026
 05 October 2026 - 04:57 AM-5.4900-125.4100-1.8,05 October 2026 - 04:57 AM,5.49,125.41,33.0,1.8,007  km N 75° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-05 October 2026 - 04:54 AM-8.0100-127.0800-2.6,05 October 2026 - 04:54 AM,8.01,127.08,33.0,2.6,075  km N 50° E of Baganga (Davao Oriental),October,2026
-05 October 2026 - 04:54 AM-11.1500-124.1600-3.2,05 October 2026 - 04:54 AM,11.15,124.16,6.0,3.2,023  km N 60° E of City Of Bogo (Cebu),October,2026
-05 October 2026 - 04:50 AM-5.9000-126.0400-2.3,05 October 2026 - 04:50 AM,5.9,126.04,40.0,2.3,044  km S 88° E of Jose Abad Santos (Davao Occidental),October,2026
-05 October 2026 - 04:18 AM-9.7800-126.7400-2.7,05 October 2026 - 04:18 AM,9.78,126.74,30.0,2.7,064  km N 90° E of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 04:54 AM-8.1200-126.9900-2.6,05 October 2026 - 04:54 AM,8.12,126.99,33.0,2.6,069  km N 58° E of Cateel (Davao Oriental),October,2026
+05 October 2026 - 04:54 AM-11.1600-124.1500-3.2,05 October 2026 - 04:54 AM,11.16,124.15,3.0,3.2,023  km N 58° E of City Of Bogo (Cebu),October,2026
+05 October 2026 - 04:50 AM-5.9500-126.0000-2.3,05 October 2026 - 04:50 AM,5.95,126.0,60.0,2.3,040  km N 84° E of Jose Abad Santos (Davao Occidental),October,2026
+05 October 2026 - 04:18 AM-9.7500-126.7900-2.9,05 October 2026 - 04:18 AM,9.75,126.79,10.0,2.9,070  km S 87° E of General Luna (Surigao Del Norte),October,2026
 05 October 2026 - 04:08 AM-17.2100-121.6100-2.3,05 October 2026 - 04:08 AM,17.21,121.61,25.0,2.3,001  km N 63° W of Mallig (Isabela),October,2026
-05 October 2026 - 03:19 AM-17.5100-119.8300-2.8,05 October 2026 - 03:19 AM,17.51,119.83,6.0,2.8,057  km S 81° W of Santa Catalina (Ilocos Sur),October,2026
-05 October 2026 - 03:06 AM-11.1200-124.1000-2.2,05 October 2026 - 03:06 AM,11.12,124.1,5.0,2.2,015  km S 87° E of Medellin (Cebu),October,2026
+05 October 2026 - 03:19 AM-17.5200-119.8200-3.0,05 October 2026 - 03:19 AM,17.52,119.82,9.0,3.0,059  km S 82° W of Santa Catalina (Ilocos Sur),October,2026
+05 October 2026 - 03:06 AM-11.1200-124.0800-2.5,05 October 2026 - 03:06 AM,11.12,124.08,5.0,2.5,013  km S 88° E of Medellin (Cebu),October,2026
 05 October 2026 - 03:01 AM-15.3800-119.8500-1.5,05 October 2026 - 03:01 AM,15.38,119.85,34.0,1.5,009  km S 44° W of Palauig (Zambales),October,2026
-05 October 2026 - 03:01 AM-9.0800-126.2600-1.5,05 October 2026 - 03:01 AM,9.08,126.26,40.0,1.5,007  km N 19° E of Tago (Surigao Del Sur),October,2026
-05 October 2026 - 02:31 AM-7.7600-121.4300-2.6,05 October 2026 - 02:31 AM,7.76,121.43,28.0,2.6,079  km N 86° W of Siocon (Zamboanga Del Norte),October,2026
-05 October 2026 - 02:00 AM-9.7500-126.6000-2.0,05 October 2026 - 02:00 AM,9.75,126.6,7.0,2.0,049  km S 85° E of General Luna (Surigao Del Norte),October,2026
-05 October 2026 - 01:07 AM-19.5800-121.7700-2.6,05 October 2026 - 01:07 AM,19.58,121.77,4.0,2.6,017  km N 62° W of Babuyan Island (Calayan) (Cagayan),October,2026
+05 October 2026 - 03:01 AM-9.0300-126.3800-1.5,05 October 2026 - 03:01 AM,9.03,126.38,32.0,1.5,012  km N 58° E of Bayabas (Surigao Del Sur),October,2026
+05 October 2026 - 02:31 AM-7.8100-121.5000-2.7,05 October 2026 - 02:31 AM,7.81,121.5,19.0,2.7,071  km N 90° W of Baliguian (Zamboanga Del Norte),October,2026
+05 October 2026 - 02:00 AM-9.6900-126.5200-2.4,05 October 2026 - 02:00 AM,9.69,126.52,28.0,2.4,042  km S 76° E of General Luna (Surigao Del Norte),October,2026
+05 October 2026 - 01:07 AM-19.9300-121.7200-2.6,05 October 2026 - 01:07 AM,19.93,121.72,28.0,2.6,047  km S 20° W of Sabtang (Batanes),October,2026
 05 October 2026 - 01:02 AM-5.1800-125.3600-2.6,05 October 2026 - 01:02 AM,5.18,125.36,7.0,2.6,027  km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
 05 October 2026 - 12:56 AM-9.6100-126.1800-2.5,05 October 2026 - 12:56 AM,9.61,126.18,25.0,2.5,019  km S 08° E of General Luna (Surigao Del Norte),October,2026
-05 October 2026 - 12:43 AM-8.0000-126.7000-2.1,05 October 2026 - 12:43 AM,8.0,126.7,42.0,2.1,032  km S 82° E of Lingig (Surigao Del Sur),October,2026
-04 October 2026 - 11:52 PM-6.5200-126.4300-3.9,04 October 2026 - 11:52 PM,6.52,126.43,23.0,3.9,042  km S 69° E of Governor Generoso (Davao Oriental),October,2026
+05 October 2026 - 12:43 AM-8.0800-126.4800-1.8,05 October 2026 - 12:43 AM,8.08,126.48,33.0,1.8,009  km N 60° E of Lingig (Surigao Del Sur),October,2026
+04 October 2026 - 11:52 PM-6.5200-126.5500-3.9,04 October 2026 - 11:52 PM,6.52,126.55,29.0,3.9,054  km S 74° E of Governor Generoso (Davao Oriental),October,2026
 04 October 2026 - 11:44 PM-6.8100-125.7200-2.0,04 October 2026 - 11:44 PM,6.81,125.72,31.0,2.0,030  km S 03° E of Island Garden City Of Samal (Davao Del Norte),October,2026
-04 October 2026 - 11:38 PM-6.5100-126.4900-3.1,04 October 2026 - 11:38 PM,6.51,126.49,26.0,3.1,049  km S 71° E of Governor Generoso (Davao Oriental),October,2026
-04 October 2026 - 11:22 PM-12.8600-122.9900-2.2,04 October 2026 - 11:22 PM,12.86,122.99,13.0,2.2,028  km S 81° W of Claveria (Masbate),October,2026
+04 October 2026 - 11:38 PM-6.5700-126.4600-3.1,04 October 2026 - 11:38 PM,6.57,126.46,24.0,3.1,043  km S 78° E of Governor Generoso (Davao Oriental),October,2026
+04 October 2026 - 11:22 PM-12.8200-122.9900-2.3,04 October 2026 - 11:22 PM,12.82,122.99,6.0,2.3,029  km S 72° W of Claveria (Masbate),October,2026
 04 October 2026 - 11:19 PM-5.4700-125.1800-1.6,04 October 2026 - 11:19 PM,5.47,125.18,33.0,1.6,028  km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-04 October 2026 - 11:10 PM-5.7600-125.3700-1.9,04 October 2026 - 11:10 PM,5.76,125.37,21.0,1.9,019  km S 69° E of Glan (Sarangani),October,2026
-04 October 2026 - 10:58 PM-4.0700-125.7700-3.1,04 October 2026 - 10:58 PM,4.07,125.77,129.0,3.1,140  km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+04 October 2026 - 11:10 PM-5.9200-125.2300-1.9,04 October 2026 - 11:10 PM,5.92,125.23,20.0,1.9,007  km S 78° W of Malapatan (Sarangani),October,2026
+04 October 2026 - 10:58 PM-4.2700-125.8500-3.1,04 October 2026 - 10:58 PM,4.27,125.85,158.0,3.1,135  km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
 04 October 2026 - 10:51 PM-12.9500-123.1100-1.8,04 October 2026 - 10:51 PM,12.95,123.11,9.0,1.8,016  km N 72° W of Claveria (Masbate),October,2026
 04 October 2026 - 10:44 PM-4.3400-125.0200-3.2,04 October 2026 - 10:44 PM,4.34,125.02,7.0,3.2,040  km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-04 October 2026 - 10:22 PM-12.2800-120.7100-1.8,04 October 2026 - 10:22 PM,12.28,120.71,33.0,1.8,034  km S 54° W of Rizal (Occidental Mindoro),October,2026
+04 October 2026 - 10:22 PM-12.2900-120.6800-1.8,04 October 2026 - 10:22 PM,12.29,120.68,11.0,1.8,037  km S 59° W of Rizal (Occidental Mindoro),October,2026
 04 October 2026 - 09:34 PM-16.3000-119.5100-3.2,04 October 2026 - 09:34 PM,16.3,119.51,16.0,3.2,038  km N 56° W of Agno (Pangasinan),October,2026
 04 October 2026 - 09:33 PM-12.2500-120.7000-1.6,04 October 2026 - 09:33 PM,12.25,120.7,9.0,1.6,037  km S 51° W of Rizal (Occidental Mindoro),October,2026
 04 October 2026 - 09:13 PM-19.4200-121.7100-1.7,04 October 2026 - 09:13 PM,19.42,121.71,11.0,1.7,023  km S 65° W of Babuyan Island (Calayan) (Cagayan),October,2026
-04 October 2026 - 07:33 PM-16.3600-122.1000-1.8,04 October 2026 - 07:33 PM,16.36,122.1,8.0,1.8,010  km N 16° W of Casiguran (Aurora),October,2026
-04 October 2026 - 07:27 PM-13.9800-120.3100-2.0,04 October 2026 - 07:27 PM,13.98,120.31,62.0,2.0,024  km N 58° E of Lubang (Occidental Mindoro),October,2026
-04 October 2026 - 07:21 PM-5.3300-125.4400-2.7,04 October 2026 - 07:21 PM,5.33,125.44,38.0,2.7,009  km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
-04 October 2026 - 07:11 PM-7.1200-127.1000-3.5,04 October 2026 - 07:11 PM,7.12,127.1,39.0,3.5,062  km S 81° E of Manay (Davao Oriental),October,2026
-04 October 2026 - 06:38 PM-7.2000-124.6400-2.0,04 October 2026 - 06:38 PM,7.2,124.64,35.0,2.0,007  km N 54° E of Aleosan (Cotabato),October,2026
-04 October 2026 - 06:07 PM-13.2200-120.4400-2.5,04 October 2026 - 06:07 PM,13.22,120.44,23.0,2.5,017  km S 89° W of Mamburao (Occidental Mindoro),October,2026
-04 October 2026 - 06:06 PM-7.4200-126.5600-2.9,04 October 2026 - 06:06 PM,7.42,126.56,14.0,2.9,010  km N 06° W of Caraga (Davao Oriental),October,2026
+04 October 2026 - 07:33 PM-16.3100-122.0300-1.8,04 October 2026 - 07:33 PM,16.31,122.03,14.0,1.8,010  km N 72° W of Casiguran (Aurora),October,2026
+04 October 2026 - 07:27 PM-13.9700-120.2700-2.0,04 October 2026 - 07:27 PM,13.97,120.27,62.0,2.0,020  km N 54° E of Lubang (Occidental Mindoro),October,2026
+04 October 2026 - 07:21 PM-5.5000-125.3500-2.7,04 October 2026 - 07:21 PM,5.5,125.35,18.0,2.7,012  km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),October,2026
+04 October 2026 - 07:11 PM-7.2600-126.8300-3.5,04 October 2026 - 07:11 PM,7.26,126.83,31.0,3.5,033  km N 81° E of Manay (Davao Oriental),October,2026
+04 October 2026 - 06:38 PM-7.1200-124.7900-2.0,04 October 2026 - 06:38 PM,7.12,124.79,32.0,2.0,004  km N 71° W of Kabacan (Cotabato),October,2026
+04 October 2026 - 06:07 PM-13.1900-120.4500-2.5,04 October 2026 - 06:07 PM,13.19,120.45,17.0,2.5,017  km S 77° W of Mamburao (Occidental Mindoro),October,2026
+04 October 2026 - 06:06 PM-7.4300-126.8800-2.9,04 October 2026 - 06:06 PM,7.43,126.88,23.0,2.9,036  km N 71° E of Caraga (Davao Oriental),October,2026
 04 October 2026 - 04:47 PM-14.1200-124.6900-3.1,04 October 2026 - 04:47 PM,14.12,124.69,24.0,3.1,048  km N 65° E of Bagamanoc (Catanduanes),October,2026
 04 October 2026 - 04:35 PM-9.6200-126.0900-1.7,04 October 2026 - 04:35 PM,9.62,126.09,28.0,1.7,014  km N 88° E of Socorro (Surigao Del Norte),October,2026
 04 October 2026 - 04:28 PM-14.3000-124.3500-2.1,04 October 2026 - 04:28 PM,14.3,124.35,30.0,2.1,034  km N 34° E of Pandan (Catanduanes),October,2026
